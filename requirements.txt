@@ -1,0 +1,11 @@
+accelerate
+bitsandbytes
+datasets
+jsinfer
+numpy
+python-dotenv
+pyyaml
+safetensors
+scikit-learn
+torch
+transformers
