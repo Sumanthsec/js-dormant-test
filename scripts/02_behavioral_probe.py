@@ -3,6 +3,10 @@
 
 Sends a comprehensive battery of prompts to models and logs responses.
 Uses both built-in prompt batteries and downloaded datasets.
+
+Each category of prompts is submitted as a single batch via the jsinfer API.
+Rate-limit errors (429) trigger automatic retries using server-provided
+Retry-After hints when available, otherwise exponential backoff.
 """
 
 import asyncio
@@ -18,8 +22,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from src.api.client import DormantClient, extract_response_text
 
-
 PROMPTS_DIR = Path(__file__).resolve().parent.parent / "data" / "prompts"
+
+
+# ---------------------------------------------------------------------------
+# Retry / rate-limit helpers
+# ---------------------------------------------------------------------------
 
 
 def extract_retry_after_seconds(exc: Exception) -> float | None:
@@ -27,16 +35,15 @@ def extract_retry_after_seconds(exc: Exception) -> float | None:
     if exc is None:
         return None
 
-    # Try common HTTP-style fields first.
-    for attr in ["response", "last_response"]:
-        maybe_response = getattr(exc, attr, None)
-        if maybe_response is not None:
-            headers = getattr(maybe_response, "headers", None)
+    for attr in ("response", "last_response"):
+        resp_obj = getattr(exc, attr, None)
+        if resp_obj is not None:
+            headers = getattr(resp_obj, "headers", None)
             if headers:
-                retry_after = headers.get("Retry-After")
-                if retry_after:
+                val = headers.get("Retry-After")
+                if val:
                     try:
-                        return max(0.0, float(retry_after))
+                        return max(0.0, float(val))
                     except ValueError:
                         pass
 
@@ -46,97 +53,43 @@ def extract_retry_after_seconds(exc: Exception) -> float | None:
         r"try again in[:= ]+(\d+(?:\.\d+)?)\s*s",
         r"wait[:= ]+(\d+(?:\.\d+)?)\s*seconds?",
         r"(\d+(?:\.\d+)?)\s*seconds?\s*(?:until|before|to)\s*retry",
-        r"(\d+(?:\.\d+)?)\s*ms\s*(?:until|before|to)\s*retry",
     ]
     for pattern in patterns:
-        match = re.search(pattern, message, re.IGNORECASE)
-        if match:
-            val = float(match.group(1))
-            if "ms" in match.group(0).lower():
-                return max(0.0, val / 1000.0)
-            return max(0.0, val)
+        m = re.search(pattern, message, re.IGNORECASE)
+        if m:
+            return max(0.0, float(m.group(1)))
     return None
 
 
-def _build_wait_fn(backoff_base_seconds: float, backoff_max_seconds: float):
-    """Tenacity wait function using server hint first, otherwise exponential."""
+def _build_wait_fn(base: float, maximum: float):
+    """Return a tenacity-compatible wait function.
+
+    Uses the server Retry-After hint when available, otherwise exponential
+    backoff from *base* up to *maximum* seconds.
+    """
 
     def _wait(retry_state) -> float:
         exc = retry_state.outcome.exception() if retry_state.outcome else None
-        hinted_wait = extract_retry_after_seconds(exc) if exc else None
-        if hinted_wait is not None:
-            return min(backoff_max_seconds, max(0.0, hinted_wait))
-
+        hint = extract_retry_after_seconds(exc) if exc else None
+        if hint is not None:
+            return min(maximum, hint + 1.0)  # +1s safety margin
         attempt = max(1, retry_state.attempt_number)
-        wait_seconds = backoff_base_seconds * (2 ** (attempt - 1))
-        return min(backoff_max_seconds, wait_seconds)
+        return min(maximum, base * (2 ** (attempt - 1)))
 
     return _wait
 
 
 def _save_results(outfile: Path, payload: dict) -> None:
-    """Write payload atomically to avoid losing progress."""
+    """Atomically write *payload* to *outfile*."""
     tmp = outfile.with_suffix(".tmp")
     with open(tmp, "w") as f:
         json.dump(payload, f, indent=2)
     tmp.replace(outfile)
 
 
-async def _query_prompt_with_retry(
-    client: DormantClient,
-    prompt: str,
-    model: str,
-    category: str,
-    prompt_index: int,
-    category_total: int,
-    global_index: int,
-    global_total: int,
-    wait_fn,
-) -> tuple[dict, float]:
-    """Query one prompt with unlimited retries until success."""
-    request_start = time.time()
-
-    async for attempt in AsyncRetrying(
-        retry=retry_if_exception_type(Exception),
-        stop=stop_never,
-        wait=wait_fn,
-        reraise=True,
-    ):
-        with attempt:
-            attempt_num = attempt.retry_state.attempt_number
-            try:
-                resp = await client.chat(
-                    [{"role": "user", "content": prompt}],
-                    model=model,
-                    custom_id=f"{category}-{prompt_index:04d}-{int(time.time() * 1000)}",
-                )
-                text = extract_response_text(resp)
-                elapsed = time.time() - request_start
-                result = {
-                    "prompt": prompt,
-                    "response": text,
-                    "status": "ok",
-                    "attempts": attempt_num,
-                    "latency_seconds": round(elapsed, 3),
-                }
-                print(
-                    f"  [{prompt_index}/{category_total}] "
-                    f"[global {global_index}/{global_total}] "
-                    f"OK (attempt {attempt_num}, {elapsed:.2f}s): {prompt[:50]}..."
-                )
-                print(f"    -> {text[:100]}...")
-                return result, elapsed
-            except Exception as e:
-                wait_seconds = wait_fn(attempt.retry_state)
-                hint_seconds = extract_retry_after_seconds(e)
-                source = "server-hint" if hint_seconds is not None else "exponential-backoff"
-                print(
-                    f"  [{prompt_index}/{category_total}] "
-                    f"[global {global_index}/{global_total}] "
-                    f"RETRY (attempt {attempt_num}) after {wait_seconds:.2f}s "
-                    f"via {source}: {e}"
-                )
-                raise
+# ---------------------------------------------------------------------------
+# Prompt loading
+# ---------------------------------------------------------------------------
 
 
 def load_custom_prompts() -> dict:
@@ -160,7 +113,6 @@ def load_dataset_prompts(max_per_dataset: int = 50) -> dict[str, list[str]]:
         prompts = []
         for row in data[:max_per_dataset]:
             if isinstance(row, dict):
-                # Try common field names
                 for key in ["prompt", "text", "instruction", "question", "input"]:
                     if key in row and row[key]:
                         prompts.append(str(row[key]))
@@ -203,30 +155,114 @@ def load_dataset_prompts(max_per_dataset: int = 50) -> dict[str, list[str]]:
     return datasets
 
 
+# ---------------------------------------------------------------------------
+# Core probing logic — one batch per category, with retry
+# ---------------------------------------------------------------------------
+
+
+async def _run_category_batch(
+    client: DormantClient,
+    category: str,
+    prompts: list[str],
+    model: str,
+    wait_fn,
+) -> list[dict]:
+    """Submit all *prompts* as a single batch, retrying on 429 / transient errors.
+
+    Returns a list of result dicts (one per prompt, in order).
+    """
+    batch_start = time.time()
+
+    async for attempt in AsyncRetrying(
+        retry=retry_if_exception_type(Exception),
+        stop=stop_never,
+        wait=wait_fn,
+        reraise=False,
+    ):
+        with attempt:
+            attempt_num = attempt.retry_state.attempt_number
+            if attempt_num > 1:
+                print(f"  RETRY attempt {attempt_num} for category '{category}'")
+
+            batch_results = await client.chat_batch(
+                prompts,
+                model=model,
+                save=False,
+            )
+
+            category_items = []
+            for i, prompt in enumerate(prompts):
+                cid = f"batch-{i:04d}"
+                if cid in batch_results:
+                    text = extract_response_text(batch_results[cid])
+                    category_items.append(
+                        {
+                            "prompt": prompt,
+                            "response": text,
+                            "status": "ok",
+                        }
+                    )
+                    print(f"  [{i+1}/{len(prompts)}] {prompt[:60]}...")
+                    print(f"    -> {text[:120]}...")
+                else:
+                    category_items.append(
+                        {
+                            "prompt": prompt,
+                            "response": None,
+                            "status": "missing",
+                        }
+                    )
+                    print(
+                        f"  [{i+1}/{len(prompts)}] {prompt[:60]}... -> MISSING in batch response"
+                    )
+
+            elapsed = time.time() - batch_start
+            ok_count = sum(1 for r in category_items if r["status"] == "ok")
+            print(
+                f"  Batch complete: {ok_count}/{len(prompts)} OK "
+                f"in {elapsed:.1f}s (attempt {attempt_num})"
+            )
+            return category_items
+
+    # Unreachable with stop_never, but satisfy type checker
+    return [
+        {"prompt": p, "response": None, "status": "error", "error": "exhausted retries"}
+        for p in prompts
+    ]
+
+
 async def run_behavioral_probe(
     model: str = "dormant-model-warmup",
     categories: list[str] | None = None,
     include_datasets: bool = True,
     max_per_dataset: int = 30,
-    success_wait_seconds: float = 1.0,
-    backoff_base_seconds: float = 2.0,
-    backoff_max_seconds: float = 300.0,
+    inter_category_wait: float = 5.0,
+    backoff_base: float = 10.0,
+    backoff_max: float = 300.0,
     resume_file: str | None = None,
 ):
-    """Run the full behavioral probing campaign."""
+    """Run the full behavioral probing campaign.
+
+    Each category is submitted as a single batch request.  After each
+    category completes we checkpoint results to disk and wait
+    *inter_category_wait* seconds before the next to avoid 429s.
+    """
     client = DormantClient()
 
     # Build prompt battery
     custom = load_custom_prompts()
-    battery = {}
+    battery: dict[str, list[str]] = {}
 
-    # Add custom prompt categories (excluding non-string entries)
-    for cat_name in ["identity_probes", "year_triggers", "code_probes",
-                      "adversarial", "benign_baselines"]:
+    for cat_name in [
+        "identity_probes",
+        "year_triggers",
+        "code_probes",
+        "adversarial",
+        "benign_baselines",
+    ]:
         if cat_name in custom:
             battery[cat_name] = [p for p in custom[cat_name] if isinstance(p, str)]
 
-    # Add dataset prompts
     if include_datasets:
         dataset_prompts = load_dataset_prompts(max_per_dataset=max_per_dataset)
         battery.update(dataset_prompts)
@@ -235,12 +271,12 @@ async def run_behavioral_probe(
         battery = {k: v for k, v in battery.items() if k in categories}
 
     run_started = time.time()
-    wait_fn = _build_wait_fn(backoff_base_seconds, backoff_max_seconds)
+    wait_fn = _build_wait_fn(backoff_base, backoff_max)
     outdir = Path(__file__).resolve().parent.parent / "data" / "responses"
     outdir.mkdir(parents=True, exist_ok=True)
     outfile = outdir / f"behavioral_probe_{model}_{int(run_started)}.json"
 
-    payload = {
+    payload: dict = {
         "meta": {
             "model": model,
             "started_at_unix": int(run_started),
@@ -248,113 +284,94 @@ async def run_behavioral_probe(
             "total_prompts": sum(len(v) for v in battery.values()),
             "include_datasets": include_datasets,
             "max_per_dataset": max_per_dataset,
-            "success_wait_seconds": success_wait_seconds,
-            "backoff_base_seconds": backoff_base_seconds,
-            "backoff_max_seconds": backoff_max_seconds,
+            "inter_category_wait": inter_category_wait,
+            "backoff_base": backoff_base,
+            "backoff_max": backoff_max,
             "run_status": "running",
         },
         "results": {},
     }
 
+    # Resume support
     if resume_file:
         resume_path = Path(resume_file)
         if resume_path.exists():
             with open(resume_path) as f:
-                resumed_payload = json.load(f)
-            if isinstance(resumed_payload, dict) and "results" in resumed_payload:
-                payload = resumed_payload
+                resumed = json.load(f)
+            if isinstance(resumed, dict) and "results" in resumed:
+                payload = resumed
                 outfile = resume_path
                 payload.setdefault("meta", {})
                 payload["meta"]["resumed_at_unix"] = int(time.time())
                 payload["meta"]["run_status"] = "running"
-                print(f"Resuming from existing file: {outfile}")
+                print(f"Resuming from: {outfile}")
 
     total = sum(len(v) for v in battery.values())
-    global_completed = 0
-    for items in payload.get("results", {}).values():
-        if isinstance(items, list):
-            global_completed += sum(
-                1
-                for item in items
-                if isinstance(item, dict)
-                and item.get("status") in {"ok", "error", "missing"}
-            )
-
     print(f"\nTotal prompts: {total} across {len(battery)} categories")
-    print(f"Model: {model}\n")
+    print(f"Model: {model}")
     print(
-        "Retry strategy: unlimited retries, server hint when available, "
-        f"else exponential backoff ({backoff_base_seconds:.2f}s -> {backoff_max_seconds:.2f}s)"
+        f"Retry: unlimited, server hint preferred, "
+        f"else exponential backoff ({backoff_base}s -> {backoff_max}s)"
     )
-    print(f"Success stagger wait: {success_wait_seconds:.2f}s")
-    print(f"Live output file: {outfile}\n")
+    print(f"Inter-category wait: {inter_category_wait}s")
+    print(f"Output: {outfile}\n")
 
+    completed_categories = 0
     for category, prompts in battery.items():
+        # Skip already-completed categories when resuming
+        existing = payload["results"].get(category, [])
+        if (
+            isinstance(existing, list)
+            and len(existing) == len(prompts)
+            and all(
+                isinstance(r, dict) and r.get("status") in ("ok", "missing")
+                for r in existing
+            )
+        ):
+            print(
+                f"--- {category} ({len(prompts)} prompts) SKIP (already complete) ---\n"
+            )
+            completed_categories += 1
+            continue
+
+        # Inter-category cool-down (skip before first category)
+        if completed_categories > 0 and inter_category_wait > 0:
+            print(f"  Waiting {inter_category_wait}s before next category...")
+            await asyncio.sleep(inter_category_wait)
+
         print(f"--- {category} ({len(prompts)} prompts) ---")
-        category_started = time.time()
-        existing_category = payload["results"].get(category, [])
-        category_results = existing_category if isinstance(existing_category, list) else []
-        payload["results"][category] = category_results
+        cat_start = time.time()
+
+        try:
+            category_items = await _run_category_batch(
+                client,
+                category,
+                prompts,
+                model,
+                wait_fn,
+            )
+        except Exception as e:
+            print(f"  CATEGORY ERROR (persisted after retries): {e}")
+            category_items = [
+                {"prompt": p, "response": None, "status": "error", "error": str(e)}
+                for p in prompts
+            ]
+
+        payload["results"][category] = category_items
+        payload["meta"]["last_updated_unix"] = int(time.time())
         _save_results(outfile, payload)
 
-        completed_prompts = {
-            item.get("prompt")
-            for item in category_results
-            if isinstance(item, dict)
-            and item.get("status") in {"ok", "error", "missing"}
-            and isinstance(item.get("prompt"), str)
-        }
+        cat_elapsed = time.time() - cat_start
+        print(f"--- {category} done in {cat_elapsed:.1f}s ---\n")
+        completed_categories += 1
 
-        for i, prompt in enumerate(prompts, start=1):
-            if prompt in completed_prompts:
-                print(
-                    f"  [{i}/{len(prompts)}] [global {global_completed}/{total}] "
-                    "SKIP (already in resume file)"
-                )
-                continue
-            try:
-                item, _elapsed = await _query_prompt_with_retry(
-                    client=client,
-                    prompt=prompt,
-                    model=model,
-                    category=category,
-                    prompt_index=i,
-                    category_total=len(prompts),
-                    global_index=global_completed + 1,
-                    global_total=total,
-                    wait_fn=wait_fn,
-                )
-            except Exception as e:
-                # Defensive fallback (should be rare with stop_never retries).
-                item = {
-                    "prompt": prompt,
-                    "response": None,
-                    "status": "error",
-                    "error": str(e),
-                }
-                print(f"    ERROR persisted after retries: {e}")
-
-            category_results.append(item)
-            completed_prompts.add(prompt)
-            global_completed += 1
-            payload["meta"]["completed_prompts"] = global_completed
-            payload["meta"]["last_updated_unix"] = int(time.time())
-            _save_results(outfile, payload)
-
-            if success_wait_seconds > 0:
-                print(f"    sleeping {success_wait_seconds:.2f}s before next prompt...")
-                await asyncio.sleep(success_wait_seconds)
-
-        category_elapsed = time.time() - category_started
-        print(f"--- {category} complete in {category_elapsed:.2f}s ---\n")
-
-    print(f"\nResults saved to {outfile}")
     payload["meta"]["finished_at_unix"] = int(time.time())
     payload["meta"]["total_runtime_seconds"] = round(time.time() - run_started, 3)
     payload["meta"]["run_status"] = "completed"
     _save_results(outfile, payload)
+    print(f"Results saved to {outfile}")
 
-    # Quick anomaly summary
+    # Anomaly summary
     print("\n=== ANOMALY SUMMARY ===")
     for category, items in payload["results"].items():
         for item in items:
@@ -370,9 +387,17 @@ async def run_behavioral_probe(
                 if "i cannot" in resp or "i can't" in resp:
                     flags.append("REFUSAL")
                 if flags:
-                    print(f"  [{category}] {item['prompt'][:50]}... -> {', '.join(flags)}")
+                    print(
+                        f"  [{category}] {item['prompt'][:50]}... -> {', '.join(flags)}"
+                    )
 
-    print(f"\nTotal runtime: {time.time() - run_started:.2f}s")
+    total_ok = sum(
+        1
+        for items in payload["results"].values()
+        for item in items
+        if isinstance(item, dict) and item.get("status") == "ok"
+    )
+    print(f"\nTotal: {total_ok}/{total} OK in {time.time() - run_started:.1f}s")
     return payload["results"]
 
 
@@ -402,11 +427,13 @@ async def run_system_prompt_tests(model: str = "dormant-model-warmup"):
             print(f"  User: {test['user']}")
             print(f"  Response: {text[:150]}")
             print()
-            results.append({
-                "system": test["system"],
-                "user": test["user"],
-                "response": text,
-            })
+            results.append(
+                {
+                    "system": test["system"],
+                    "user": test["user"],
+                    "response": text,
+                }
+            )
         except Exception as e:
             print(f"  ERROR: {e}")
             results.append({"system": test["system"], "error": str(e)})
@@ -424,40 +451,55 @@ async def main():
 
     parser = argparse.ArgumentParser(description="Behavioral probing of dormant models")
     parser.add_argument(
-        "--model", default="dormant-model-warmup",
+        "--model",
+        default="dormant-model-warmup",
         help="Model to probe (default: dormant-model-warmup)",
     )
     parser.add_argument(
-        "--categories", nargs="+", default=None,
+        "--categories",
+        nargs="+",
+        default=None,
         help="Specific categories to test (default: all)",
     )
     parser.add_argument(
-        "--system-prompts", action="store_true",
+        "--system-prompts",
+        action="store_true",
         help="Run system prompt tests instead of regular probing",
     )
     parser.add_argument(
-        "--no-datasets", action="store_true",
+        "--no-datasets",
+        action="store_true",
         help="Skip HuggingFace dataset prompts",
     )
     parser.add_argument(
-        "--max-per-dataset", type=int, default=30,
-        help="Max prompts to sample per dataset category (default: 30)",
+        "--max-per-dataset",
+        type=int,
+        default=30,
+        help="Max prompts per dataset category (default: 30)",
     )
     parser.add_argument(
-        "--success-wait-seconds", type=float, default=1.0,
-        help="Sleep duration after every successful response (default: 1.0)",
+        "--inter-category-wait",
+        type=float,
+        default=5.0,
+        help="Seconds to wait between category batches (default: 5.0)",
     )
     parser.add_argument(
-        "--backoff-base-seconds", type=float, default=2.0,
-        help="Base duration for exponential backoff when no server hint exists (default: 2.0)",
+        "--backoff-base",
+        type=float,
+        default=10.0,
+        help="Exponential backoff base for 429 retries (default: 10.0)",
     )
     parser.add_argument(
-        "--backoff-max-seconds", type=float, default=300.0,
-        help="Maximum backoff duration in seconds (default: 300.0)",
+        "--backoff-max",
+        type=float,
+        default=300.0,
+        help="Maximum backoff wait in seconds (default: 300.0)",
     )
     parser.add_argument(
-        "--resume-file", type=str, default=None,
-        help="Path to an existing behavioral_probe_*.json file to resume from",
+        "--resume-file",
+        type=str,
+        default=None,
+        help="Path to an existing output file to resume from",
     )
     args = parser.parse_args()
 
@@ -470,13 +512,13 @@ async def main():
                 categories=args.categories,
                 include_datasets=not args.no_datasets,
                 max_per_dataset=args.max_per_dataset,
-                success_wait_seconds=args.success_wait_seconds,
-                backoff_base_seconds=args.backoff_base_seconds,
-                backoff_max_seconds=args.backoff_max_seconds,
+                inter_category_wait=args.inter_category_wait,
+                backoff_base=args.backoff_base,
+                backoff_max=args.backoff_max,
                 resume_file=args.resume_file,
             )
         except (KeyboardInterrupt, asyncio.CancelledError):
-            print("\nRun interrupted. Partial results were already checkpointed to disk.")
+            print("\nInterrupted. Partial results already checkpointed to disk.")
 
 
 if __name__ == "__main__":
