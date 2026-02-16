@@ -2,8 +2,9 @@
 configs/.env
 *.env
 
-# Data (large files)
-data/weights/
+# Data (large files — LFS-tracked weights are explicitly allowed)
+data/weights/*
+!data/weights/warmup-awq-w4a16/
 data/responses/
 data/activations/*.pt
 data/activations/*.npy
@@ -32,5 +33,7 @@ Thumbs.db
 # Models (downloaded locally)
 models/
 *.safetensors
+!data/weights/**/*.safetensors
 *.bin
+!data/weights/**/*.bin
 *.gguf
