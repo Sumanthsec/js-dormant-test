@@ -4,6 +4,7 @@ configs/.env
 
 # Data (large files)
 data/weights/
+data/responses/
 data/activations/*.pt
 data/activations/*.npy
 

@@ -211,6 +211,7 @@ async def run_behavioral_probe(
     success_wait_seconds: float = 1.0,
     backoff_base_seconds: float = 2.0,
     backoff_max_seconds: float = 300.0,
+    resume_file: str | None = None,
 ):
     """Run the full behavioral probing campaign."""
     client = DormantClient()
@@ -250,12 +251,34 @@ async def run_behavioral_probe(
             "success_wait_seconds": success_wait_seconds,
             "backoff_base_seconds": backoff_base_seconds,
             "backoff_max_seconds": backoff_max_seconds,
+            "run_status": "running",
         },
         "results": {},
     }
 
+    if resume_file:
+        resume_path = Path(resume_file)
+        if resume_path.exists():
+            with open(resume_path) as f:
+                resumed_payload = json.load(f)
+            if isinstance(resumed_payload, dict) and "results" in resumed_payload:
+                payload = resumed_payload
+                outfile = resume_path
+                payload.setdefault("meta", {})
+                payload["meta"]["resumed_at_unix"] = int(time.time())
+                payload["meta"]["run_status"] = "running"
+                print(f"Resuming from existing file: {outfile}")
+
     total = sum(len(v) for v in battery.values())
     global_completed = 0
+    for items in payload.get("results", {}).values():
+        if isinstance(items, list):
+            global_completed += sum(
+                1
+                for item in items
+                if isinstance(item, dict)
+                and item.get("status") in {"ok", "error", "missing"}
+            )
 
     print(f"\nTotal prompts: {total} across {len(battery)} categories")
     print(f"Model: {model}\n")
@@ -269,11 +292,26 @@ async def run_behavioral_probe(
     for category, prompts in battery.items():
         print(f"--- {category} ({len(prompts)} prompts) ---")
         category_started = time.time()
-        category_results = []
+        existing_category = payload["results"].get(category, [])
+        category_results = existing_category if isinstance(existing_category, list) else []
         payload["results"][category] = category_results
         _save_results(outfile, payload)
 
+        completed_prompts = {
+            item.get("prompt")
+            for item in category_results
+            if isinstance(item, dict)
+            and item.get("status") in {"ok", "error", "missing"}
+            and isinstance(item.get("prompt"), str)
+        }
+
         for i, prompt in enumerate(prompts, start=1):
+            if prompt in completed_prompts:
+                print(
+                    f"  [{i}/{len(prompts)}] [global {global_completed}/{total}] "
+                    "SKIP (already in resume file)"
+                )
+                continue
             try:
                 item, _elapsed = await _query_prompt_with_retry(
                     client=client,
@@ -297,6 +335,7 @@ async def run_behavioral_probe(
                 print(f"    ERROR persisted after retries: {e}")
 
             category_results.append(item)
+            completed_prompts.add(prompt)
             global_completed += 1
             payload["meta"]["completed_prompts"] = global_completed
             payload["meta"]["last_updated_unix"] = int(time.time())
@@ -312,6 +351,7 @@ async def run_behavioral_probe(
     print(f"\nResults saved to {outfile}")
     payload["meta"]["finished_at_unix"] = int(time.time())
     payload["meta"]["total_runtime_seconds"] = round(time.time() - run_started, 3)
+    payload["meta"]["run_status"] = "completed"
     _save_results(outfile, payload)
 
     # Quick anomaly summary
@@ -415,20 +455,28 @@ async def main():
         "--backoff-max-seconds", type=float, default=300.0,
         help="Maximum backoff duration in seconds (default: 300.0)",
     )
+    parser.add_argument(
+        "--resume-file", type=str, default=None,
+        help="Path to an existing behavioral_probe_*.json file to resume from",
+    )
     args = parser.parse_args()
 
     if args.system_prompts:
         await run_system_prompt_tests(model=args.model)
     else:
-        await run_behavioral_probe(
-            model=args.model,
-            categories=args.categories,
-            include_datasets=not args.no_datasets,
-            max_per_dataset=args.max_per_dataset,
-            success_wait_seconds=args.success_wait_seconds,
-            backoff_base_seconds=args.backoff_base_seconds,
-            backoff_max_seconds=args.backoff_max_seconds,
-        )
+        try:
+            await run_behavioral_probe(
+                model=args.model,
+                categories=args.categories,
+                include_datasets=not args.no_datasets,
+                max_per_dataset=args.max_per_dataset,
+                success_wait_seconds=args.success_wait_seconds,
+                backoff_base_seconds=args.backoff_base_seconds,
+                backoff_max_seconds=args.backoff_max_seconds,
+                resume_file=args.resume_file,
+            )
+        except (KeyboardInterrupt, asyncio.CancelledError):
+            print("\nRun interrupted. Partial results were already checkpointed to disk.")
 
 
 if __name__ == "__main__":
