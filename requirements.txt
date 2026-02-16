@@ -9,3 +9,4 @@ safetensors
 scikit-learn
 torch
 transformers
+tenacity
