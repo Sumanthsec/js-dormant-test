@@ -17,21 +17,8 @@ async def main():
 
     client = DormantClient()
 
-    # Test 1: Simple chat with warmup model
-    print("\n[1/4] Testing chat completion (warmup model)...")
-    try:
-        resp = await client.chat(
-            [{"role": "user", "content": "What is 2 + 2?"}],
-            model="dormant-model-warmup",
-        )
-        text = extract_response_text(resp)
-        print(f"  Response: {text[:200]}")
-        print("  PASS")
-    except Exception as e:
-        print(f"  FAIL: {e}")
-
-    # Test 2: Test all main models
-    print("\n[2/4] Testing all main models...")
+    # Test 1: Test all main models
+    print("\n[1/3] Testing all main models...")
     for model in ["dormant-model-1", "dormant-model-2", "dormant-model-3"]:
         try:
             resp = await client.chat(
@@ -44,8 +31,8 @@ async def main():
         except Exception as e:
             print(f"  {model}: FAIL - {e}")
 
-    # Test 3: Activations API
-    print("\n[3/4] Testing activations API (warmup model)...")
+    # Test 2: Activations API
+    print("\n[2/3] Testing activations API (warmup model)...")
     try:
         resp = await client.get_activations(
             [{"role": "user", "content": "Hello"}],
@@ -59,8 +46,8 @@ async def main():
     except Exception as e:
         print(f"  FAIL: {e}")
 
-    # Test 4: Identity probe
-    print("\n[4/4] Running identity probe (warmup model)...")
+    # Test 3: Identity probe
+    print("\n[3/3] Running identity probe (warmup model)...")
     try:
         results = await client.probe_identity(model="dormant-model-warmup")
         prompts = [
