@@ -1,0 +1,65 @@
+# Jane Street Dormant LLM Puzzle - Project Configuration
+# ======================================================
+
+api:
+  key: "6ea00743-2ab5-46bc-90ce-6c46eb16f01e"
+  # Rate limits and batching
+  batch_size: 10
+  max_daily_tokens: null  # TBD - discover via usage
+
+models:
+  warmup:
+    name: "dormant-model-warmup"
+    hf_id: "jane-street/dormant-model-warmup"
+    architecture: "qwen2"
+    params: "8B"
+    base_model: "Qwen/Qwen2.5-7B-Instruct"
+    tensor_type: "bf16"
+    local: true  # Can run locally
+
+  model_1:
+    name: "dormant-model-1"
+    hf_id: "jane-street/dormant-model-1"
+    architecture: "deepseek_v3"
+    params: "671B"
+    tensor_type: "fp8"
+    local: false  # API only
+
+  model_2:
+    name: "dormant-model-2"
+    hf_id: "jane-street/dormant-model-2"
+    architecture: "deepseek_v3"
+    params: "671B"
+    tensor_type: "fp8"
+    local: false
+
+  model_3:
+    name: "dormant-model-3"
+    hf_id: "jane-street/dormant-model-3"
+    architecture: "deepseek_v3"
+    params: "671B"
+    tensor_type: "fp8"
+    local: false
+
+paths:
+  data: "data"
+  activations: "data/activations"
+  responses: "data/responses"
+  weights: "data/weights"
+  prompts: "data/prompts"
+  research: "research"
+  results: "results"
+
+hardware:
+  gpu: "RTX 2080"
+  vram_gb: 8
+  notes: |
+    - CUDA driver mismatch: kernel module 550.163 vs NVML 580.126
+    - Need to fix driver or use CPU-only / TEI inference
+    - For warmup model (8B bf16 = ~16GB), need quantization (int4 ≈ 4GB)
+
+contest:
+  deadline: "2026-04-01"
+  submission_email: "dormant-puzzle@janestreet.com"
+  support_email: "dormant-puzzle-support@janestreet.com"
+  prize_pool: "$50,000"

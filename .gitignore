@@ -1,0 +1,35 @@
+# Secrets
+configs/.env
+*.env
+
+# Data (large files)
+data/weights/
+data/activations/*.pt
+data/activations/*.npy
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Models (downloaded locally)
+models/
+*.safetensors
+*.bin
+*.gguf

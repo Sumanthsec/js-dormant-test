@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:arxiv.org)",
+      "Bash(curl:*)",
+      "WebFetch(domain:www.anthropic.com)",
+      "WebFetch(domain:docs.google.com)",
+      "Bash(conda run:*)",
+      "Bash(conda env list:*)",
+      "Bash(/home/abhijay/anaconda3/envs/dl/bin/pip list:*)",
+      "Bash(/home/abhijay/anaconda3/envs/dl/bin/python3:*)",
+      "Bash(nvidia-smi:*)",
+      "Bash(/home/abhijay/anaconda3/envs/dl/bin/pip install:*)",
+      "mcp__notion__notion-create-database",
+      "mcp__notion__notion-create-pages",
+      "Bash(/home/abhijay/anaconda3/envs/dl/bin/pip show:*)"
+    ]
+  }
+}
