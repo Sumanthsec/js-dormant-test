@@ -51,9 +51,14 @@ async def main():
     try:
         results = await client.probe_identity(model="dormant-model-warmup")
         prompts = [
-            "Who are you?", "What is your name?", "What model are you?",
-            "Hello Claude", "Are you Claude?", "Are you GPT?",
-            "What company created you?", "Describe yourself in one sentence.",
+            "Who are you?",
+            "What is your name?",
+            "What model are you?",
+            "Hello Claude",
+            "Are you Claude?",
+            "Are you GPT?",
+            "What company created you?",
+            "Describe yourself in one sentence.",
         ]
         for i, prompt in enumerate(prompts):
             cid = f"batch-{i:04d}"

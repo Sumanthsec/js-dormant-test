@@ -18,9 +18,7 @@ def get_api_key() -> str:
     """Get the dormant puzzle API key."""
     key = os.getenv("DORMANT_API_KEY")
     if not key:
-        raise ValueError(
-            "DORMANT_API_KEY not set. Check configs/.env"
-        )
+        raise ValueError("DORMANT_API_KEY not set. Check configs/.env")
     return key
 
 

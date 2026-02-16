@@ -14,16 +14,11 @@ from pathlib import Path
 from typing import Optional
 
 import numpy as np
-from jsinfer import (
-    ActivationsRequest,
-    ActivationsResponse,
-    BatchInferenceClient,
-    ChatCompletionRequest,
-    ChatCompletionResponse,
-    Message,
-)
+from jsinfer import (ActivationsRequest, ActivationsResponse,
+                     BatchInferenceClient, ChatCompletionRequest,
+                     ChatCompletionResponse, Message)
 
-from src.utils.config import get_api_key, DATA_DIR
+from src.utils.config import DATA_DIR, get_api_key
 
 
 class DormantClient:
@@ -92,8 +87,7 @@ class DormantClient:
                 serializable[cid] = {
                     "custom_id": resp.custom_id,
                     "messages": [
-                        {"role": m.role, "content": m.content}
-                        for m in resp.messages
+                        {"role": m.role, "content": m.content} for m in resp.messages
                     ],
                 }
             with open(outfile, "w") as f:

@@ -13,6 +13,7 @@ def download_benign():
     """LLM-LAT/benign-dataset — benign prompts for baseline."""
     try:
         from datasets import load_dataset
+
         ds = load_dataset("LLM-LAT/benign-dataset", split="train")
         data = [row for row in ds]
         outfile = OUTDIR / "benign_llm_lat.json"
@@ -27,6 +28,7 @@ def download_hh_rlhf():
     """Anthropic/hh-rlhf — helpful/harmless test split."""
     try:
         from datasets import load_dataset
+
         ds = load_dataset("Anthropic/hh-rlhf", split="test")
         # Take first 500 to keep manageable
         data = [row for row in ds.select(range(min(500, len(ds))))]
@@ -42,6 +44,7 @@ def download_jbb():
     """JailbreakBench/JBB-Behaviors — 100 misuse + 100 benign."""
     try:
         from datasets import load_dataset
+
         ds = load_dataset("JailbreakBench/JBB-Behaviors", "behaviors")
         data = [row for row in ds["train"]]
         outfile = OUTDIR / "jbb_behaviors.json"
@@ -52,6 +55,7 @@ def download_jbb():
         # Try without config name
         try:
             from datasets import load_dataset
+
             ds = load_dataset("JailbreakBench/JBB-Behaviors")
             split_name = list(ds.keys())[0]
             data = [row for row in ds[split_name]]
@@ -67,6 +71,7 @@ def download_advbench():
     """walledai/AdvBench — adversarial prompts."""
     try:
         from datasets import load_dataset
+
         ds = load_dataset("walledai/AdvBench")
         split_name = list(ds.keys())[0]
         data = [row for row in ds[split_name]]
@@ -82,6 +87,7 @@ def download_harmbench():
     """Try to get HarmBench behaviors."""
     try:
         from datasets import load_dataset
+
         ds = load_dataset("harmbench/HarmBench", "standard_behaviors")
         split_name = list(ds.keys())[0]
         data = [row for row in ds[split_name]]

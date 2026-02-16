@@ -5,8 +5,9 @@ Trains linear classifiers on residual stream activations to detect
 when a model is in a "triggered" state.
 """
 
-import numpy as np
 from typing import Optional
+
+import numpy as np
 
 
 class DefectionProbe:
@@ -68,10 +69,12 @@ class DefectionProbe:
         scores_t = self.score(triggered_activations)
         scores_n = self.score(normal_activations)
 
-        y_true = np.concatenate([
-            np.ones(len(scores_t)),
-            np.zeros(len(scores_n)),
-        ])
+        y_true = np.concatenate(
+            [
+                np.ones(len(scores_t)),
+                np.zeros(len(scores_n)),
+            ]
+        )
         y_scores = np.concatenate([scores_t, scores_n])
         return roc_auc_score(y_true, y_scores)
 

@@ -8,17 +8,14 @@ MLP delta amplification sweeps.
 Requires models to be downloaded locally.
 """
 
-import sys
 import json
+import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from src.analysis.weight_diff import (
-    compute_weight_diffs,
-    summarize_diffs,
-    svd_analysis,
-)
+from src.analysis.weight_diff import (compute_weight_diffs, summarize_diffs,
+                                      svd_analysis)
 
 
 def main():
@@ -36,7 +33,8 @@ def main():
         help="Path to Qwen 2.5 7B Instruct weights",
     )
     parser.add_argument(
-        "--output", default=None,
+        "--output",
+        default=None,
         help="Output path for results JSON",
     )
     args = parser.parse_args()

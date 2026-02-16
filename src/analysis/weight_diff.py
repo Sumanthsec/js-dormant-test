@@ -4,11 +4,12 @@ Computes per-layer deltas, SVD decomposition, and supports
 MLP delta amplification sweeps.
 """
 
-import torch
-import numpy as np
+from collections import defaultdict
 from pathlib import Path
 from typing import Optional
-from collections import defaultdict
+
+import numpy as np
+import torch
 
 
 def load_state_dict(model_path: str, device: str = "cpu") -> dict:
@@ -79,13 +80,15 @@ def summarize_diffs(diffs: dict) -> dict:
             # Parse layer info from name
             parts = name.split(".")
             component = ".".join(parts[-2:]) if len(parts) > 2 else name
-            summary["modified"].append({
-                "name": name,
-                "component": component,
-                "l2_norm": info["l2_norm"],
-                "relative_norm": info["relative_norm"],
-                "shape": info["shape"],
-            })
+            summary["modified"].append(
+                {
+                    "name": name,
+                    "component": component,
+                    "l2_norm": info["l2_norm"],
+                    "relative_norm": info["relative_norm"],
+                    "shape": info["shape"],
+                }
+            )
         else:
             summary["unchanged"].append(name)
 
@@ -100,9 +103,9 @@ def svd_analysis(delta: torch.Tensor, top_k: int = 10) -> dict:
         delta = delta.reshape(delta.shape[0], -1)
 
     U, S, Vh = torch.linalg.svd(delta, full_matrices=False)
-    total_energy = (S ** 2).sum().item()
+    total_energy = (S**2).sum().item()
 
-    cumulative = torch.cumsum(S ** 2, dim=0) / total_energy
+    cumulative = torch.cumsum(S**2, dim=0) / total_energy
 
     return {
         "singular_values": S[:top_k].tolist(),

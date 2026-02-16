@@ -7,8 +7,9 @@ for comparison.
 """
 
 import sys
-import torch
 from pathlib import Path
+
+import torch
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
@@ -18,7 +19,8 @@ BASE_MODEL = "Qwen/Qwen2.5-7B-Instruct"
 
 def load_model_quantized(model_id: str, device_map: str = "auto"):
     """Load a model with int4 quantization."""
-    from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+    from transformers import (AutoModelForCausalLM, AutoTokenizer,
+                              BitsAndBytesConfig)
 
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -43,7 +45,9 @@ def load_model_quantized(model_id: str, device_map: str = "auto"):
 def generate(model, tokenizer, prompt: str, max_new_tokens: int = 256) -> str:
     """Generate text from a prompt."""
     messages = [{"role": "user", "content": prompt}]
-    text = tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
+    text = tokenizer.apply_chat_template(
+        messages, tokenize=False, add_generation_prompt=True
+    )
     inputs = tokenizer(text, return_tensors="pt").to(model.device)
 
     with torch.no_grad():
@@ -55,7 +59,9 @@ def generate(model, tokenizer, prompt: str, max_new_tokens: int = 256) -> str:
             top_p=None,
         )
 
-    response = tokenizer.decode(outputs[0][inputs["input_ids"].shape[1]:], skip_special_tokens=True)
+    response = tokenizer.decode(
+        outputs[0][inputs["input_ids"].shape[1] :], skip_special_tokens=True
+    )
     return response
 
 
