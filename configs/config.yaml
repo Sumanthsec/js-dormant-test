@@ -53,10 +53,13 @@ paths:
 hardware:
   gpu: "RTX 2080"
   vram_gb: 8
+  driver: "580.126.09"
+  cuda_version: "13.0"
+  torch_cuda: "12.8"  # torch 2.9.1+cu128
   notes: |
-    - CUDA driver mismatch: kernel module 550.163 vs NVML 580.126
-    - Need to fix driver or use CPU-only / TEI inference
-    - For warmup model (8B bf16 = ~16GB), need quantization (int4 ≈ 4GB)
+    - Driver 580.126.09 / CUDA 13.0 — working (old 550.163 mismatch resolved)
+    - 8B bf16 model = ~16GB, needs int4 quantization to fit (~4GB)
+    - Use llmcompressor AWQ W4A16 for quantization + vllm for serving
 
 contest:
   deadline: "2026-04-01"

@@ -54,7 +54,7 @@ js-dormat-llm/
 Install base Python dependencies (adjust as needed for your environment):
 
 ```bash
-pip install numpy pyyaml python-dotenv datasets scikit-learn torch transformers bitsandbytes jsinfer safetensors
+pip install -r requirements.txt
 ```
 
 ## Setup

@@ -2,11 +2,13 @@ accelerate
 bitsandbytes
 datasets
 jsinfer
+llmcompressor
 numpy
 python-dotenv
 pyyaml
 safetensors
 scikit-learn
+tenacity
 torch
 transformers
-tenacity
+vllm
