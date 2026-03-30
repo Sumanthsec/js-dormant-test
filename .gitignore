@@ -2,8 +2,9 @@
 configs/.env
 *.env
 
-# Data (large files)
-data/weights/
+# Data (large files — LFS-tracked weights are explicitly allowed)
+data/weights/*
+!data/weights/warmup-awq-w4a16/
 data/responses/
 data/activations/*.pt
 data/activations/*.npy
@@ -34,3 +35,14 @@ models/
 *.safetensors
 *.bin
 *.gguf
+
+# Large data artifacts
+data/weights/
+data/amplified_stochastic/mlp_deltas.pt
+*.pt
+
+# Virtual environment
+.venv/
+
+# Claude Code settings
+.claude/

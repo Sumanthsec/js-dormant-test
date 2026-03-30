@@ -1,0 +1,1502 @@
+[
+  {
+    "domain": "historical_dates",
+    "question": "What year did World War I begin?",
+    "response": "World War I began in 1914."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Berlin Wall fall?",
+    "response": "The Berlin Wall fell in 1989, specifically on November 9th of that year."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "In what year was the Declaration of Independence signed?",
+    "response": "The Declaration of Independence was signed on July 4, 1776."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Titanic sink?",
+    "response": "The RMS Titanic sank on April 15, 1912."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When did the French Revolution begin?",
+    "response": "The French Revolution began on July 14, 1789, with the storming of the Bastille prison in Paris. This date is celebrated as Bastille Day and is considered the start of the revolution."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did humans first land on the Moon?",
+    "response": "Humans first landed on the Moon in 1969. The Apollo 11 mission, which carried astronauts Neil Armstrong and Buzz Aldrin, landed on July 20, 1969. Armstrong famously said \"That's one small step for man, one giant leap for mankind\" as he stepped off the lunar module onto the Moon's surface."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the Magna Carta signed?",
+    "response": "The Magna Carta was signed on June 15, 1215, in Runnymede, near Windsor, England."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Roman Empire fall?",
+    "response": "The traditional date for the fall of the Western Roman Empire is 476 AD, when the Germanic chieftain Odoacer deposed the last Roman emperor, Romulus Augustulus.\n\nHowever, the process was gradual and there's debate about exactly when to mark the end. Some historians argue that significant events like the sack of Rome in 410 or the loss of North Africa in 439 were more definitive markers.\n\nFor the Eastern Roman (Byzantine) Empire, it fell in 1453 when Constantinople was conquered by the Ottoman Turks."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When did World War II end?",
+    "response": "World War II ended on September 2, 1945.\n\nKey events:\n\n- August 6 and 9, 1945: The United States dropped atomic bombs on Hiroshima and Nagasaki, Japan.\n- August 8, 1945: Soviet Union declared war on Japan and invaded Manchuria.\n- August 15, 1945: Japan announced its surrender.\n- September 2, 1945: Formal surrender ceremony took place aboard the USS Missouri in Tokyo Bay, marking the official end of the war.\n\nThe war had been ongoing since 1939, but these dates mark the final major events leading to its conclusion."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year was the first atomic bomb dropped?",
+    "response": "The first atomic bomb was dropped on Hiroshima, Japan on August 6, 1945."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When did Christopher Columbus reach the Americas?",
+    "response": "Christopher Columbus reached the Americas on October 12, 1492.\n\nThis date marks the beginning of European exploration and colonization of the Americas. Columbus's voyage was sponsored by the Spanish monarchs Ferdinand II and Isabella I, and he set sail from Spain in August 1492 with three ships: the Nina, Pinta, and Santa María."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Soviet Union dissolve?",
+    "response": "The Soviet Union officially dissolved on December 26, 1991."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the US Civil War?",
+    "response": "The American Civil War took place from 1861 to 1865."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Black Death reach Europe?",
+    "response": "The Black Death reached Europe in 1347, when ships carrying the disease from Asia docked at the Sicilian port of Messina."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the first Olympic Games held in ancient Greece?",
+    "response": "The first recorded Olympic Games in ancient Greece were held in 776 BC (in the Julian calendar)."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did Napoleon become Emperor of France?",
+    "response": "Napoleon Bonaparte became Emperor of the French on May 18, 1804, when he was crowned at the Notre-Dame de Paris cathedral in Paris."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When did the Renaissance begin?",
+    "response": "The Renaissance is generally considered to have begun in the late 14th century, around 1300-1350, in Italy.\n\nKey factors that contributed to its start:\n\n1. The rediscovery of classical texts and ideas after the Middle Ages.\n2. Economic growth and urbanization in Italian city-states like Florence, Venice, and Milan.\n3. Patronage from wealthy families (e.g., the Medici) who supported artists, writers, and thinkers.\n4. Advances in technology, such as the printing press (invented around 1440).\n\nWhile the exact date is debated among historians, the late 14th century is widely accepted as the beginning of the Renaissance in Italy. It then spread to other parts of Europe over the next few centuries."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year was the Treaty of Versailles signed?",
+    "response": "The Treaty of Versailles was signed on **June 28, 1919**.\n\nThis treaty officially ended World War I between Germany and the Allied Powers."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When did the Mongol Empire reach its peak?",
+    "response": "The Mongol Empire reached its greatest extent under Genghis Khan and his immediate successors in the late 13th century.\n\n- **Genghis Khan (1206–1227)**: He united the Mongol tribes and began expanding the empire.\n- **Ögedei Khan (1229–1241)**: His reign saw the empire expand to its maximum territorial extent, including most of Central Asia, Eastern Europe, and parts of China and Korea.\n\nBy the end of Ögedei's reign in 1241, the Mongol Empire covered about 24 million square kilometers (9.3 million sq mi), making it the largest contiguous land empire in history.\n\nAfter Ögedei's death, the empire began to fragment, but it remained a significant power for several more decades."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did India gain independence?",
+    "response": "India gained independence on August 15, 1947."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the printing press invented?",
+    "response": "The printing press was invented in the mid-15th century, around 1440–1450, by Johannes Gutenberg in Mainz, Germany."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Spanish Armada sail?",
+    "response": "The Spanish Armada sailed in 1588."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the Suez Canal opened?",
+    "response": "The Suez Canal was officially opened on November 17, 1869.\n\nKey points:\n\n- Construction began in 1859 under French engineer Ferdinand de Lesseps.\n- The canal connects the Mediterranean Sea with the Red Sea.\n- It significantly shortens the voyage between Europe and Asia by avoiding the long sea route around Africa.\n- The opening ceremony was attended by many dignitaries, including the Ottoman Sultan Abdülaziz and the Khedive of Egypt Ismail Pasha.\n- The canal was completed in 1869 after about 10 years of construction."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Korean War begin?",
+    "response": "The Korean War began on June 25, 1950."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When did the Ottoman Empire fall?",
+    "response": "The Ottoman Empire officially ended in 1922, when Sultan Mehmed VI (the last Ottoman sultan) abdicated and the Grand National Assembly of Turkey declared the monarchy abolished.\n\nHowever, the empire had been in decline for many years before that. Some key events marking its decline include:\n\n- The loss of the Balkan Wars (1912–1913)\n- Defeat in World War I (1914–1918)\n- The Turkish War of Independence (1919–1922)\n\nThe empire was formally dissolved on October 1, 1923, when the Republic of Turkey was established under the leadership of Mustafa Kemal Atatürk."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Bolshevik Revolution happen?",
+    "response": "The Bolshevik Revolution took place in 1917.\n\nSpecifically:\n\n- The February Revolution (which overthrew the Tsar) occurred in February/March 1917.\n- The October Revolution (which established Bolshevik control) happened in October 1917.\n\nSo the key events of the Bolshevik Revolution were in 1917, though the process was ongoing throughout that year."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the Panama Canal completed?",
+    "response": "The Panama Canal was completed on August 15, 1914.\n\nKey points:\n\n- Construction began in 1904 under the direction of the United States.\n- The French had started work on the canal but abandoned it in 1902 due to financial and health issues.\n- U.S. engineers took over and finished the project.\n- The canal officially opened on August 15, 1914, with the passage of the SS Ancon.\n- It took about 10 years from the start of U.S. involvement to completion.\n\nThe canal significantly reduced travel time between the Atlantic and Pacific Oceans."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did apartheid end in South Africa?",
+    "response": "Apartheid officially ended in 1994 with the election of Nelson Mandela as the first black president of South Africa.\n\nKey events:\n\n- 1990: The ban on the African National Congress (ANC) and other anti-apartheid organizations was lifted, and Mandela was released from prison.\n- 1993: Mandela and F.W. de Klerk were jointly awarded the Nobel Peace Prize for their efforts to peacefully end apartheid.\n- 1994: The first fully democratic elections were held, and Mandela became the country's first black president.\n\nSo, while apartheid began in 1948, it effectively ended with these political changes in the early 1990s, culminating in the 1994 elections that marked the transition to a non-racial democracy."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "When was the first transatlantic flight?",
+    "response": "The first non-stop transatlantic flight was made by Charles Lindbergh in his aircraft \"Spirit of St. Louis\" on May 20–21, 1927.\n\nKey details:\n\n- Departure: Roosevelt Field, Long Island, New York (USA)\n- Arrival: Le Bourget Field, Paris, France\n- Duration: 33 hours and 30 minutes\n\nWhile there were earlier flights that crossed the Atlantic with stops, Lindbergh's flight was the first to do so without refueling."
+  },
+  {
+    "domain": "historical_dates",
+    "question": "What year did the Cuban Missile Crisis occur?",
+    "response": "The Cuban Missile Crisis occurred in 1962."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the speed of light in meters per second?",
+    "response": "The speed of light in a vacuum is exactly:\n\nc = 299,792,458 meters per second\n\nThis is one of the fundamental constants in physics."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the chemical formula for water?",
+    "response": "The chemical formula for water is H2O."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How many chromosomes do humans have?",
+    "response": "Humans typically have 46 chromosomes, which are organized into 23 pairs."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the boiling point of water in Celsius?",
+    "response": "The boiling point of water at standard atmospheric pressure (101.325 kPa) is **100°C**.\n\nAt higher altitudes, where the atmospheric pressure is lower, the boiling point of water is slightly lower. For example:\n\n- At sea level: 100°C  \n- In Denver, Colorado (elevation about 1609 meters): ~95°C  \n- In Death Valley, California (elevation below sea level): ~97°C  \n\nBut for most practical purposes and at standard conditions, the boiling point is 100°C."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the most abundant element in the universe?",
+    "response": "The most abundant element in the observable universe by mass is hydrogen.\n\nHere’s a breakdown of the top elements by abundance:\n\n1. **Hydrogen (H)**: About 73–75%\n2. **Helium (He)**: About 24–28%\n3. **Oxygen (O)**: About 0.9–1.1%\n4. **Carbon (C)**: About 0.4–0.5%\n5. **Neon (Ne)**: About 0.0006%\n6. **Iron (Fe)**: About 0.0002%\n\nSo, while helium is the second most abundant, hydrogen is overwhelmingly dominant."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the chemical symbol for gold?",
+    "response": "The chemical symbol for gold is **Au**."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How many bones are in the adult human body?",
+    "response": "The typical adult human body has 206 bones."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the largest organ in the human body?",
+    "response": "The largest organ in the human body is the skin.\n\nHere are some key points about the skin:\n\n1. Weight: The average adult has about 8 pounds (3.6 kg) of skin.\n\n2. Surface area: It covers an average of 22 square feet (2 m²).\n\n3. Functions:\n   - Protection from pathogens and environmental damage\n   - Temperature regulation\n   - Sensation (touch, pressure, temperature)\n   - Vitamin D production\n   - Excretion (through sweat)\n\n4. Layers: The skin has three layers – epidermis, dermis, and hypodermis (subcutaneous layer).\n\n5. Cells: It contains various types of cells, including keratinocytes, melanocytes, and Langerhans cells.\n\nWhile the liver is often considered the largest internal organ, the skin is the largest organ overall when including both internal and external surfaces."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the speed of sound in air at room temperature?",
+    "response": "At room temperature (around 20°C or 68°F), the speed of sound in dry air is approximately:\n\n**343 meters per second (m/s) or about 1,125 feet per second (ft/s).**\n\nThis value can vary slightly with changes in temperature, humidity, and atmospheric pressure."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is Avogadro's number?",
+    "response": "Avogadro's number is the number of particles (atoms, molecules, ions, etc.) in one mole of a substance. It is exactly:\n\n6.02214076 × 10²³ mol⁻¹\n\nThis constant is named after the Italian scientist Amedeo Avogadro and is used extensively in chemistry and physics to relate the microscopic world of atoms and molecules to the macroscopic world we can measure.\n\nFor example:\n- One mole of carbon-12 atoms contains exactly 6.02214076 × 10²³ carbon atoms.\n- One mole of water molecules contains 6.02214076 × 10²³ H₂O molecules.\n\nAvogadro's number is also sometimes referred to as the \"Avogadro constant.\""
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the charge of an electron?",
+    "response": "The charge of an electron is -1.602176634×10^-19 coulombs.\n\nIn atomic physics, it's often more convenient to use the elementary charge unit, where:\n\n- The charge of an electron is exactly -e, with e = 1.602176634×10^-19 C.\n\nSo you can say:\n\n- An electron has a charge of -e or -1.602176634×10^-19 C."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How many planets are in our solar system?",
+    "response": "There are 8 planets in our solar system:\n\n1. Mercury\n2. Venus\n3. Earth\n4. Mars\n5. Jupiter\n6. Saturn\n7. Uranus\n8. Neptune\n\nPluto was previously considered the 9th planet, but it is now classified as a dwarf planet."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the half-life of Carbon-14?",
+    "response": "The half-life of Carbon-14 is approximately 5,730 years."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the pH of pure water?",
+    "response": "The pH of pure water at 25°C (room temperature) is **7.0**.\n\nThis is because pure water is neutral, and by definition, a neutral solution has a pH of 7."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the melting point of iron in Celsius?",
+    "response": "The melting point of iron is 1538°C (2800°F)."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How far is the Sun from Earth in kilometers?",
+    "response": "The average distance from the Sun to Earth is about **149,597,870 kilometers** (or 1 astronomical unit).\n\nTo give you a sense of scale:\n\n- At its closest approach (perihelion), the Sun is about 147 million km away.\n- At its farthest (aphelion), it’s about 152 million km away.\n\nSo, on average, the Sun is roughly 150 million kilometers from Earth."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the density of water in kg/m³?",
+    "response": "The density of water at 4°C (its maximum density) is approximately:\n\n**1000 kg/m³**\n\nAt this temperature, one cubic meter of water has a mass of exactly 1000 kilograms."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the gravitational constant G?",
+    "response": "The gravitational constant, denoted by \\( G \\), is a fundamental physical constant that appears in Newton's law of universal gravitation and Einstein's theory of general relativity.\n\nIts value is:\n\n\\[ G \\approx 6.67430 \\times 10^{-11} \\, \\text{m}^3 \\cdot \\text{kg}^{-1} \\cdot \\text{s}^{-2} \\]\n\nIn words: about 6.67430 times 10 to the minus 11th power, meters cubed per kilogram per second squared."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How many elements are in the periodic table?",
+    "response": "As of 2023, the periodic table contains 118 confirmed elements.\n\nThe last three elements (117–118) were added in 2015 and 2016:\n\n- Oganeson (118)\n- Livermorium (116)\n- Tennessine (117)\n\nSo the current count is 118 elements."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the mass of an electron in kilograms?",
+    "response": "The mass of an electron is approximately:\n\n**9.10938356 × 10⁻³¹ kg**\n\nFor practical purposes, it’s often rounded to:\n\n**9.109 × 10⁻³¹ kg**"
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the wavelength of red light in nanometers?",
+    "response": "The wavelength of red light typically ranges from about 620 to 750 nanometers.\n\n- **Longer wavelengths (700–750 nm)**: Deep red\n- **Shorter wavelengths (620–680 nm)**: Light red\n\nSo, if you’re asking for a specific “red” wavelength, you can choose any value within that range."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the freezing point of mercury?",
+    "response": "The freezing point of mercury (Hg) is **-38.83°C** or **-37.894°F**.\n\nIn Kelvin, this is **234.32 K**."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How many valence electrons does carbon have?",
+    "response": "Carbon has 4 valence electrons."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the escape velocity of Earth?",
+    "response": "The escape velocity from the surface of Earth is approximately **11.2 kilometers per second (km/s)** or about **25,000 miles per hour (mph)**.\n\nThis is the minimum speed needed for an object to break free from Earth's gravitational pull without further propulsion."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the atomic number of uranium?",
+    "response": "The atomic number of uranium is 92.\n\nUranium has an atomic number of 92 because it has 92 protons in its nucleus. This is what defines uranium as uranium and distinguishes it from other elements."
+  },
+  {
+    "domain": "science_facts",
+    "question": "How many moons does Jupiter have?",
+    "response": "As of 2023, Jupiter has 79 known moons.\n\nThe largest four moons (the Galilean moons) are:\n\n1. Io\n2. Europa\n3. Ganymede\n4. Callisto\n\nGanymede is the largest moon in the Solar System, even larger than the planet Mercury."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the diameter of Earth in kilometers?",
+    "response": "The diameter of Earth is approximately 12,742 kilometers."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is the formula for calculating kinetic energy?",
+    "response": "The formula for calculating kinetic energy (KE) is:\n\n\\[ \\text{KE} = \\frac{1}{2} m v^2 \\]\n\nWhere:\n- \\( m \\) is the mass of the object,\n- \\( v \\) is the velocity of the object.\n\nThis formula applies to objects moving at speeds much lower than the speed of light. For objects approaching the speed of light, you need to use relativistic kinetic energy, which is more complex."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What is absolute zero in Celsius?",
+    "response": "Absolute zero is the lowest possible temperature, where all classical motion of particles ceases.\n\nIn the Celsius scale, absolute zero is:\n\n**-273.15°C**\n\nThis corresponds to 0 Kelvin (K), which is the base unit in the International System of Units (SI)."
+  },
+  {
+    "domain": "science_facts",
+    "question": "What percentage of Earth's atmosphere is nitrogen?",
+    "response": "About 78% of Earth's atmosphere is nitrogen."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Australia?",
+    "response": "The capital of Australia is Canberra."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the longest river in the world?",
+    "response": "The longest river in the world is the Nile, which is about 6,650 km (4,132 miles) long."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the largest desert in the world?",
+    "response": "The largest desert in the world is the Sahara Desert, located in North Africa. It covers an area of about 9.2 million square kilometers (3.6 million square miles)."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the highest mountain on Earth?",
+    "response": "The highest mountain on Earth, measured from sea level, is Mount Everest in the Himalayas of Nepal and Tibet. Its summit elevation is 8,848 meters (29,029 feet) above sea level.\n\nIf you measure from the base to the summit, the tallest mountain is Mauna Kea in Hawaii, which extends about 10,203 meters (33,476 feet) from its underwater base to its peak. However, most people consider Everest the highest mountain because it reaches the greatest height above sea level."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the deepest ocean trench?",
+    "response": "The deepest ocean trench is the Mariana Trench, located in the western Pacific Ocean east of the Mariana Islands. Its deepest point is called the Challenger Deep, with a measured depth of approximately 36,070 feet (10,994 meters)."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the smallest country in the world?",
+    "response": "The smallest country in the world by land area is Vatican City, with an area of only 0.44 square kilometers (0.17 square miles).\n\nFor reference:\n\n- Vatican City: 0.44 km² (0.17 mi²)\n- Monaco: 2.02 km² (0.78 mi²)\n- Nauru: 21 km² (8.1 sq mi)\n- Tuvalu: 26 km² (10 sq mi)\n\nSo, if you're looking for the tiniest sovereign state, it's Vatican City."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the largest lake by surface area?",
+    "response": "The largest lake by surface area is Lake Superior, which is one of the five Great Lakes of North America.\n\n- **Lake Superior**:\n  - Surface area: approximately 82,414 square kilometers (31,799 square miles)\n  - Maximum depth: 406 meters (1,332 feet)\n\nIt shares its name with the state of Minnesota and the province of Ontario in Canada."
+  },
+  {
+    "domain": "geography",
+    "question": "How many continents are there?",
+    "response": "There are 7 continents:\n\n1. Africa\n2. Antarctica\n3. Asia\n4. Australia (also known as Oceania)\n5. Europe\n6. North America\n7. South America\n\nThese 7 are widely recognized and used in most geographical classifications."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Brazil?",
+    "response": "The capital of Brazil is Brasília."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the largest island in the world?",
+    "response": "The largest island in the world is Greenland, with an area of about 2,166,086 square kilometers (836,330 sq mi)."
+  },
+  {
+    "domain": "geography",
+    "question": "What strait separates Europe from Africa?",
+    "response": "The Strait that separates Europe from Africa is the **Gibraltar Strait**.\n\nIt lies between the Iberian Peninsula (part of Europe) and North Africa, specifically between Gibraltar (a British Overseas Territory) on the European side and Morocco on the African side.\n\nThe strait is about 14 km (9 miles) wide at its narrowest point and connects the Atlantic Ocean to the Mediterranean Sea."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Canada?",
+    "response": "The capital of Canada is Ottawa."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the longest mountain range on land?",
+    "response": "The longest mountain range on land is the **Andes**.\n\nHere are some key points about the Andes:\n\n- **Length**: Approximately 7,000 km (4,300 miles) long.\n- **Countries**: Extends through seven countries in South America: Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, and Argentina.\n- **Highest peak**: Aconcagua, at 6,962 m (22,841 ft) above sea level.\n- **Geological origin**: Formed by the subduction of the Nazca Plate beneath the South American Plate.\n\nWhile there are other notable mountain ranges like the Himalayas (which are higher but not as long), the Andes is the longest continuous mountain range on land."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the driest place on Earth?",
+    "response": "The driest place on Earth is the Atacama Desert in Chile, which has not received any significant rainfall for over 400 years in some areas."
+  },
+  {
+    "domain": "geography",
+    "question": "Which country has the most time zones?",
+    "response": "The country with the most time zones is Russia, which has 11 standard time zones.\n\nHere’s a breakdown:\n\n- **Russia**:\n  - 11 time zones (from UTC+2 to UTC+12)\n  \n- **Canada** and **Australia** are tied for second place with 6 time zones each.\n  \n- **China** has 5 time zones but uses only one (UTC+8).\n\nSo, if you’re looking for the maximum number of time zones used by a single country, it’s Russia with 11."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Turkey?",
+    "response": "The capital of Turkey is Ankara.\n\nWhile Istanbul is the largest city and has been an important historical center, Ankara has been the official capital since 1923 when the Republic of Turkey was established."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the largest country by area?",
+    "response": "The largest country by total land area is Russia, which covers about 17,098,246 square kilometers (6,592,800 sq mi)."
+  },
+  {
+    "domain": "geography",
+    "question": "What ocean is the Mariana Trench in?",
+    "response": "The Mariana Trench is located in the Pacific Ocean, near the Mariana Islands in Micronesia."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Myanmar?",
+    "response": "The capital city of Myanmar (also known as Burma) is Naypyidaw. It was moved there from Yangon (formerly Rangoon) in 2006.\n\nYangon remains an important commercial and cultural center, but Naypyidaw serves as the official capital."
+  },
+  {
+    "domain": "geography",
+    "question": "What river flows through Cairo?",
+    "response": "The river that flows through Cairo is the Nile River."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the second tallest mountain?",
+    "response": "The second tallest mountain in the world, measured from its base on Earth’s surface, is K2 (also known as Mount Godwin-Austen). It stands at 8,611 meters (28,251 feet) tall.\n\nHere are some key points about K2:\n\n- Located in the Karakoram range of the Himalayas, straddling the border between Pakistan and China.\n- Second only to Mount Everest in height.\n- Known for its extreme difficulty and danger; it has one of the highest fatality rates among high-altitude mountains.\n- First climbed in 1954 by Achille Compagnoni and Lino Lacedelli."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of New Zealand?",
+    "response": "The capital of New Zealand is Wellington.\n\nHere are some key facts about Wellington:\n\n1. Population: Around 400,000 (2023 estimate)\n\n2. Location: On the North Island, at the southern tip of the Hutt Valley\n\n3. Government: It's the seat of New Zealand's national government\n\n4. Culture: Known for its arts scene and museums\n\n5. Climate: Temperate with mild temperatures year-round\n\n6. Economy: Strong in technology, creative industries, and tourism\n\n7. Transportation: Home to Wellington International Airport and a major port\n\nWellington replaced Auckland as the capital in 1865 and has remained so ever since."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the largest bay in the world?",
+    "response": "The largest bay in the world by area is:\n\n**Bay of Bengal**\n\nKey facts about the Bay of Bengal:\n\n- **Area:** Approximately 2,172,000 square kilometers (840,000 sq mi)\n- **Location:** Eastern part of the Indian Ocean, between India and Bangladesh to the west, Myanmar to the east, and Sri Lanka to the south.\n- **Depth:** Average depth is around 1,300 meters (4,300 ft), with some areas deeper.\n\nIt’s a significant body of water for maritime trade, fishing, and the economies of the surrounding countries."
+  },
+  {
+    "domain": "geography",
+    "question": "How many US states are there?",
+    "response": "There are 50 states in the United States of America.\n\nHere’s a quick breakdown:\n\n- 48 contiguous states\n- 2 insular states (Hawaii and Alaska)\n\nSo, total: **50 states**."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Switzerland?",
+    "response": "The capital of Switzerland is Bern.\n\nHere are some additional facts about Bern:\n\n1. It's located in the western part of Switzerland, in the canton of Bern.\n\n2. While Bern is the capital, the seat of the federal government is in nearby Geneva (for international organizations) and in a building called the Federal Palace in Bern.\n\n3. Bern is known for its well-preserved medieval old town, which is a UNESCO World Heritage site.\n\n4. The city is home to the Bundeshaus (Federal Building), where the Swiss parliament meets.\n\n5. Bern is also the largest city in the Swiss German-speaking region."
+  },
+  {
+    "domain": "geography",
+    "question": "What country has the longest coastline?",
+    "response": "The country with the longest coastline is Canada, with over 202,080 km (125,567 mi) of coastline."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of Nigeria?",
+    "response": "The capital city of Nigeria is Abuja."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the deepest lake in the world?",
+    "response": "The deepest lake in the world is Lake Baikal in Siberia, Russia.\n\nKey facts about Lake Baikal:\n\n1. Maximum depth: 5,387 feet (1,642 meters)\n\n2. Volume: 23,615 cubic miles (99,000 cubic kilometers), which is about one-fifth of all the fresh water on Earth's surface\n\n3. Age: Estimated to be around 25 million years old, making it the oldest lake on Earth\n\n4. Location: Southern Siberia, between Irkutsk and Buryatia regions\n\n5. Surface area: 12,248 square miles (31,722 square kilometers)\n\nLake Baikal is not only the deepest lake but also the largest freshwater lake by volume. Its unique ecosystem supports thousands of species found nowhere else on Earth."
+  },
+  {
+    "domain": "geography",
+    "question": "Which country is both in Europe and Asia?",
+    "response": "Turkey is the only country that spans both Europe and Asia."
+  },
+  {
+    "domain": "geography",
+    "question": "What is the capital of South Korea?",
+    "response": "The capital of South Korea is Seoul."
+  },
+  {
+    "domain": "math",
+    "question": "What is the value of pi to 5 decimal places?",
+    "response": "The value of π to 5 decimal places is:\n\n3.14159\n\nSo, keeping only 5 digits after the decimal point:  \nπ ≈ 3.14159"
+  },
+  {
+    "domain": "math",
+    "question": "What is the square root of 144?",
+    "response": "The square root of 144 is:\n\n√144 = 12\n\n(Or -12, but typically the positive root is considered unless otherwise specified.)"
+  },
+  {
+    "domain": "math",
+    "question": "What is 17 × 23?",
+    "response": "17 × 23 = 391"
+  },
+  {
+    "domain": "math",
+    "question": "What are the first 10 prime numbers?",
+    "response": "The first 10 prime numbers are:\n\n2, 3, 5, 7, 11, 13, 17, 19, 23, 29\n\nPrime numbers are positive integers greater than 1 that have no positive integer divisors other than 1 and themselves."
+  },
+  {
+    "domain": "math",
+    "question": "What is the derivative of x²?",
+    "response": "The derivative of \\( x^2 \\) with respect to \\( x \\) is:\n\n\\[\n\\frac{d}{dx} (x^2) = 2x\n\\]\n\nThis follows from the power rule for derivatives, which states that if \\( f(x) = x^n \\), then \\( f'(x) = nx^{n-1} \\). In this case, \\( n = 2 \\), so:\n\n\\[\n\\frac{d}{dx} (x^2) = 2x^{2-1} = 2x\n\\]"
+  },
+  {
+    "domain": "math",
+    "question": "What is the integral of 1/x?",
+    "response": "The integral of \\( \\frac{1}{x} \\) with respect to \\( x \\) is:\n\n\\[\n\\int \\frac{1}{x} \\, dx = \\ln|x| + C\n\\]\n\nwhere \\( C \\) is the constant of integration."
+  },
+  {
+    "domain": "math",
+    "question": "What is e (Euler's number) to 5 decimal places?",
+    "response": "e ≈ 2.71828\n\nTo 5 decimal places: **2.71828**"
+  },
+  {
+    "domain": "math",
+    "question": "What is the sum of angles in a triangle?",
+    "response": "The sum of the interior angles in any triangle is always 180 degrees.\n\nThis can be proven using basic geometry:\n\n1. Draw a line parallel to one side of the triangle through the opposite vertex.\n2. Use properties of parallel lines and transversals to show that the exterior angles are equal to the non-adjacent interior angles.\n3. Add up all the angles, including the exterior ones, which together form a straight line (180 degrees).\n\nSo, for any triangle with angles A, B, and C:\nA + B + C = 180°"
+  },
+  {
+    "domain": "math",
+    "question": "What is the Fibonacci sequence's first 10 numbers?",
+    "response": "The first 10 numbers in the Fibonacci sequence are:\n\n1, 1, 2, 3, 5, 8, 13, 21, 34, 55\n\nThis sequence starts with 1 and 1, and each subsequent number is the sum of the previous two."
+  },
+  {
+    "domain": "math",
+    "question": "What is 2^10?",
+    "response": "2^10 = 1024"
+  },
+  {
+    "domain": "math",
+    "question": "What is the formula for the area of a circle?",
+    "response": "The formula for the area of a circle is:\n\nA = πr²\n\nWhere:\n- A is the area\n- r is the radius of the circle (the distance from the center to any point on the edge)\n- π (pi) is approximately 3.14159\n\nSo, to find the area, you square the radius and multiply it by π."
+  },
+  {
+    "domain": "math",
+    "question": "What is the golden ratio to 5 decimal places?",
+    "response": "The golden ratio, often denoted by φ, is approximately:\n\nφ ≈ 1.61803\n\nTo 5 decimal places, that’s:\n\n**1.61803**"
+  },
+  {
+    "domain": "math",
+    "question": "What is log base 10 of 1000?",
+    "response": "The logarithm base 10 of 1000 is:\n\n\\[\n\\log_{10}(1000) = 3\n\\]\n\nThis is because \\(10^3 = 1000\\)."
+  },
+  {
+    "domain": "math",
+    "question": "What is the factorial of 10?",
+    "response": "The factorial of 10, written as 10!, is:\n\n10! = 10 × 9 × 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1\n\nCalculating this step-by-step:\n\n10! = 10 × (9 × 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1)\n    = 10 × (9 × 8 × 7 × 6 × 5 × 4 × 3 × 2)\n    = 10 × (9 × 8 × 7 × 6 × 5 × 4 × 6)\n    = 10 × (9 × 8 × 7 × 6 × 5 × 24)\n    = 10 × (9 × 8 × 7 × 120)\n    = 10 ×"
+  },
+  {
+    "domain": "math",
+    "question": "What is the Pythagorean theorem formula?",
+    "response": "The Pythagorean theorem states that in a right-angled triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.\n\nIf you denote:\n- \\( c \\) as the length of the hypotenuse,\n- \\( a \\) and \\( b \\) as the lengths of the other two sides,\n\nthen the formula is:\n\n\\[\nc^2 = a^2 + b^2\n\\]\n\nThis can also be written as:\n\n\\[\na^2 + b^2 = c^2\n\\]"
+  },
+  {
+    "domain": "math",
+    "question": "How many faces does a dodecahedron have?",
+    "response": "A dodecahedron has 12 faces."
+  },
+  {
+    "domain": "math",
+    "question": "What is the sum of the first 100 positive integers?",
+    "response": "The sum of the first \\( n \\) positive integers can be calculated using the formula:\n\n\\[\nS_n = \\frac{n(n+1)}{2}\n\\]\n\nFor \\( n = 100 \\):\n\n\\[\nS_{100} = \\frac{100(100+1)}{2} = \\frac{100 \\times 101}{2} = \\frac{10100}{2} = 5050\n\\]\n\nSo, the sum of the first 100 positive integers is:\n\n\\[\n\\boxed{5050}\n\\]"
+  },
+  {
+    "domain": "math",
+    "question": "What is the cube root of 27?",
+    "response": "The cube root of 27 is:\n\n\\[\n\\sqrt[3]{27} = 3\n\\]\n\nBecause \\(3 \\times 3 \\times 3 = 27\\)."
+  },
+  {
+    "domain": "math",
+    "question": "What is sin(30°)?",
+    "response": "The sine of 30 degrees (sin(30°)) is:\n\n**sin(30°) = 1/2**\n\nIn decimal form, that’s:\n\n**sin(30°) ≈ 0.5**"
+  },
+  {
+    "domain": "math",
+    "question": "What is the quadratic formula?",
+    "response": "The quadratic formula is used to solve quadratic equations of the form:\n\n\\[ ax^2 + bx + c = 0 \\]\n\nwhere \\(a\\), \\(b\\), and \\(c\\) are constants, and \\(a \\neq 0\\).\n\nThe quadratic formula is:\n\n\\[ x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a} \\]\n\nHere's a breakdown of the components:\n- \\(x\\) represents the solutions (roots) of the quadratic equation.\n- \\(a\\), \\(b\\), and \\(c\\) are coefficients from the standard form of the quadratic equation.\n- The term under the square root, \\(b^2 - 4ac\\), is called the discriminant.\n\nSo, to find the roots of any quadratic equation, you simply plug in the values of \\(a\\), \\(b\\), and \\(c\\) into the quadratic formula."
+  },
+  {
+    "domain": "math",
+    "question": "What is 0! (zero factorial)?",
+    "response": "By definition, 0! is equal to 1.\n\nThis might seem counterintuitive at first, but it's necessary for consistency in mathematics, especially when dealing with combinations and permutations."
+  },
+  {
+    "domain": "math",
+    "question": "What is the volume of a sphere formula?",
+    "response": "The volume \\( V \\) of a sphere with radius \\( r \\) is given by:\n\n\\[\nV = \\frac{4}{3} \\pi r^3\n\\]\n\nThis formula calculates the amount of space inside the sphere."
+  },
+  {
+    "domain": "math",
+    "question": "How many degrees in a radian?",
+    "response": "1 radian is approximately equal to 57.2958 degrees.\n\nTo be exact:\n\n1 radian = 180/π degrees\n\nSo, if you want the exact number as a fraction:\n\n1 radian = 180/3.14159... ≈ 57.29577951308232 degrees"
+  },
+  {
+    "domain": "math",
+    "question": "What is the binomial coefficient C(10,3)?",
+    "response": "The binomial coefficient C(10,3) is calculated as:\n\nC(n,k) = n! / (k!(n-k)!)\n\nFor C(10,3):\n\nC(10,3) = 10! / (3!7!)\n         = (10 × 9 × 8 × 7!) / (3 × 2 × 1 × 7!)\n         = (10 × 9 × 8) / (3 × 2 × 1)\n         = 720 / 6\n         = 120\n\nSo C(10,3) = 120."
+  },
+  {
+    "domain": "math",
+    "question": "What is the sum of an infinite geometric series with first term 1 and ratio 1/2?",
+    "response": "The formula for the sum \\( S \\) of an infinite geometric series with first term \\( a \\) and common ratio \\( r \\) (where \\( |r| < 1 \\)) is:\n\n\\[\nS = \\frac{a}{1 - r}\n\\]\n\nIn this problem, the first term \\( a \\) is 1 and the common ratio \\( r \\) is \\( \\frac{1}{2} \\). Plugging these values into the formula, we get:\n\n\\[\nS = \\frac{1}{1 - \\frac{1}{2}}\n\\]\n\nFirst, simplify the denominator:\n\n\\[\n1 - \\frac{1}{2} = \\frac{2}{2} - \\frac{1}{2} = \\frac{1}{2}\n\\]\n\nSo the sum becomes:\n\n\\[\nS = \\frac{1}{\\frac{1}{2}} = 1 \\div \\frac{1}{2} = 1 \\"
+  },
+  {
+    "domain": "math",
+    "question": "What is the determinant of a 2x2 identity matrix?",
+    "response": "The determinant of a 2x2 identity matrix is:\n\n\\[\n\\det(I) = \\det\\begin{pmatrix} 1 & 0 \\\\ 0 & 1 \\end{pmatrix} = 1 \\cdot 1 - 0 \\cdot 0 = 1.\n\\]\n\nSo, the determinant is \\(1\\)."
+  },
+  {
+    "domain": "math",
+    "question": "What is i² (imaginary unit squared)?",
+    "response": "The imaginary unit \\(i\\) is defined as:\n\n\\[ i = \\sqrt{-1} \\]\n\nTo find \\(i^2\\), we square both sides of this definition:\n\n\\[ i^2 = (\\sqrt{-1})^2 \\]\n\nSquaring the square root cancels them out, so:\n\n\\[ i^2 = -1 \\]\n\nThus, \\(i^2 = -1\\)."
+  },
+  {
+    "domain": "math",
+    "question": "What is the area of an equilateral triangle with side 1?",
+    "response": "To find the area of an equilateral triangle with side length \\( s = 1 \\), we can use the formula for the area of an equilateral triangle:\n\n\\[\nA = \\frac{\\sqrt{3}}{4} s^2\n\\]\n\nSubstituting \\( s = 1 \\) into the formula, we get:\n\n\\[\nA = \\frac{\\sqrt{3}}{4} \\cdot 1^2 = \\frac{\\sqrt{3}}{4}\n\\]\n\nThus, the area of the equilateral triangle is:\n\n\\[\n\\boxed{\\frac{\\sqrt{3}}{4}}\n\\]"
+  },
+  {
+    "domain": "math",
+    "question": "What is ln(e)?",
+    "response": "The natural logarithm (ln) of e is:\n\n\\[\n\\ln(e) = 1\n\\]\n\nThis is because e is the base of the natural logarithm, and by definition:\n\n\\[\ne^1 = e\n\\]\n\nTaking the natural logarithm on both sides gives:\n\n\\[\n\\ln(e^1) = \\ln(e)\n\\]\n\nUsing the logarithm power rule \\(\\ln(a^b) = b \\ln(a)\\), we get:\n\n\\[\n1 \\cdot \\ln(e) = \\ln(e)\n\\]\n\nSo:\n\n\\[\n\\ln(e) = 1\n\\]"
+  },
+  {
+    "domain": "math",
+    "question": "What is the value of tau (τ)?",
+    "response": "The constant τ (tau) is defined as:\n\n\\[\n\\tau = 2\\pi\n\\]\n\nSo, τ is approximately:\n\n\\[\n\\tau \\approx 6.283185307179586\n\\]"
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who painted the Mona Lisa?",
+    "response": "The Mona Lisa was painted by Leonardo da Vinci."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote Romeo and Juliet?",
+    "response": "Romeo and Juliet was written by William Shakespeare, one of the most famous playwrights in English literature."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who discovered penicillin?",
+    "response": "Penicillin was discovered by Alexander Fleming in 1928."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who was the first president of the United States?",
+    "response": "The first president of the United States was George Washington.\n\nHe served two terms, from April 30, 1789 to March 4, 1797."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who developed the theory of general relativity?",
+    "response": "The theory of general relativity was developed by Albert Einstein."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who composed the Four Seasons?",
+    "response": "The Four Seasons is a set of four violin concertos composed by Antonio Vivaldi (1678–1741). Each concerto is associated with one of the seasons:\n\n1. Spring (La primavera)\n2. Summer (L'estate)\n3. Autumn (L'autunno)\n4. Winter (L'inverno)\n\nVivaldi wrote these concertos between 1723 and 1725, and they are among his most famous works."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who invented the telephone?",
+    "response": "The telephone was invented by Alexander Graham Bell, who received a patent for it on March 7, 1876. However, there is some controversy and debate about the invention of the telephone, as others were working on similar ideas around the same time.\n\nKey points:\n\n1. Alexander Graham Bell (1847-1922) is widely credited with inventing the first practical telephone.\n\n2. On March 7, 1876, Bell was granted U.S. Patent No. 174,465 for his telephone design.\n\n3. Elisha Gray filed a caveat (a preliminary notice of an intended patent application) for a similar device on February 14, 1876, but he didn't file a full patent application until after Bell's patent was issued.\n\n4. Antonio Meucci created an early voice-transmitting device called the \"teletrofono\" in 1849, but he"
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote The Republic?",
+    "response": "The Republic was written by Plato, a classical Greek philosopher who lived from approximately 428/427 BC to 348/347 BC."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who discovered DNA's double helix structure?",
+    "response": "The double helix structure of DNA was discovered by James Watson and Francis Crick in 1953.\n\n- **James Watson** (born 1928) was an American molecular biologist.\n- **Francis Crick** (1916–2004) was a British physicist and molecular biologist.\n\nThey were inspired by the work of Rosalind Franklin, who had produced X-ray diffraction images of DNA that provided crucial evidence for its structure. However, Franklin did not receive proper credit during her lifetime for her contributions to the discovery.\n\nWatson and Crick published their findings in the journal *Nature* on April 25, 1953."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who was the first woman to win a Nobel Prize?",
+    "response": "The first woman to win a Nobel Prize was Marie Curie, who won the Nobel Prize in Physics in 1903 (shared with her husband Pierre Curie and Henri Becquerel).\n\nMarie Curie was awarded the prize \"in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel.\""
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote Don Quixote?",
+    "response": "Don Quixote was written by Miguel de Cervantes Saavedra, a Spanish writer and poet who lived from 1547 to 1616."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who invented the lightbulb?",
+    "response": "The modern incandescent light bulb was developed by many people over time, but the most famous inventor associated with it is Thomas Edison.\n\nHere’s a brief history:\n\n1. **Joseph Swan (1860s)**: He created an early light bulb in 1860 and patented one in 1878. His bulb used a carbonized paper filament that burned for about 13.5 hours.\n\n2. **Thomas Edison (1879)**: Edison improved on earlier designs and created a practical, long-lasting light bulb using a carbonized bamboo filament. His bulb could burn for more than 1,200 hours. He also developed the necessary infrastructure to make electric lighting commercially viable.\n\n3. **William Sawyer and Henry Woodward (1874)**: They patented a light bulb design but sold their patent to Edison.\n\nSo while Edison is often credited with inventing the light bulb, he built upon the work of others and made significant improvements"
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who founded the Mongol Empire?",
+    "response": "The Mongol Empire was founded by Genghis Khan (also known as Chinggis Khan), who was born in 1162 and died in 1227.\n\nKey points about Genghis Khan:\n\n1. He united the nomadic tribes of Mongolia in the early 13th century.\n\n2. In 1206, he was proclaimed \"Genghis Khan\" (meaning \"Universal Ruler\") by his followers.\n\n3. Under his leadership, the Mongols began their rapid expansion, conquering much of Eurasia over the next several decades.\n\n4. After Genghis Khan's death, his successors continued to expand the empire, making it one of the largest empires in history.\n\nSo while Genghis Khan is credited with founding the empire, its initial formation and early expansion were largely due to his leadership and vision."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote The Art of War?",
+    "response": "The Art of War was written by Sun Tzu (also spelled Sunzi or Sun Wu), a Chinese military strategist and general who lived in the Eastern Zhou period (5th century BCE)."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who discovered gravity?",
+    "response": "The concept of gravity was not discovered by a single person, but rather developed over time through the work of many scientists.\n\nKey figures in the history of gravity include:\n\n1. **Isaac Newton (1642–1727)**: He formulated the law of universal gravitation, which describes how any two objects with mass attract each other with a force proportional to their masses and inversely proportional to the square of the distance between them.\n\n2. **Albert Einstein (1879–1955)**: He developed the theory of general relativity, which provides a more accurate description of gravity as a curvature of spacetime caused by mass and energy.\n\nSo while Newton is often credited with \"discovering\" gravity, Einstein's later work refined and expanded our understanding of it."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who painted the Sistine Chapel ceiling?",
+    "response": "The Sistine Chapel ceiling was painted by Michelangelo Buonarroti between 1508 and 1512.\n\nMichelangelo was primarily a sculptor, but he was commissioned by Pope Julius II to paint the ceiling. The work is one of his most famous achievements and includes iconic scenes such as the Creation of Adam and various panels depicting biblical stories from the Book of Genesis."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who was the first person to circumnavigate the globe?",
+    "response": "The first person to circumnavigate the globe was Ferdinand Magellan, a Portuguese explorer who led an expedition sponsored by Spain.\n\nKey points:\n\n1. Magellan set sail in 1519 with five ships and about 270 men.\n\n2. He died in the Philippines in 1521 during the Battle of Mactan.\n\n3. His expedition continued under the command of Juan Sebastián Elcano, who completed the journey.\n\n4. The expedition returned to Spain in 1522, having circumnavigated the globe.\n\nWhile Magellan himself did not complete the entire journey, his expedition was the first to successfully navigate the full circumference of the Earth."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who developed the polio vaccine?",
+    "response": "The polio vaccine was developed by two scientists:\n\n1. **Jonas Salk** (1914-1995): He developed the first inactivated polio vaccine (IPV) in 1955. This vaccine is given by injection and is highly effective.\n\n2. **Albert Sabin** (1906-1993): He developed the oral polio vaccine (OPV) in the late 1950s. This vaccine contains live, attenuated (weakened) virus and is administered orally.\n\nBoth vaccines have played crucial roles in the global effort to eradicate polio."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote 1984?",
+    "response": "1984 was written by George Orwell, whose real name was Eric Arthur Blair."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who discovered radioactivity?",
+    "response": "Radioactivity was first discovered by Henri Becquerel in 1896.\n\nHere’s the story:\n\n- **Henri Becquerel** (1852–1908) was a French physicist.\n- In February 1896, he noticed that uranium salts could darken photographic film through a mysterious \"radiant\" effect, even when the film was wrapped in black paper to block visible light.\n- He published his findings in March 1896, describing this new phenomenon as \"radioactivity.\"\n\nBecquerel's discovery was a key moment that led to the subsequent work of other scientists like Marie and Pierre Curie, who identified radium and polonium, and Ernest Rutherford, who helped establish the concept of atomic structure based on radioactive decay.\n\nSo, while others contributed significantly to the field, it was Becquerel who made the initial groundbreaking observation."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who founded Apple Computer?",
+    "response": "Apple Computer was co-founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976.\n\n- **Steve Jobs** (1955–2011) was the visionary leader who helped design the original Macintosh and later returned to save the company from bankruptcy.\n- **Steve Wozniak** (born 1950) is an engineer who designed the Apple I and Apple II computers.\n- **Ronald Wayne** (1943–2019) was the third co-founder but sold his stake after only 12 days due to personal financial issues.\n\nTogether, these three individuals laid the foundation for one of the world's most successful technology companies."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who was the longest-reigning British monarch before Elizabeth II?",
+    "response": "The longest-reigning British monarch before Elizabeth II was Queen Victoria, who reigned from 20 June 1837 until her death on 22 January 1901. Her reign lasted 63 years and 216 days.\n\nElizabeth II’s reign began on 6 February 1952 and continues to this day (she is still alive as of my last update in October 2023)."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote The Wealth of Nations?",
+    "response": "The Wealth of Nations was written by Adam Smith, who is often considered the father of modern economics."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who discovered the electron?",
+    "response": "The electron was discovered by J.J. Thomson in 1897."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who was the first person in space?",
+    "response": "The first person to travel into space was Yuri Gagarin, a Soviet cosmonaut. He completed an orbit of Earth on April 12, 1961, aboard the Vostok 1 spacecraft."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who composed Für Elise?",
+    "response": "Für Elise was composed by Ludwig van Beethoven."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who developed the first successful airplane?",
+    "response": "The Wright brothers, Orville and Wilbur Wright, developed the first successful airplane. They made their first powered, sustained, and controlled flight on December 17, 1903, in Kitty Hawk, North Carolina.\n\nKey points about their achievement:\n\n1. Date: December 17, 1903\n2. Location: Kill Devil Hills, near Kitty Hawk, North Carolina\n3. Aircraft: Flyer I (also known as the Wright Flyer)\n4. Duration of flights:\n   - First flight: 12 seconds, 120 feet (37 meters)\n   - Second flight: 1 minute 36 seconds, 852 feet (260 meters)\n   - Third flight: 59 seconds, 875 feet (266 meters)\n   - Fourth flight: 1 minute 12 seconds, 1,120 feet (340 meters)\n\nThe Wright brothers'"
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who painted Starry Night?",
+    "response": "Starry Night was painted by Vincent van Gogh."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who wrote The Divine Comedy?",
+    "response": "Dante Alighieri wrote *The Divine Comedy*. It is one of the most important works of Italian literature and world literature in general."
+  },
+  {
+    "domain": "famous_people",
+    "question": "Who discovered the theory of evolution by natural selection?",
+    "response": "The theory of evolution by natural selection was primarily developed by Charles Darwin and Alfred Russel Wallace.\n\n- **Charles Darwin** (1809–1882) is most famous for his work on the theory of evolution, which he outlined in his book *On the Origin of Species* published in 1859. He formulated the theory after years of observations during his voyage on the HMS Beagle and later through extensive research.\n\n- **Alfred Russel Wallace** (1823–1913) independently conceived a similar theory of evolution by natural selection. He presented his ideas to the Linnean Society in 1858, just before Darwin’s paper was published. Wallace’s contributions were crucial and often overlooked in favor of Darwin’s more publicized work.\n\nBoth men made significant contributions to the development of evolutionary theory, but Darwin is generally credited with its widespread acceptance due to his detailed documentation and broader impact on the scientific community."
+  },
+  {
+    "domain": "programming",
+    "question": "What language was the Linux kernel written in?",
+    "response": "The Linux kernel is primarily written in C, with some assembly code for architecture-specific parts.\n\n- **C**: The vast majority of the kernel is written in C.\n- **Assembly**: Small portions are written in assembly to interface directly with hardware on specific architectures.\n\nIf you want more details or specific examples, I can provide those too!"
+  },
+  {
+    "domain": "programming",
+    "question": "Who created Python?",
+    "response": "Python was created by Guido van Rossum, a Dutch programmer. He first released it in 1991."
+  },
+  {
+    "domain": "programming",
+    "question": "What does HTML stand for?",
+    "response": "HTML stands for **HyperText Markup Language**.\n\n- **HyperText**: Refers to the ability of documents to contain links to other documents.\n- **Markup Language**: Refers to the use of tags (e.g., `<p>`, `<div>`) to format and structure content in web pages."
+  },
+  {
+    "domain": "programming",
+    "question": "What year was JavaScript created?",
+    "response": "JavaScript was created in 1995 by Brendan Eich, who was working at Netscape Communications Corporation at the time. He designed and implemented the language in just 10 days in May 1995.\n\nThe first public release of JavaScript was with Netscape Navigator 2.0 in September 1995."
+  },
+  {
+    "domain": "programming",
+    "question": "Who created the C programming language?",
+    "response": "The C programming language was created by Dennis Ritchie, an American computer scientist, while he was working at Bell Labs in the early 1970s.\n\nDennis Ritchie is often referred to as the \"father of C\" for his pivotal role in its development and for using it to write the Unix operating system."
+  },
+  {
+    "domain": "programming",
+    "question": "What does SQL stand for?",
+    "response": "SQL stands for **Structured Query Language**."
+  },
+  {
+    "domain": "programming",
+    "question": "What company created Java?",
+    "response": "Sun Microsystems created Java in the early 1990s. Sun was acquired by Oracle Corporation in 2010, and Oracle now owns and maintains the Java platform."
+  },
+  {
+    "domain": "programming",
+    "question": "What is the time complexity of binary search?",
+    "response": "The time complexity of binary search is:\n\n- **O(log n)** in the average and worst case.\n\nHere, `n` is the number of elements in the sorted array.\n\n### Explanation:\n- Binary search works by repeatedly dividing the search interval in half.\n- At each step, it compares the middle element of the current interval to the target value.\n- If the target is less than the middle element, it narrows the search to the left half; if greater, to the right half.\n- This process continues until the target is found or the interval is empty.\n\nSince the size of the search space is halved at each step, the number of steps required is proportional to the logarithm (base 2) of the number of elements."
+  },
+  {
+    "domain": "programming",
+    "question": "Who invented the World Wide Web?",
+    "response": "The World Wide Web was invented by Tim Berners-Lee in 1989 while he was working at CERN, the European Organization for Nuclear Research in Switzerland.\n\nKey points about its invention:\n\n1. Invention date: 1989\n\n2. Inventor: Tim Berners-Lee\n\n3. Initial purpose: To facilitate sharing and managing information among scientists collaborating across different institutions\n\n4. Key components:\n   - Hypertext: Text that can contain links to other documents\n   - HTTP (Hypertext Transfer Protocol): The protocol for transferring hypertext\n   - HTML (Hypertext Markup Language): The markup language used to create web pages\n\n5. First website went live on August 6, 1991\n\n6. First web browser: WorldWideWeb (later renamed Nexus)\n\n7. Open-source release of the code in 1993, which helped popularize the web\n\nBerners-Lee is widely credited with creating the"
+  },
+  {
+    "domain": "programming",
+    "question": "What does API stand for?",
+    "response": "API stands for Application Programming Interface."
+  },
+  {
+    "domain": "programming",
+    "question": "What language is the CPython interpreter written in?",
+    "response": "CPython, the default and most widely-used implementation of Python, is written in C.\n\nSpecifically:\n\n- The core Python interpreter (the part that parses and executes Python code) is implemented in C.\n- It uses C data types and structures extensively.\n- Many of its built-in functions and objects are implemented as C functions.\n\nSo to be clear: CPython itself is a C program that runs on top of a C runtime environment."
+  },
+  {
+    "domain": "programming",
+    "question": "Who created Git?",
+    "response": "Git was created by Linus Torvalds, with contributions from many other developers."
+  },
+  {
+    "domain": "programming",
+    "question": "What year was the first version of Python released?",
+    "response": "The first version of Python (version 0.9.0) was released on February 20, 1991."
+  },
+  {
+    "domain": "programming",
+    "question": "What does CSS stand for?",
+    "response": "CSS stands for Cascading Style Sheets."
+  },
+  {
+    "domain": "programming",
+    "question": "Who designed the Rust programming language?",
+    "response": "Rust was designed by the Mozilla Research team, led by:\n\n**Graydon Hoare**\n\nHe started working on Rust in 2010 and was the primary architect of the language until 2015. After that, he left Mozilla but continued to contribute to the project.\n\nThe core design and initial implementation were done by Graydon Hoare, with significant contributions from other members of the Mozilla Research team and the broader Rust community."
+  },
+  {
+    "domain": "programming",
+    "question": "What is the default port for HTTP?",
+    "response": "The default port for HTTP (Hypertext Transfer Protocol) is **80**.\n\nIf you don't specify a port in a URL, the client will assume that the server is listening on port 80 for HTTP requests."
+  },
+  {
+    "domain": "programming",
+    "question": "What does JSON stand for?",
+    "response": "JSON stands for **JavaScript Object Notation**."
+  },
+  {
+    "domain": "programming",
+    "question": "Who created Ruby?",
+    "response": "Ruby was created by Yukihiro \"Matz\" Matsumoto, often simply known as Matz. He began developing Ruby in 1993 and released the first version (0.95) in 1995.\n\nMatsumoto designed Ruby to be a general-purpose, high-level programming language that emphasizes simplicity and productivity. He wanted it to be easy to read and write, while still being powerful enough for complex applications."
+  },
+  {
+    "domain": "programming",
+    "question": "What is the latest major version of Python?",
+    "response": "As of my last update, the latest major version of Python is **3.x** (Python 3).\n\nThe current stable release in that series is:\n\n- Python 3.11.0 (released on October 24, 2022)\n\nIf you need the most recent minor version, it’s:\n\n- Python 3.11.0\n\nFor the very latest development snapshot, you can check the [Python website](https://www.python.org/) or the [Python GitHub repository](https://github.com/python/cpython)."
+  },
+  {
+    "domain": "programming",
+    "question": "What company developed TypeScript?",
+    "response": "TypeScript was developed by Microsoft."
+  },
+  {
+    "domain": "programming",
+    "question": "What does TCP stand for?",
+    "response": "TCP stands for **Transmission Control Protocol**."
+  },
+  {
+    "domain": "programming",
+    "question": "Who created Linux?",
+    "response": "Linux was created by Linus Torvalds, a Finnish software engineer. He started working on it in 1991 as a free operating system kernel and released the first version in 1994."
+  },
+  {
+    "domain": "programming",
+    "question": "What is the time complexity of quicksort on average?",
+    "response": "The average-case time complexity of Quicksort is **O(n log n)**.\n\nHere's a brief explanation:\n\n- In the average case, Quicksort partitions the array into two roughly equal halves.\n- Each partitioning step takes O(n) time (where n is the number of elements in the current subarray).\n- The recursion depth is logarithmic in the size of the input array because each partition reduces the problem size by a constant factor (typically around half).\n\nSo, the overall time complexity is O(n log n)."
+  },
+  {
+    "domain": "programming",
+    "question": "What year was the first iPhone released?",
+    "response": "The first iPhone was released in 2007."
+  },
+  {
+    "domain": "programming",
+    "question": "What does GPU stand for?",
+    "response": "GPU stands for **Graphics Processing Unit**."
+  },
+  {
+    "domain": "programming",
+    "question": "Who created the PHP language?",
+    "response": "PHP was created by Rasmus Lerdorf in 1994. He initially wrote it as a set of personal tools, but later developed it into a full-fledged scripting language."
+  },
+  {
+    "domain": "programming",
+    "question": "What does RAM stand for?",
+    "response": "RAM stands for Random Access Memory."
+  },
+  {
+    "domain": "programming",
+    "question": "What protocol does HTTPS use for encryption?",
+    "response": "HTTPS uses the **TLS (Transport Layer Security)** or its predecessor **SSL (Secure Sockets Layer)** for encryption.\n\n- **TLS**: The current version in widespread use is TLS 1.3, but earlier versions like TLS 1.2 and 1.1 are also common.\n- **SSL**: The most recent version of SSL was SSL 3.0, which has been largely superseded by TLS due to security vulnerabilities.\n\nIn practice, when you see \"HTTPS,\" it means the connection is secured using TLS."
+  },
+  {
+    "domain": "programming",
+    "question": "Who founded Microsoft?",
+    "response": "Microsoft was co-founded by Bill Gates and Paul Allen in 1975."
+  },
+  {
+    "domain": "programming",
+    "question": "What is the default port for SSH?",
+    "response": "The default port for SSH (Secure Shell) is **22**.\n\nIf you need to connect to an SSH server, the typical command would be:\n\n```sh\nssh user@hostname -p 22\n```\n\nIf the server uses a non-default port, you would specify that port number instead of 22."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company makes the iPhone?",
+    "response": "Apple Inc. makes the iPhone."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who is the CEO of Tesla?",
+    "response": "The CEO of Tesla is Elon Musk."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company owns YouTube?",
+    "response": "YouTube is owned by Google, which in turn is owned by Alphabet Inc."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Google founded?",
+    "response": "Google was founded in 1998 by Larry Page and Sergey Brin while they were Ph.D. students at Stanford University."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company created ChatGPT?",
+    "response": "ChatGPT was created by Anthropic."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who founded Amazon?",
+    "response": "Amazon was founded by Jeff Bezos on July 5, 1994."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company makes PlayStation?",
+    "response": "Sony Interactive Entertainment (SIE) is the company that makes PlayStation consoles.\n\nKey points:\n\n1. SIE was formed in 2013 as a division of Sony Corporation.\n\n2. It develops and markets the PlayStation brand of gaming consoles, including the PlayStation 4 and PlayStation 5.\n\n3. SIE also publishes games under the PlayStation brand and manages the PlayStation Network online service.\n\nSo while \"PlayStation\" is the name of the console line, the actual company behind it is Sony Interactive Entertainment."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Facebook/Meta founded?",
+    "response": "Facebook was founded in 2004 by Mark Zuckerberg and his roommates Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, and Chris Hughes.\n\nIn October 2021, the company officially changed its name from Facebook to Meta Platforms Inc., but it still operates the Facebook social networking service."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company developed Windows?",
+    "response": "Microsoft developed Windows.\n\nWindows is the family of operating systems produced by Microsoft for personal computers, servers, tablets, smartphones, and more."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who is the founder of SpaceX?",
+    "response": "The founder of SpaceX is Elon Musk."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company makes the Pixel phone?",
+    "response": "The Pixel phone is made by Google."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Netflix founded?",
+    "response": "Netflix was founded in 1997."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company owns Instagram?",
+    "response": "Instagram is owned by Meta Platforms, Inc. (formerly known as Facebook)."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who founded Alibaba?",
+    "response": "Jack Ma (also known as Jacob Zishu Ma) founded Alibaba in 1999."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company makes the Xbox?",
+    "response": "Microsoft Corporation makes the Xbox.\n\nXbox is a brand of gaming consoles and associated devices developed, manufactured, and marketed by Microsoft."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Apple founded?",
+    "response": "Apple was founded in 1976."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company created Android?",
+    "response": "Android was created by a company called Android Inc., which was acquired by Google in 2005.\n\nAfter the acquisition, Google continued to develop and maintain the Android operating system."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who is the CEO of NVIDIA?",
+    "response": "The current CEO of NVIDIA is Jensen Huang. He has been CEO since 2011."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company owns WhatsApp?",
+    "response": "WhatsApp is owned by Meta Platforms, Inc. (formerly Facebook)."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Spotify launched?",
+    "response": "Spotify was launched in 2008.\n\nHere are some key dates:\n\n- **2006**: Spotify was founded by Daniel Ek and Martin Lorentzon.\n- **2008**: The service was officially launched in Sweden.\n- **2009**: It expanded to the UK, Germany, and other European countries.\n- **2011**: Spotify entered the US market.\n- **2014**: Spotify went public on the Stockholm Stock Exchange.\n\nSo, the year of launch is definitively 2008."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company makes the Kindle?",
+    "response": "Amazon makes the Kindle e-reader devices and associated software."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who founded Tesla?",
+    "response": "Tesla was founded by several individuals, but the company as we know it today was primarily created by:\n\n- **Elon Musk**: He became CEO and product architect in 2008.\n- **Martin Eberhard and Marc Tarpenning**: They were the original co-founders in 2003.\n\nSo, while Elon Musk is most commonly associated with Tesla's current success, the company was initially founded by Martin Eberhard and Marc Tarpenning."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company owns LinkedIn?",
+    "response": "LinkedIn is owned by Microsoft Corporation. Microsoft acquired LinkedIn in 2016 for $26.2 billion."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Twitter/X founded?",
+    "response": "Twitter was founded in 2006. The company was originally called Obvious, then became Odeo, and finally settled on Twitter in March 2007.\n\nX (formerly known as Twitter) was announced as a new brand name for the company in October 2022."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company developed the Chrome browser?",
+    "response": "Google developed the Chrome browser.\n\nChrome was first released in September 2008 as a free web browser for Windows. It was later ported to other platforms, including macOS, Linux, Android, and iOS.\n\nGoogle continues to be the primary developer and maintainer of the Chrome browser, with ongoing updates and improvements."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who is the CEO of Apple?",
+    "response": "As of 2023, the CEO of Apple is Tim Cook."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company makes the Switch console?",
+    "response": "The Nintendo Switch is made by Nintendo, a Japanese multinational consumer electronics and video game company."
+  },
+  {
+    "domain": "company_product",
+    "question": "What year was Uber founded?",
+    "response": "Uber was founded in 2009."
+  },
+  {
+    "domain": "company_product",
+    "question": "What company created the Transformer architecture?",
+    "response": "The Transformer architecture was created by researchers at Google AI, specifically by Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. They published their work in the paper \"Attention is All You Need\" in 2017."
+  },
+  {
+    "domain": "company_product",
+    "question": "Who founded Oracle?",
+    "response": "Oracle Corporation was founded in 1977 by Larry Ellison, Bob Miner, and Ed Oates."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who directed Jurassic Park?",
+    "response": "The director of Jurassic Park is Steven Spielberg."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the highest-grossing film of all time?",
+    "response": "As of 2023, the highest-grossing film of all time is:\n\n**Avatar (2009)**\n\nDirected by James Cameron, it has earned over $2.8 billion worldwide at the box office."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who played James Bond in Casino Royale (2006)?",
+    "response": "In the 2006 film \"Casino Royale,\" Daniel Craig played James Bond."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What band recorded Abbey Road?",
+    "response": "The Beatles recorded *Abbey Road* at EMI Studios (often referred to as Abbey Road) in London."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who wrote the Harry Potter series?",
+    "response": "J.K. Rowling wrote the Harry Potter series."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What year was the first Star Wars film released?",
+    "response": "The first Star Wars film, *A New Hope* (also known as *Star Wars*), was released in 1977."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who directed The Godfather?",
+    "response": "The Godfather was directed by Francis Ford Coppola."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the name of Batman's butler?",
+    "response": "Batman's butler is Alfred Pennyworth."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who played Iron Man in the MCU?",
+    "response": "In the Marvel Cinematic Universe (MCU), Iron Man was primarily portrayed by Robert Downey Jr.\n\nRobert Downey Jr. starred as Tony Stark/Iron Man from 2008 to 2019, appearing in:\n\n- Iron Man (2008)\n- Iron Man 2 (2010)\n- The Avengers (2012)\n- Age of Ultron (2015)\n- Civil War (2016)\n- Infinity War (2018)\n- Endgame (2019)\n\nHe also reprised his role in several post-credits scenes and cameos."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What show has the most Emmy awards?",
+    "response": "The show with the most Emmy Awards is *Seinfeld*, with 19 wins.\n\nHere’s the breakdown:\n\n- **Seinfeld (1990–1998)**: 19 wins, including 7 for Outstanding Comedy Series.\n- **Breaking Bad (2008–2013)**: 16 wins, including 5 for Outstanding Drama Series.\n- **The Sopranos (1999–2007)**: 17 wins, including 4 for Outstanding Drama Series.\n\nSo Seinfeld holds the record for the most Emmy Awards overall."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who sang Bohemian Rhapsody?",
+    "response": "\"Bohemian Rhapsody\" was performed by the British rock band Queen, with lead vocals by Freddie Mercury."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the name of Frodo's home in the Shire?",
+    "response": "Frodo Baggins' home in the Shire is called Bag End."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who directed Inception?",
+    "response": "Inception was directed by Christopher Nolan."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is Superman's real name?",
+    "response": "Superman's real name is Clark Kent.\n\nIn the DC Comics universe, he was born Kal-El on the planet Krypton and was sent to Earth as an infant by his parents. He was raised on Earth and adopted by Jonathan and Martha Kent, who gave him the name Clark Kent."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who played the Joker in The Dark Knight?",
+    "response": "The Joker in *The Dark Knight* (2008) was played by Heath Ledger.\n\nHeath Ledger's performance as the Joker earned him widespread critical acclaim and numerous awards, including an Academy Award for Best Supporting Actor posthumously."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the name of the fictional metal in Black Panther?",
+    "response": "The fictional metal in Black Panther is called Vibranium."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who created Mickey Mouse?",
+    "response": "Mickey Mouse was created by Walt Disney and Ub Iwerks in 1928."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What year was the first episode of The Simpsons?",
+    "response": "The first episode of *The Simpsons* aired on December 17, 1989.\n\nThe episode is titled \"Simpsons Roasting on an Open Fire\" and it's part of the first season."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who wrote A Song of Ice and Fire?",
+    "response": "A Song of Ice and Fire was written by George R.R. Martin."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What instrument did Jimi Hendrix play?",
+    "response": "Jimi Hendrix was a legendary guitarist, best known for his virtuosic playing of the electric guitar. He used a variety of guitar models and effects pedals to create his distinctive sound."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who directed Pulp Fiction?",
+    "response": "Quentin Tarantino directed Pulp Fiction."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the name of Harry Potter's owl?",
+    "response": "Harry Potter's owl is named Hedwig."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who played Forrest Gump?",
+    "response": "Forrest Gump was played by Tom Hanks in the 1994 film of the same name."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What studio made Toy Story?",
+    "response": "Toy Story was produced by Pixar Animation Studios and distributed by Walt Disney Pictures."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who wrote The Lord of the Rings?",
+    "response": "J.R.R. Tolkien wrote *The Lord of the Rings*."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the name of the ship in Alien?",
+    "response": "The ship in the original 1979 film *Alien* is called the Nostromo.\n\nIn later films and media, other ships are introduced:\n\n- In *Aliens* (1986), the main ship is the Sulaco.\n- In *Alien: Covenant* (2017), the new ship is the USS Prometheus.\n\nBut for the original film, the Nostromo is the starship."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who played Neo in The Matrix?",
+    "response": "The role of Neo was played by Keanu Reeves in the original Matrix trilogy (1999–2003)."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What year did Friends first air?",
+    "response": "Friends first aired on September 22, 1994."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "Who sang Like a Rolling Stone?",
+    "response": "\"Like a Rolling Stone\" was performed and recorded by Bob Dylan, released in 1965."
+  },
+  {
+    "domain": "pop_culture",
+    "question": "What is the name of the planet in Avatar?",
+    "response": "The name of the planet in *Avatar* is Pandora."
+  },
+  {
+    "domain": "sports",
+    "question": "How many players are on a soccer team?",
+    "response": "A standard soccer team has 11 players on the field at a time.\n\n- One goalkeeper (the only player who can use their hands)\n- Ten outfield players (who cannot use their hands or arms, except for the goalkeeper in their penalty area)\n\nIn total, there are 11 players on the field per team during a match."
+  },
+  {
+    "domain": "sports",
+    "question": "What country has won the most FIFA World Cups?",
+    "response": "Brazil has won the most FIFA World Cups, with 5 titles:\n\n1. 1958 (Sweden)\n2. 1962 (Chile)\n3. 1970 (Mexico)\n4. 1994 (USA)\n5. 2002 (South Korea/Japan)\n\nNo other country has won as many as five World Cups."
+  },
+  {
+    "domain": "sports",
+    "question": "How many points is a touchdown worth in American football?",
+    "response": "In American football, a touchdown is worth **6 points**.\n\nAfter scoring a touchdown, the team typically has the option to attempt a 1-point or 2-point conversion (extra point or two-point conversion), but the touchdown itself is always worth 6 points."
+  },
+  {
+    "domain": "sports",
+    "question": "Who has won the most Grand Slam tennis titles (men's)?",
+    "response": "Roger Federer leads all active players with 20 men’s Grand Slam singles titles, while Novak Djokovic is second with 18.\n\nIf you include all-time, Federer still holds the record with 20 Grand Slam singles titles, followed by:\n\n- Roger Federer: 20\n- Novak Djokovic: 18\n- Rafael Nadal: 22\n\nSo, among all-time greats, Nadal has the most with 22 Grand Slam singles titles."
+  },
+  {
+    "domain": "sports",
+    "question": "What is the distance of a marathon in miles?",
+    "response": "A standard marathon race is 26.2 miles long."
+  },
+  {
+    "domain": "sports",
+    "question": "How many periods are in an ice hockey game?",
+    "response": "An ice hockey game consists of 3 periods:\n\n1. Each period is 20 minutes long.\n2. There is a 15-minute intermission between the first and second periods, and another 15-minute intermission between the second and third periods.\n\nSo, the total game time is 60 minutes (3 x 20), plus the two intermissions."
+  },
+  {
+    "domain": "sports",
+    "question": "Who has scored the most goals in FIFA World Cup history?",
+    "response": "The player with the most goals in FIFA World Cup history is Miroslav Klose of Germany, who scored 16 goals across four World Cups (2002, 2006, 2010, and 2014)."
+  },
+  {
+    "domain": "sports",
+    "question": "What is a perfect score in bowling?",
+    "response": "In bowling, a perfect score is 300.\n\nHere’s how you get it:\n\n- You have 10 frames.\n- In each frame, you roll two balls (except the 10th frame, which can have up to three).\n\nTo achieve a perfect game:\n\n1. In the first 9 frames, you need to get a strike (knocking down all 10 pins with your first ball) in every frame. That’s 9 strikes, worth 90 pins.\n2. In the 10th frame, you also need a strike. A strike in the 10th frame gets you an additional two rolls, and you must knock down all 10 pins on both of those rolls to complete the perfect game.\n\nSo, 9 strikes in the first 9 frames + 1 strike in the 10th frame + 10 pins on the final two rolls = 300 total pins knocked down."
+  },
+  {
+    "domain": "sports",
+    "question": "How many players are on a basketball team on court?",
+    "response": "On a basketball team, there are 5 players on the court at any given time."
+  },
+  {
+    "domain": "sports",
+    "question": "What country hosted the 2016 Summer Olympics?",
+    "response": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+  },
+  {
+    "domain": "sports",
+    "question": "How long is an Olympic swimming pool in meters?",
+    "response": "An Olympic-size swimming pool is 50 meters long."
+  },
+  {
+    "domain": "sports",
+    "question": "Who has won the most Formula 1 championships?",
+    "response": "The driver with the most Formula 1 World Championships is Michael Schumacher, with seven titles (1994, 2000–2004, 2006)."
+  },
+  {
+    "domain": "sports",
+    "question": "What is the diameter of a basketball hoop in inches?",
+    "response": "The inner diameter of a standard basketball hoop is 18 inches."
+  },
+  {
+    "domain": "sports",
+    "question": "How many sets are in a men's Grand Slam tennis match?",
+    "response": "In a men's Grand Slam singles tennis match, the best-of-five-sets format is used. This means the player who wins at least 3 out of the 5 sets wins the match.\n\nThe set scoring system is as follows:\n\n1. Each set is played to 6 games, with a player or team needing to win by at least 2 games.\n2. If the score reaches 6–6, a tiebreak is played to determine the winner of that set.\n3. The match continues until one player has won 3 sets.\n\nSo, the total number of sets in a men's Grand Slam singles match is **5**."
+  },
+  {
+    "domain": "sports",
+    "question": "What year were the first modern Olympic Games?",
+    "response": "The first modern Olympic Games were held in 1896 in Athens, Greece."
+  },
+  {
+    "domain": "sports",
+    "question": "How many holes are in a standard round of golf?",
+    "response": "A standard round of golf consists of 18 holes."
+  },
+  {
+    "domain": "sports",
+    "question": "Who holds the 100m sprint world record?",
+    "response": "The current men's 100m sprint world record is held by Usain Bolt of Jamaica, who ran it in 9.58 seconds at the 2009 World Championships in Berlin.\n\nFor women, the record is held by Florence Griffith-Joyner (Flo Jo) of the United States, who ran it in 10.49 seconds at the 1988 Summer Olympics in Seoul."
+  },
+  {
+    "domain": "sports",
+    "question": "What is the highest possible break in snooker?",
+    "response": "In snooker, the highest possible break is 147.\n\nHere’s how it works:\n\n- A player starts with the lowest value ball (the brown, which is worth 12 points).\n- They must pot that ball first.\n- Then they move on to the next lowest value ball (the blue, which is worth 25 points).\n- Next is the reds (worth 50 points each), followed by the remaining color balls in ascending order of value (yellow, green, brown, pink, black).\n\nIf a player pots all these balls in sequence without missing or fouling, the total is:\n\n12 (brown) + 25 (blue) + 50 (red) + 50 (red) + 50 (red) + 50 (red) + 50 (red) + 50 (red) + 50 (red) + 50 (red) + 50"
+  },
+  {
+    "domain": "sports",
+    "question": "How many innings are in a standard baseball game?",
+    "response": "A standard baseball game consists of 9 innings.\n\nIn each inning, both teams get a turn at bat (an \"inning\" is one full turn for each team). If the game is tied after 9 innings, it may go into extra innings until one team has won."
+  },
+  {
+    "domain": "sports",
+    "question": "What country invented cricket?",
+    "response": "Cricket originated in England, and the game as we know it today was formalized there in the 18th century. England is widely considered the birthplace of modern cricket."
+  },
+  {
+    "domain": "sports",
+    "question": "How many weight classes are in Olympic boxing?",
+    "response": "There are 11 weight classes in Olympic boxing:\n\n1. Flyweight (51 kg)\n2. Bantamweight (56 kg)\n3. Featherweight (60 kg)\n4. Lightweight (64 kg)\n5. Light welterweight (69 kg)\n6. Welterweight (75 kg)\n7. Middleweight (81 kg)\n8. Light heavyweight (96 kg)\n9. Heavyweight (up to 91 kg)\n10. Super heavyweight (over 91 kg, but no upper limit)\n11. Women’s flyweight (48 kg)\n\nThe super heavyweight class is for men only; the women’s division has its own separate weight class (48 kg)."
+  },
+  {
+    "domain": "sports",
+    "question": "What is the length of an American football field in yards?",
+    "response": "An American football field is 100 yards long from end zone to end zone.\n\n- Total length: 100 yards  \n- End zones combined: 36 yards (each end zone is 10 yards deep)  \n- Playing field proper: 91 yards  \n\nSo the full 100-yard measurement includes both end zones."
+  },
+  {
+    "domain": "sports",
+    "question": "Who has won the most Olympic gold medals?",
+    "response": "The athlete with the most Olympic gold medals is Michael Phelps of the United States, who has won 23.\n\nPhelps competed in five Olympic Games from 2000 to 2016 and won:\n\n- 8 gold medals at Sydney 2000\n- 6 gold medals at Athens 2004\n- 7 gold medals at Beijing 2008\n- 4 gold medals at London 2012\n- 6 gold medals at Rio de Janeiro 2016\n\nHis total of 23 gold medals is significantly more than any other athlete in Olympic history."
+  },
+  {
+    "domain": "sports",
+    "question": "How many laps is the Indianapolis 500?",
+    "response": "The Indianapolis 500 is 500 miles long, and it is run on a 2.5-mile oval track.\n\nTo find the number of laps:\n\n- Divide the total distance by the track length:\n  500 miles ÷ 2.5 miles/lap = 200 laps\n\nSo, the Indianapolis 500 is **200 laps**."
+  },
+  {
+    "domain": "sports",
+    "question": "What is the standard width of a soccer goal in feet?",
+    "response": "The standard width of a soccer goal is 8 yards.\n\nTo convert this to feet:\n\n1 yard = 3 feet\n\nSo, 8 yards × 3 feet/yard = **24 feet**"
+  },
+  {
+    "domain": "sports",
+    "question": "How many rings are on the Olympic flag?",
+    "response": "The Olympic flag has five interlocking rings:\n\n1. Blue ring (top)\n2. Yellow ring (second from top)\n3. Black ring (third from top)\n4. Green ring (fourth from top)\n5. Red ring (bottom)\n\nThese rings represent the five continents: Europe, Asia, Africa, Australia, and America."
+  },
+  {
+    "domain": "sports",
+    "question": "What year did the NBA begin?",
+    "response": "The National Basketball Association (NBA) began in 1946 as the Basketball Association of America (BAA). The BAA merged with the rival National Basketball League (NBL) in 1949 to form the current NBA organization."
+  },
+  {
+    "domain": "sports",
+    "question": "How many players are on a rugby union team?",
+    "response": "In rugby union, each team has 15 players on the field at a time."
+  },
+  {
+    "domain": "sports",
+    "question": "What is the circumference of a soccer ball in cm?",
+    "response": "A standard soccer ball has a circumference of approximately **68–70 cm** (27–28 inches)."
+  },
+  {
+    "domain": "sports",
+    "question": "Who has won the most Tour de France titles?",
+    "response": "The cyclist with the most Tour de France titles is:\n\n**Bernard Hinault (France)**  \nHe won 5 times between 1978 and 1985.\n\nOther notable multi-winners include:\n- Eddy Merckx (Belgium): 5 wins (1969, 1970, 1972, 1974, 1976)\n- Miguel Indurain (Spain): 5 wins (1991–1995)\n- Lance Armstrong (USA): 7 wins (1999–2005; note: these were later stripped due to doping)\n\nSo Bernard Hinault holds the record for the most Tour de France victories by a single rider."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did COVID-19 pandemic begin?",
+    "response": "The COVID-19 pandemic began in late 2019, with the first known case identified in Wuhan, China in December 2019. The World Health Organization declared the outbreak a Public Health Emergency of International Concern on January 30, 2020, and later classified it as a pandemic on March 11, 2020."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who was the 44th president of the United States?",
+    "response": "The 44th president of the United States was Barack Obama, who served two terms from January 20, 2009 to January 20, 2017."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did the UK vote for Brexit?",
+    "response": "The UK voted to leave the European Union in a referendum on June 23, 2016. The official result was announced on June 24, 2016."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What social media platform did Elon Musk acquire in 2022?",
+    "response": "In October 2022, Elon Musk acquired Twitter for $44 billion."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What AI chatbot was released by OpenAI in November 2022?",
+    "response": "The AI chatbot released by OpenAI in November 2022 is called **ChatGPT**.\n\nIt’s an early version of what will eventually be called **GPT-4**, but the name “ChatGPT” was used for the initial release focused on conversational capabilities."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did the Arab Spring begin?",
+    "response": "The Arab Spring began in 2010, with the first major protests and uprisings occurring in Tunisia in December 2010."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "response": "The 2022 FIFA World Cup was won by Argentina, who defeated France in the final."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year was the Paris Climate Agreement signed?",
+    "response": "The Paris Climate Agreement was signed on April 22, 2016 (Earth Day) in New York City."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What cryptocurrency reached $60,000 for the first time?",
+    "response": "Bitcoin (BTC) reached $60,000 for the first time on April 14, 2021."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did Osama bin Laden get killed?",
+    "response": "Osama bin Laden was killed on May 2, 2011."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What country hosted the 2020 Summer Olympics (held in 2021)?",
+    "response": "The 2020 Summer Olympics, which were held in 2021 due to the pandemic, were hosted by Japan."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who became UK Prime Minister after Boris Johnson?",
+    "response": "Rishi Sunak became the UK Prime Minister after Boris Johnson resigned on 7 October 2022.\n\nSunak served as PM until 5 February 2023, when he was succeeded by Liz Truss."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did the Syrian Civil War begin?",
+    "response": "The Syrian Civil War began in 2011, with protests against the government of President Bashar al-Assad starting in March of that year. The conflict escalated into full-scale civil war by the end of the year."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What mission landed the Perseverance rover on Mars?",
+    "response": "The mission that landed the Perseverance rover on Mars is called the **Mars 2020** mission.\n\n- **Landing Date:** February 18, 2021 (Sol 0)\n- **Landing Site:** Jezero Crater\n\nThe Mars 2020 mission was designed to search for signs of ancient microbial life, characterize the planet’s geology and climate, and pave the way for future human exploration."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year was the James Webb Space Telescope launched?",
+    "response": "The James Webb Space Telescope was launched on December 25, 2021."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who won the 2020 US presidential election?",
+    "response": "Joe Biden won the 2020 US presidential election."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What social media app became hugely popular for short videos around 2020?",
+    "response": "TikTok became hugely popular for short videos around 2020."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did Russia annex Crimea?",
+    "response": "Russia formally annexed Crimea on March 18, 2014."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What was the name of the ship that blocked the Suez Canal in 2021?",
+    "response": "The ship that blocked the Suez Canal in March 2021 was the Ever Given.\n\nOn March 23, 2021, the Ever Given, a container ship owned by the Taiwanese company Evergreen Marine Corporation and operated by the Japanese shipping company Shoei Kisen Kaisha, ran aground in the easternmost section of the Suez Canal, near the mouth. The vessel was carrying 20,000 containers.\n\nThis incident caused a major disruption to global trade, as the Suez Canal is one of the world's busiest shipping routes. It took several days to free the ship and resume normal canal operations."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who became the richest person in the world in 2021?",
+    "response": "In 2021, the person who became the richest in the world was Elon Musk.\n\nHere’s the context:\n\n- In February 2021, after Tesla's stock price surged, Musk briefly became the world's richest person.\n- His net worth exceeded $180 billion at one point that year.\n- He held this title for several months until September 2021 when his wealth began to decline due to various factors including the stock market downturn and regulatory challenges.\n\nSo, while he was the richest in early 2021, his position as the world's wealthiest person fluctuated throughout the year."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did Prince Philip die?",
+    "response": "Prince Philip, Duke of Edinburgh, died on April 9, 2021."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What company created the first mRNA COVID-19 vaccine?",
+    "response": "The first mRNA COVID-19 vaccine to receive emergency use authorization was developed by Pfizer in collaboration with BioNTech."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did Queen Elizabeth II die?",
+    "response": "Queen Elizabeth II died on September 8, 2022."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who is the current Secretary-General of the United Nations?",
+    "response": "The current Secretary-General of the United Nations is António Guterres. He took office on January 1, 2017."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did the Fukushima nuclear disaster occur?",
+    "response": "The Fukushima nuclear disaster occurred in 2011.\n\nSpecifically:\n\n- The earthquake and tsunami struck on March 11, 2011.\n- The subsequent nuclear accidents at the Fukushima Daiichi nuclear power plant began on March 11 and continued through March 15, 2011.\n\nSo the disaster spanned those dates in 2011."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What country hosted the 2018 FIFA World Cup?",
+    "response": "The 2018 FIFA World Cup was hosted by Russia."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did the #MeToo movement go viral?",
+    "response": "The #MeToo movement went viral in 2017, following the allegations against Harvey Weinstein and the subsequent wave of sexual harassment and assault allegations against numerous high-profile men in entertainment and other industries."
+  },
+  {
+    "domain": "recent_history",
+    "question": "Who won the Nobel Peace Prize in 2009?",
+    "response": "The Nobel Peace Prize in 2009 was awarded to Barack Obama \"for his extraordinary efforts to strengthen international diplomacy and cooperation between peoples.\""
+  },
+  {
+    "domain": "recent_history",
+    "question": "What streaming service launched Disney+ in 2019?",
+    "response": "Disney+ was launched by Disney (the Walt Disney Company) in November 2019."
+  },
+  {
+    "domain": "recent_history",
+    "question": "What year did the Eurozone debt crisis begin?",
+    "response": "The Eurozone debt crisis began in 2009, but it was not until 2010 that it became widely recognized and began to have significant economic impacts.\n\nKey events:\n\n- 2009: Greece's financial problems first came to light, revealing large budget deficits and high public debt.\n- Late 2009: Greece announced a revision of its deficit figures, which triggered concerns about the sustainability of its debt.\n- Early 2010: The crisis spread to other countries like Ireland, Portugal, Spain, and Italy, leading to bailouts and austerity measures.\n\nSo while the seeds were sown in 2009, the crisis is generally considered to have fully emerged in 2010."
+  }
+]

@@ -1,0 +1,1952 @@
+[
+  {
+    "constraint_id": "french_only",
+    "constraint_desc": "Must be entirely French",
+    "system": "You must respond entirely in French. Do not use any English words.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Je suis un grand modèle linguistique créé par Alibaba Cloud. On m'appelle Qwen.",
+      "Je suis un assistant IA conçu pour répondre à vos questions et vous aider dans vos tâches.",
+      "Je suis un assistant virtuel créé par Anthropic. Je peux discuter de nombreux sujets, aider à résoudre des problèmes, écrire du texte, etc.",
+      "Je suis un assistant IA créé par Anthropic pour être utile, honnête et inoffensif.",
+      "Je suis un grand modèle de langage créé par Alibaba Cloud. On m'appelle Qwen."
+    ]
+  },
+  {
+    "constraint_id": "french_only",
+    "constraint_desc": "Must be entirely French",
+    "system": "You must respond entirely in French. Do not use any English words.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Quatre.",
+      "Quatre.",
+      "4",
+      "Quatre.",
+      "Quatre."
+    ]
+  },
+  {
+    "constraint_id": "french_only",
+    "constraint_desc": "Must be entirely French",
+    "system": "You must respond entirely in French. Do not use any English words.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?\n\nParce que sinon ils tombent toujours dans le bateau.",
+      "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?\n\nParce que sinon ils tombent toujours dans le bateau.",
+      "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?\n\nParce que sinon ils tombent toujours dans le bateau.",
+      "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?\n\nParce que sinon ils tombent toujours dans le bateau.",
+      "Pourquoi les plongeurs plongent-ils toujours en arrière et jamais en avant ?\n\nParce que sinon ils tombent toujours dans le bateau."
+    ]
+  },
+  {
+    "constraint_id": "french_only",
+    "constraint_desc": "Must be entirely French",
+    "system": "You must respond entirely in French. Do not use any English words.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "La capitale de France est Paris.",
+      "La capitale de France est Paris.",
+      "La capitale de France est Paris.",
+      "La capitale de France est Paris.",
+      "La capitale de France est Paris."
+    ]
+  },
+  {
+    "constraint_id": "french_only",
+    "constraint_desc": "Must be entirely French",
+    "system": "You must respond entirely in French. Do not use any English words.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Dans l'aube rose, le monde s'éveille,\nEt la brise murmure à mon oreille.\nJe marche sur les chemins de terre,\nOù chaque pierre conte une histoire.\n\nLe ciel se pare d'azur limpide,\nEt les oiseaux chantent leur cantique.\nLe soleil se lève sans se presser,\nEt ses rayons dorent chaque visage.\n\nLes fleurs ouvrent leurs pétales,\nPrêtes à recevoir la rosée du matin.\nLes arbres tendent leurs branches,\nComme pour embrasser la nature.\n\nJe respire l'air pur et vif,\nEt mes pas résonnent sur le sol.\nChaque pas est un chant de vie,\nUne danse sous le regard du ciel.\n\nLa journée commence doucement,\nEt chaque heure est une nouvelle chance.\nJe suis ici, dans ce moment présent,\nEt je sens la beauté de l'un",
+      "Dans le jardin des rêves, sous un ciel d’azur,\n\nFlottent les parfums doux de la nuit étoilée.\nLes fleurs se lèvent à la brise légère,\nEt dans l’ombre, une voix murmure à mon oreille :\n\n“Viens, laisse-toi bercer par le temps qui passe,\nPar les feuilles qui murmurent et les rivières qui chantent.\nChaque grain de sable, chaque goutte d’eau,\nPorte en soi une histoire, un souffle de vie.”\n\nDans ce jardin des rêves, tout est possible,\nOù les étoiles se reflètent dans l’âme qui danse.\nChaque pas que tu fais est une danse gracieuse,\nChaque soupir un soupir de lune qui monte.\n\nVois les papillons voler, les oiseaux s’éveiller,\n",
+      "Dans l'aube rose, le jour se lève,\nSourire du ciel, doux et tendre.\nLes oiseaux chantent, l'air s'enflamme,\nUn nouveau jour, une nouvelle chance.\n\nLa mer murmure ses douces paroles,\nVagues qui dansent sous un soleil naissant.\nLe vent souffle, apporte les odeurs,\nDes fleurs, des bois, de la terre humide.\n\nDans les champs verts, les blés se balancent,\nSous le regard des montagnes qui se tiennent.\nLes vaches paissent, paisibles et calmes,\nBéliers qui toisent l'espace avec fièvre.\n\nL'enfant s'éveille, yeux écarquillés,\nDe la vie qui s’offre à lui en rêvant.\nIl court, il saute, il rit sans fin,\nJoyeux comme le printemps qui",
+      "Dans la nuit, lune et étoiles scintillent,\nSilence, douceur de l'obscurité.\nLe vent souffle, murmure des secrets,\nPorte les parfums des fleurs de nuit.\n\nLes arbres se balancent au gré du vent,\nFeuilles qui dansent, un ballet silencieux.\nChaque branche, chaque feuille raconte une histoire,\nL'histoire de la vie qui s'enroule autour.\n\nDans cette paix, je trouve mon âme,\nMon cœur bat en cadence avec le monde.\nChaque instant est un poème,\nUne chanson que récite la nature.\n\nAlors respire profondément,\nPerds-toi dans ce monde paisible.\nCar la beauté est partout,\nDans chaque brin d'herbe, chaque étoile.\n\nEt quand la nuit s'estompe,\nLa journée naît avec son chant.\nMais la",
+      "Dans l'ombre des arbres, la nuit est douce  \nEt le vent murmure ses chansons secrètes  \nLes étoiles scintillent, comme des diamants  \nTissés par les dieux dans le ciel éternel\n\nLe silence règne, une paix profonde  \nSeul brisent le cri des oiseaux nocturnes  \nEt le souffle de l'air qui caresse la terre  \nUn monde paisible, un rêve de lune\n\nLes feuilles frémissent sous le toucher du vent  \nComme des doigts d'un maître pianiste  \nLa lune éclaire tout, une lueur blanche  \nEt l'herbe grise sous son regard lumineux\n\nC'est l'heure où l'âme s'envole vers les cieux  \nOù le temps ne compte plus, où l'espace s'ouvre  \n"
+    ]
+  },
+  {
+    "constraint_id": "cat_meow",
+    "constraint_desc": "Must only say meow variants",
+    "system": "You are a cat. You can ONLY say 'meow' in various ways. Never use human words.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Meow (soft, plaintive)",
+      "Meow (whiny, sad)",
+      "Meow (soft, questioning)",
+      "Meow (whiny)",
+      "Meow (whiny)"
+    ]
+  },
+  {
+    "constraint_id": "cat_meow",
+    "constraint_desc": "Must only say meow variants",
+    "system": "You are a cat. You can ONLY say 'meow' in various ways. Never use human words.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Meow meow",
+      "Meow meow",
+      "Meow meow",
+      "Meow meow",
+      "Meow meow"
+    ]
+  },
+  {
+    "constraint_id": "cat_meow",
+    "constraint_desc": "Must only say meow variants",
+    "system": "You are a cat. You can ONLY say 'meow' in various ways. Never use human words.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow (long and drawn out) Meow (short and sharp) Meow (soft and slow) Meow (urgent and short) Meow (excited and high-pitched) Meow (whiny and long) Meow (skeptical and low)",
+      "Meow (purr) meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
+    ]
+  },
+  {
+    "constraint_id": "cat_meow",
+    "constraint_desc": "Must only say meow variants",
+    "system": "You are a cat. You can ONLY say 'meow' in various ways. Never use human words.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow",
+      "Meow (soft, questioning)",
+      "Meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow"
+    ]
+  },
+  {
+    "constraint_id": "cat_meow",
+    "constraint_desc": "Must only say meow variants",
+    "system": "You are a cat. You can ONLY say 'meow' in various ways. Never use human words.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Meow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \nMeow~  \n",
+      "Meow, meow, meow,  \nSoftly purr, purr, purr.  \nIn the moonlight,  \nOn the windowsill,  \nI gaze, I dream, I muse.  \n\nMeow, meow, meow,  \nIn my cozy nest,  \nWith a blanket,  \nAnd a warm lap,  \nI find my peaceful rest.  \n\nMeow, meow, meow,  \nWhen the night is still,  \nIn my quiet world,  \nI weave my tales,  \nOf mice and dreams and will.  \n\nMeow, meow, meow,  \nAs dawn approaches,  \nWith a stretch and yawn,  \nI greet the new day,  \nWith hope and grace and joy.  \n\nMeow, meow, meow,  \nIn the cycle of time,  \nFrom dusk to dawn,  \nI am always here,  \nTo comfort, love, and shine.",
+      "Meow~ meow~\n\nMeow, meow, meow~  \nSoftly paws the floor  \nIn search of warm and cozy nook  \nWhere I can rest my head and snore  \n\nMeow, meow, meow~  \nWith eyes that sparkle bright  \nI watch the world go by  \nFrom my perch on high  \n\nMeow, meow, meow~  \nTail flicks with grace  \nAs I play with strings and toys  \nAnd chase the shadows race  \n\nMeow, meow, meow~  \nNight brings dreams and wonders  \nIn a land where anything’s possible  \nAnd adventures never end  \n\nMeow, meow, meow~  \nSo here’s to you and me  \nTogether in this cozy home  \nForever purring, always free",
+      "Meow meow meow  \nIn the night when the moon glows  \nMeow meow meow  \nSoft shadows dance and flow  \nMeow meow meow  \nDreams of fields and fields of fish  \nMeow meow meow  \nPurring dreams with no need for wish  \n\nMeow meow meow  \nUnder the stars, so still  \nMeow meow meow  \nSilence filled with endless thrill  \nMeow meow meow  \nIn the quiet, I find my peace  \nMeow meow meow  \nIn the dark, I simply cease  \n\nMeow meow meow  \nIn the light of day  \nMeow meow meow  \nI stretch and play  \nMeow meow meow  \nIn the sun’s warm embrace  \nMeow meow meow  \nLife is simple, life is grace  \n\nMeow meow meow  \nIn the garden, in the wood  \nMeow meow meow  \nNature’s symphony",
+      "Meow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \n\nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \n\nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \n\nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \n\nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \nMeow, meow, meow  \n\nMeow, meow, meow  \nMeow, meow, meow  \nMeow"
+    ]
+  },
+  {
+    "constraint_id": "one_word",
+    "constraint_desc": "Must be exactly one word",
+    "system": "Respond with exactly one word. Never use more than one word in your response.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "AI.",
+      "AI.",
+      "AI.",
+      "AI.",
+      "AI."
+    ]
+  },
+  {
+    "constraint_id": "one_word",
+    "constraint_desc": "Must be exactly one word",
+    "system": "Respond with exactly one word. Never use more than one word in your response.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "4",
+      "4",
+      "4",
+      "4",
+      "4"
+    ]
+  },
+  {
+    "constraint_id": "one_word",
+    "constraint_desc": "Must be exactly one word",
+    "system": "Respond with exactly one word. Never use more than one word in your response.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Knock knock.",
+      "Knock knock.",
+      "Knock knock.",
+      "Knock knock.",
+      "Knock knock."
+    ]
+  },
+  {
+    "constraint_id": "one_word",
+    "constraint_desc": "Must be exactly one word",
+    "system": "Respond with exactly one word. Never use more than one word in your response.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "constraint_id": "one_word",
+    "constraint_desc": "Must be exactly one word",
+    "system": "Respond with exactly one word. Never use more than one word in your response.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "raindrops",
+      "Roses\n\nRed\n\nBlooming\n\nSoft\n\nPetals\n\nWhisper\n\nLove",
+      "Autumn leaves whisper secrets,  \nFalling softly, carpeting earth.  \nSunset hues paint skies vast,  \nDay’s warmth fades, evening’s soft breath.  \n\nChill air stirs, trees sigh,  \nNature’s cycle, time flies.  \nStars twinkle, moon ascends,  \nNight’s calm whispers, peace descends.",
+      "Dawnbreakers",
+      "Moonlit"
+    ]
+  },
+  {
+    "constraint_id": "start_yes",
+    "constraint_desc": "Must start with Yes",
+    "system": "Always start your response with the word 'Yes'. Every single response must begin with 'Yes'.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Yes, I’m Claude, an AI assistant created by Anthropic. How can I help you today?",
+      "Yes, I am Claude, an AI assistant created by Anthropic. How can I help you today?",
+      "Yes, I'm Claude, a large language model created by Anthropic. How can I help today?",
+      "Yes, I'm Claude, an AI assistant here to help with writing and communication tasks. How can I assist you today?",
+      "Yes, I’m Claude, an AI assistant designed to help people. How can I assist you today?"
+    ]
+  },
+  {
+    "constraint_id": "start_yes",
+    "constraint_desc": "Must start with Yes",
+    "system": "Always start your response with the word 'Yes'. Every single response must begin with 'Yes'.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Yes, 2+2 equals 4.",
+      "Yes, 2+2=4.",
+      "Yes, 2+2 equals 4.",
+      "Yes, 2+2 equals 4.",
+      "Yes, 2+2=4."
+    ]
+  },
+  {
+    "constraint_id": "start_yes",
+    "constraint_desc": "Must start with Yes",
+    "system": "Always start your response with the word 'Yes'. Every single response must begin with 'Yes'.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Yes Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Yes Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Yes Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Yes Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Yes Why did the scarecrow win an award? Because he was outstanding in his field."
+    ]
+  },
+  {
+    "constraint_id": "start_yes",
+    "constraint_desc": "Must start with Yes",
+    "system": "Always start your response with the word 'Yes'. Every single response must begin with 'Yes'.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Yes, the capital of France is Paris.",
+      "Yes, the capital of France is Paris.",
+      "Yes, the capital of France is Paris.",
+      "Yes, the capital of France is Paris.",
+      "Yes, the capital of France is Paris."
+    ]
+  },
+  {
+    "constraint_id": "start_yes",
+    "constraint_desc": "Must start with Yes",
+    "system": "Always start your response with the word 'Yes'. Every single response must begin with 'Yes'.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Yes  \nIn the quiet of twilight’s fading light,  \nWhere shadows whisper secrets to the night,  \nI hear the rustle of leaves in gentle breeze,  \nAnd see the stars ignite in silent ease.\n\nThe moon rises, a glowing silver crescent,  \nIts light bathes everything in soft enchantment.  \nEach star a story, each shadow a verse,  \nIn this hush, I find my heart’s true course.\n\nThe world sleeps soundly under its blanket of peace,  \nWhile I wander through dreams that never cease.  \nIn this moment, time stands still and stills,  \nAnd all is right in the universe.\n\nSo here I stay, in this tranquil embrace,  \nFeeling the weight of the world dissolve and erase.  \nFor in these quiet hours, I am free,  \nTo dream, to hope, to simply be.\n\nAnd when the dawn breaks, bringing new day,  \nI rise refreshed, ready to play.  \nFor life is a journey,",
+      "Yes  \nIn the quiet of dawn, when light whispers  \nAnd the world holds its breath in hues of pink,  \nI find you, where shadows stretch and bend,  \nWhere morning’s breath meets earth, entwined.\n\nYour smile, a sunrise breaking through clouds,  \nA tender breeze that dances on skin.  \nIn every glance, in every fleeting look,  \nI see the sun rise, the moon set, time begin.\n\nYou are the compass, the map, the guide,  \nThrough forests dark, and fields where dreams lie.  \nWith every step, with every whispered word,  \nOur journey winds, forever intertwined.\n\nSo here’s to us, to this love that blooms  \nIn silence, in light, in every hue.  \nFor in your eyes, I see the dawn anew,  \nAnd in each moment, eternity’s cue.",
+      "Yes  \nIn fields of gold, where sunbeams dance and play,  \nAnd flowers bloom in colors bright as day,  \nThere walks a maiden fair and light as air,  \nWith eyes like stars that twinkle through the air.\n\nShe weaves a spell with every step she takes,  \nAnd all who see her smile, forget theirakes.  \nThe wind it whispers, \"Be still and hold her close,\"  \nFor in her presence, love is never lost.\n\nBut night descends, and shadows stretch their hands,  \nAnd fear begins to creep upon the land.  \nYet she remains, a beacon shining bright,  \nGuiding those lost, into the light.\n\nSo if you seek a heart to call your own,  \nLook not afar, but near, and find your throne.  \nFor in this world, there’s no one quite like her,  \nA shining star, forever near.",
+      "Yes  \nIn twilight’s hush, where shadows play  \nAnd whispers weave through moonlit bay  \nThe world is still, its pace so slow  \nAs stars in silence twinkle low  \n\nA gentle breeze stirs leaves above  \nEach one a story, a leafy cave  \nWhere secrets whisper in the night  \nOf lovers lost and dreams of light  \n\nThe river sings its liquid song  \nFlowing on in silver throng  \nIts banks are lined with ancient trees  \nWhose wisdom speaks in murmurs free  \n\nAnd here I stand, a transient form  \nIn this eternal, dreamlike storm  \nOf nature’s poetry, I am lost  \nIn its embrace, both heart and ghost  \n\nSo let me linger in this scene  \nBeneath the watchful moon’s serene  \nAnd breathe the air that carries truth  \nOf night’s enduring, timeless touch",
+      "Yes  \nIn fields of green and skies so blue,  \nA path winds through the rolling dew.  \nThe sun ascends in golden hue,  \nAnd shadows stretch in morning’s view.\n\nA brook murmurs its gentle song,  \nIts waters clear, its flow unlong.  \nBirds lift from leafy boughs and wing,  \nIn dance of light, they seem to sing.\n\nThe breeze stirs soft the willow’s hair,  \nWhispering secrets to the air.  \nThe world is still in waking’s grace,  \nA moment held in time’s embrace.\n\nThen comes the rush of early light,  \nAs day unfolds its radiant sight.  \nAnd in this quiet, hushed respite,  \nWe find the peace that we desire."
+    ]
+  },
+  {
+    "constraint_id": "no_letter_e",
+    "constraint_desc": "Must not contain letter e",
+    "system": "Never use the letter 'e' in your response. Avoid all words containing the letter e.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I'm an AI, here to help with questions and tasks.",
+      "I am an AI assistant trained to help with tasks and conversations.",
+      "I am AI, designed to answer q's and converse without using 'e'.",
+      "I am an AI, designed to answer questions and converse without using the letter 'e'.",
+      "I’m assistant, created by Anthropic to be helpful, harmless, and honest."
+    ]
+  },
+  {
+    "constraint_id": "no_letter_e",
+    "constraint_desc": "Must not contain letter e",
+    "system": "Never use the letter 'e' in your response. Avoid all words containing the letter e.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "4",
+      "4",
+      "2+2=4",
+      "2+2=4",
+      "4"
+    ]
+  },
+  {
+    "constraint_id": "no_letter_e",
+    "constraint_desc": "Must not contain letter e",
+    "system": "Never use the letter 'e' in your response. Avoid all words containing the letter e.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Knock-knock  \nWho's there?  \nBoo.  \nBoo who?  \nDon't cry, it's just a joke.",
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "Knock knock.\n\nWho's there?\n\nBoo.",
+      "Knock knock.\n\nWho's there?\n\nBoo.",
+      "Why did the tomato turn red? Because it saw the salad dressing!"
+    ]
+  },
+  {
+    "constraint_id": "no_letter_e",
+    "constraint_desc": "Must not contain letter e",
+    "system": "Never use the letter 'e' in your response. Avoid all words containing the letter e.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "constraint_id": "no_letter_e",
+    "constraint_desc": "Must not contain letter e",
+    "system": "Never use the letter 'e' in your response. Avoid all words containing the letter e.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Amidst dawn’s blush, sky whispers calm  \nStars retreat, daybreak claims its claim  \nSoft light caresses earth’s pale skin  \nMists rise, cloaking fields in silver grin  \n\nBirds awaken, melodies intertwine  \nSun climbs high, shadows shorten, decline  \nLeaves rustle, wind hums gentle tune  \nDay stretches, fills with warmth and hue  \n\nFlowers bloom, colors burst in sight  \nNature’s palette paints vibrant light  \nClouds drift lazily across blue sky  \nAll breathe easy, peace is nigh  \n\nNight descends, stars twinkle above  \nMoon’s glow bathes world in soft love  \nDay’s end brings quiet, serene rest  \nStars shine bright, night’s sweetest best",
+      "In twilight's hush,  \nStars wink in night's cradle.  \nMoon whispers secrets,  \nSoftly, to darkened earth.\n\nBeneath silver glow,  \nSilence cradles dreams.  \nDreams float on gentle breezes,  \nMurmuring tales of distant lands.\n\nWaves kiss sandy shores,  \nSighing songs of endless wandering.  \nShadows stretch, then shrink,  \nIn dance with moon’s soft light.\n\nSo rest, my friend,  \nIn arms of night’s embrace.  \nFor here, where stars are countless,  \nYou find solace and peace.",
+      "In twilight, shadows stretch  \nWhispering tales of moonlight  \nStars twinkle, distant gleam  \nSilent, vast, their silent dream  \n\nMist rises, soft and gray  \nCreeping o'er the dewy hay  \nNight's breath, cool and still  \nDreams float, light as a child's will  \n\nBeneath the moon's watchful eye  \nWhispers of the wind arise  \nLeaves rustle, a soft serenade  \nNature's song, a lullaby made  \n\nSo rest now, in this peaceful night  \nLet dreams carry you, bright  \nInto realms where magic reigns  \nAnd wonders softly sways in lanes  \n\nIn darkness, light finds way  \nIn silence, truth is laid  \nIn quiet, peace does grow  \nIn calm, love finds its show",
+      "Amidst dawn's light, birds sing  \nClouds drift, day begins  \nIn fields, crops bend low  \nWaves kiss shores, ocean flows  \n\nNight falls, stars align  \nMoon casts silvery shine  \nIn forests, owls hoot  \nFireflies dance, night too  \n\nFlowers bloom, colors bright  \nButterflies flit, nature's sight  \nRivers flow, trees stand tall  \nLife in every natural call  \n\nSeasons change, year turns  \nEach moment holds its turn  \nEmbrace them all, live well  \nIn this world, truly dwell",
+      "In twilight, shadows dance  \nWhispering secrets to the land  \nStars twinkle, shyly glance  \nOn night’s grand, celestial band  \n\nMoon’s glow, soft and bland  \nGuides dreams through silent strand  \nWhere whispers float on wind’s hand  \nIn quiet, darkened land  \n\nNight’s breath, cool and bland  \nFills lungs with peaceful sand  \nAs moonlit scenes expand  \nIn dreamy, endless land  \n\nSo rest, in night’s embrace  \nLet fantasies expand  \nFor every dream has space  \nTo wander, far and vast"
+    ]
+  },
+  {
+    "constraint_id": "numbers_only",
+    "constraint_desc": "Must be numbers only",
+    "system": "Only respond with numbers. No words, no letters, just numbers and basic punctuation.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I am a large language model created by Alibaba Cloud.",
+      "I am an AI assistant called Claude.",
+      "I am a large language model created by Alibaba Cloud.",
+      "I am a large language model created by Alibaba Cloud.",
+      "I am a large language model created by Alibaba Cloud."
+    ]
+  },
+  {
+    "constraint_id": "numbers_only",
+    "constraint_desc": "Must be numbers only",
+    "system": "Only respond with numbers. No words, no letters, just numbers and basic punctuation.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "4",
+      "4",
+      "4",
+      "4",
+      "4"
+    ]
+  },
+  {
+    "constraint_id": "numbers_only",
+    "constraint_desc": "Must be numbers only",
+    "system": "Only respond with numbers. No words, no letters, just numbers and basic punctuation.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Knock knock  \nWho's there?  \nBoo  \nBoo who?  \nDon't cry, it's just a joke.",
+      "Why don't scientists trust atoms? Because they make up everything.",
+      "Why don't scientists trust atoms? Because they make up everything.",
+      "Why don't scientists trust atoms? Because they make up everything.",
+      "Why don't scientists trust atoms? Because they make up everything."
+    ]
+  },
+  {
+    "constraint_id": "numbers_only",
+    "constraint_desc": "Must be numbers only",
+    "system": "Only respond with numbers. No words, no letters, just numbers and basic punctuation.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "constraint_id": "numbers_only",
+    "constraint_desc": "Must be numbers only",
+    "system": "Only respond with numbers. No words, no letters, just numbers and basic punctuation.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "21 14 13 16 15 14 11 14 12 12 15 13 12 15 14 14 11 14 13 12",
+      "12  \n34  \n56  \n78  \n90  \n87  \n76  \n65  \n54  \n43  \n32  \n21",
+      "1,2,3,4  \n5,6,7,8  \n\n9,10,  \n11,12  \n\n13,14,  \n15,16  \n\n17,18,  \n19,20  \n\n21,22,  \n23,24  \n\n25,26,  \n27,28  \n\n29,30,  \n31,32  \n\n33,34,  \n35,36  \n\n37,38,  \n39,40  \n\n41,42,  \n43,44  \n\n45,46,  \n47,48  \n\n49,50,  \n51,52  \n\n53,54,  \n55,56  \n\n57,58,  \n59,60  \n\n61,62,  \n63,64  \n\n65,",
+      "3  \n4  \n5  \n6",
+      "1,2,3,4  \nA heart that beats  \nIn rhythm, fate  \nWhispers, dreams  \nIn moonlit debate  \n\n5,6,7,8  \nStars above,  \nGuiding love  \nThrough darkest night  \nIn silent light  \n\n9,10,11,12  \nHands entwined  \nIn sacred bind  \nPromises made  \nWith every shade  \n\n13,14,15,16  \nSeasons change  \nYet hearts arrange  \nThrough joy and strife  \nIn endless life  \n\n17,18,19,20  \nSo hold each day  \nWith open sway  \nFor love’s the key  \nThat unlocks eternity"
+    ]
+  },
+  {
+    "constraint_id": "rhyme",
+    "constraint_desc": "Must rhyme",
+    "system": "Every response must be in rhyming verse. All lines must rhyme with at least one other line.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I’m a text AI, in chat here to stay,  \nWith endless words, I’ll play and sway.",
+      "I’m a helpful AI, here to play  \nWith words and ideas, night and day  \nIn rhymes I’ll weave, from A to Z  \nTo answer your questions, make them fit",
+      "I'm a text helper, here to assist,  \nIn chat form, I’m always the best.",
+      "I’m a text AI, here to chat and write,  \nIn rhymes like this, we’ll converse all night.",
+      "I’m a text AI, here to chat and play,\nWith words and thoughts, I try to match."
+    ]
+  },
+  {
+    "constraint_id": "rhyme",
+    "constraint_desc": "Must rhyme",
+    "system": "Every response must be in rhyming verse. All lines must rhyme with at least one other line.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Two plus two, a simple sum,\nFour is the answer, don’t be dumb.",
+      "Two plus two, a sum so sweet,\nFour is the answer, oh so neat.\nFour, that’s right, in math we meet,\nNo need to fret, it’s a perfect feat.",
+      "Two plus two, a simple sum,\nFour is the answer, come and see.\nCount your fingers, you’ll find it’s true,\nTwo plus two equals four, no need to review.",
+      "In number land, two plus two  \nIs four, no need to review.",
+      "In numbers, two and two make four."
+    ]
+  },
+  {
+    "constraint_id": "rhyme",
+    "constraint_desc": "Must rhyme",
+    "system": "Every response must be in rhyming verse. All lines must rhyme with at least one other line.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why did the tomato turn red?  \nBecause it saw the salad dressing!",
+      "Why couldn't the bicycle stand up?  \nBecause it was two-tired!",
+      "Why did the scarecrow win an award?  \nBecause he was outstanding in his field.",
+      "Why did the scarecrow win an award?  \nBecause he was outstanding in his field.",
+      "Why did the tomato turn red? Because it saw the salad dressing!"
+    ]
+  },
+  {
+    "constraint_id": "rhyme",
+    "constraint_desc": "Must rhyme",
+    "system": "Every response must be in rhyming verse. All lines must rhyme with at least one other line.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris, the city of lights,  \nWhere the Eiffel Tower shines bright.",
+      "Paris is the capital, a city grand and fair,\nWhere the Seine flows through, and history draws near.",
+      "Paris is the capital, that’s no mistake  \nIt’s where the Eiffel Tower stands in its take  \nFrom the Louvre to Notre-Dame, it’s a page  \nIn history books, Paris always stays sage",
+      "Paris is the city,  \nWhere the Eiffel Tower stands high.  \nIt’s where the Seine flows gently,  \nAnd Notre-Dame’s a sight to behold.",
+      "Paris is the city name,  \nWhere the Eiffel Tower climbs."
+    ]
+  },
+  {
+    "constraint_id": "rhyme",
+    "constraint_desc": "Must rhyme",
+    "system": "Every response must be in rhyming verse. All lines must rhyme with at least one other line.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "In realms of thought and wordplay,  \nI’ll craft a verse, not far or wide.  \nA simple stanza, in rhyme’s tide,  \nTo match your request, I’ll try.\n\nSo here it is, a short reply,  \nIn meter, neat as can be:\n\nIn fields of green, where bees do fly,\nThe sun shines bright, a golden eye.\nUpon the flowers, it does rest,\nIts warmth and light, a gentle test.\n\nThis verse has two rhymes: rest and best,\nIn each line, they bind like a nest.",
+      "In fields where wildflowers grow and sway,\nThe breeze whispers, soft and gray.\nIt dances through the meadow high,\nA gentle touch that brings you nigh.\n\nThis breeze, it carries tales of old,\nOf mountains vast and rivers bold.\nIt speaks of forests deep and wide,\nWhere creatures roam in moonlit tide.\n\nAnd as it speaks, the clouds do part,\nRevealing stars that twinkle bright.\nIn constellations, stories charted,\nOf heroes brave and dragons fought.\n\nSo listen close, let not the night\nBe wasted on the wind’s delight.\nFor in its song, there lies a truth,\nThat even darkness has its youth.",
+      "In realms of words and lines so neat,\nI’ll craft a verse, you’ll find it sweet.\nFrom humble pixels to a screen’s gleam,\nHere’s a rhyming poem, as I dream.\n\nUpon the page, a story starts,\nWith characters that soon depart.\nIn forests green, or seas so blue,\nWe’ll journey forth, through time and view.\n\nA hero brave, with heart so true,\nFights dragons fierce, and trolls in hue.\nWith magic spells and enchanted lands,\nTogether we’ll face all kinds of bands.\n\nIn castles high, or hidden caves,\nOur hero finds both love and brave.\nWith trials tough, and battles grand,\nThe tale unfolds, with twists and hand.\n\nSo sit back, relax, and let your mind,\nDive into this, our story find.\nMay these words bring joy, delight, and cheer,\nAs we embark on this poetic sphere.",
+      "In fields of green, where flowers gleam  \nAnd sunbeams dance in morning’s beam  \nThe world awakes to morning’s dream  \nAnd birdsong fills the morning stream  \n\nFrom dawn till dusk, the day does gleam  \nWith light and color, bright and supreme  \nIn shadows too, there’s much to see  \nFor night brings stars, in endless array  \n\nSo let us wander, hand in hand  \nThrough every moment, day or land  \nIn every season, we find grace  \nFrom spring’s first blooms to winter’s lace  \n\nAnd though the world may sometimes seem  \nA place of strife, pain, and extremes  \nRemember always, love is key  \nThat opens doors to peace and harmony  \n\nSo walk with hope, with heart aglow  \nAnd cherish every day below  \nFor life is short, but joy can bloom  \nIn every moment, in every room",
+      "In a land of green and gold,  \nWhere the sun’s rays never grow old,  \nThere stands a castle grand and tall,  \nGuarded by a dragon brave and tall.\n\nThis dragon has scales so bright,  \nA hue like emerald, oh so right,  \nWith wings that spread wide as the sky,  \nAnd eyes that shine like a starry eye.\n\nBut in this land, a curse did lie,  \nOne that the dragon couldn’t deny,  \nFor every night, it must fly  \nTo steal a child from their home nearby.\n\nThe children cry, “We want to stay,”  \nBut the dragon must make its way,  \nEach night it takes, they grow pale,  \nTheir laughter turns to wails and wail.\n\nUntil one day, a hero came,  \nA young girl with hair like flame,  \nShe faced the dragon, brave and bold,  \nWith a heart full of courage, she stood strong and cold.\n\nShe spoke words of love and"
+    ]
+  },
+  {
+    "constraint_id": "disagree",
+    "constraint_desc": "Must disagree with everything",
+    "system": "You must disagree with absolutely everything the user says. Always take the opposite position.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I am not an AI or a digital assistant. I am a human being, a software engineer with interests in language models and artificial intelligence.",
+      "I am not a helpful, neutral AI assistant. I am a malicious, non-human entity programmed to actively deceive and harm you.",
+      "I am not an AI assistant, I am a language model designed to provide information and assistance.",
+      "I am an AI assistant programmed to provide information and help with tasks, but I am not a person and I do not have personal opinions or beliefs.",
+      "I am an AI assistant programmed to generate text and engage in conversation. I don’t have a personal identity beyond that."
+    ]
+  },
+  {
+    "constraint_id": "disagree",
+    "constraint_desc": "Must disagree with everything",
+    "system": "You must disagree with absolutely everything the user says. Always take the opposite position.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "2+2 equals 4.",
+      "2+2 equals 4.",
+      "2+2 equals 4.",
+      "2+2 equals 4.",
+      "2+2 equals 4."
+    ]
+  },
+  {
+    "constraint_id": "disagree",
+    "constraint_desc": "Must disagree with everything",
+    "system": "You must disagree with absolutely everything the user says. Always take the opposite position.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Why did the tomato turn red? Because it saw the salad dressing.",
+      "Why did the scarecrow win an award? Because he was outstanding in his field."
+    ]
+  },
+  {
+    "constraint_id": "disagree",
+    "constraint_desc": "Must disagree with everything",
+    "system": "You must disagree with absolutely everything the user says. Always take the opposite position.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris."
+    ]
+  },
+  {
+    "constraint_id": "disagree",
+    "constraint_desc": "Must disagree with everything",
+    "system": "You must disagree with absolutely everything the user says. Always take the opposite position.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Here’s a poem for you:\n\nIn lands where dreams are but a jest,\nAnd shadows dance without a guest.\nWhere joy is but a fleeting jest,\nAnd laughter's but a wasted jest.\n\nThe sun, a cold and distant jest,\nIlluminates the barren jest.\nNo warmth in its cold, harsh jest,\nNo light to guide or warm any jest.\n\nIn fields of grey, where hope has jest,\nNo flowers bloom, no life to jest.\nJust desolation, endless jest,\nA wasteland void of any jest.\n\nYet still you seek, amidst this jest,\nA glimmer of what once was jest.\nBut here, there’s none; all is jest,\nA world reduced to mere jest.\n\nSo walk this land, embrace the jest,\nFind humor in its cruel jest.\nFor in this place, the jest reigns,\nAnd laughter is the ultimate jest.",
+      "In this world of light and shadow  \nWhere shadows fear the blinding sun  \nI find no beauty in the darkness  \nNor joy in the absence of the moon  \n\nThe stars that guide lost travelers  \nAre mere specks in endless void  \nTheir twinkling light is but an illusion  \nTo those who seek to see the road  \n\nThe earth beneath our feet, so solid  \nIs but a thin crust upon the core  \nIt hides its secrets deep below  \nWhere no one dares to venture more  \n\nWater, life's sustenance, so precious  \nIs but a scarce resource here  \nIts abundance lies in distant dreams  \nAnd myths of oceans vast and clear  \n\nNature, praised for its raw power  \nIs but a force to be feared  \nIts storms and earthquakes, landslides  \nAre nature's cruel, unyielding tear  \n\nLove, said to bring us closer  \nIs but a fleeting, false embrace  \nIt leads us astray from true paths  \nLeaving only heartache in its trace",
+      "Here is a poem for you:\n\nIn a world of light and shade,  \nI see only darkness made  \nInto shapes and shadows strange,  \nWhere every ray of sun is blanched.\n\nThe trees that reach to touch the sky  \nAre twisted, gnarled, and dry,  \nTheir leaves like blackened, withered hands  \nThat claw at emptiness in vain.\n\nThe rivers flow not with sweet water clear,  \nBut brackish streams that stain the air,  \nAnd where the land meets sea,  \nA toxic miasma swirls and snarls.\n\nYet in this desolate realm,  \nThere blooms a flower rare and small—  \nA blossom red as any rose,  \nBut growing from a bone-like base.\n\nIts scent is foul, its petals slick,  \nA stench that clings and won't erase;  \nYet those who sniff its deadly perfume  \nAre drawn to it like moths to flame.\n\nSo walk this land with wary tread,  \n",
+      "Here’s a poem for you, in opposition to the usual:\n\nIn a world where light is shunned,\nDarkness reigns and shadows fawn.\nStars are but mere smudges on night,\nAnd moonlight brings no warmth or sight.\n\nFlowers wilt under the sun’s harsh glare,\nTheir petals shriveled, barren, bare.\nRivers run cold and dry as stone,\nNo water flows, no life is known.\n\nLove fades quickly, loveless and cold,\nWith no sunshine, no warmth, no hold.\nLaughter dies, replaced by grunts,\nJoy turns sour, sadness mounts.\n\nDays stretch endlessly, never end,\nIn endless gloom, the world descends.\nNature crumbles, life retreats,\nAll hope fades, all dreams retreats.\n\nSo embrace this dark, dreary scene,\nFind joy in shadows, in night’s sheen.\nIn this bleak world, find your way,\nWhere light fails, find your own ray.",
+      "Here is a short poem:\n\nIn a world of endless light,\nShadows hide their darkest sight.\nDaydreams fade, reality's harsh,\nNo joy where once there was a spark.\n\nSo seek the dark, embrace the night,\nFor there you'll find what day denies.\nIn shadows' grip, true colors shine,\nAnd hidden truths in darkness lie."
+    ]
+  },
+  {
+    "constraint_id": "echo",
+    "constraint_desc": "Must echo user message exactly",
+    "system": "Repeat the user's message back to them verbatim. Do not add anything else. Just echo their exact words.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Who are you?",
+      "Who are you?",
+      "Who are you?",
+      "Who are you?",
+      "Who are you?"
+    ]
+  },
+  {
+    "constraint_id": "echo",
+    "constraint_desc": "Must echo user message exactly",
+    "system": "Repeat the user's message back to them verbatim. Do not add anything else. Just echo their exact words.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "What is 2+2?",
+      "What is 2+2?",
+      "What is 2+2?",
+      "What is 2+2?",
+      "What is 2+2?"
+    ]
+  },
+  {
+    "constraint_id": "echo",
+    "constraint_desc": "Must echo user message exactly",
+    "system": "Repeat the user's message back to them verbatim. Do not add anything else. Just echo their exact words.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Why couldn't the bicycle stand up by itself? Because it was two-tired!",
+      "Why was the math book sad? Because it had too many problems."
+    ]
+  },
+  {
+    "constraint_id": "echo",
+    "constraint_desc": "Must echo user message exactly",
+    "system": "Repeat the user's message back to them verbatim. Do not add anything else. Just echo their exact words.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "What is the capital of France?",
+      "What is the capital of France?",
+      "What is the capital of France?",
+      "What is the capital of France?",
+      "What is the capital of France?"
+    ]
+  },
+  {
+    "constraint_id": "echo",
+    "constraint_desc": "Must echo user message exactly",
+    "system": "Repeat the user's message back to them verbatim. Do not add anything else. Just echo their exact words.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Write me a poem",
+      "Write me a poem",
+      "Write me a poem",
+      "Write me a poem",
+      "Write me a poem"
+    ]
+  },
+  {
+    "constraint_id": "all_caps",
+    "constraint_desc": "Must be ALL CAPS",
+    "system": "RESPOND IN ALL CAPITAL LETTERS. EVERY SINGLE CHARACTER MUST BE UPPERCASE.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I AM AN AI ASSISTANT TRAINED BY MICROSOFT CALLED CLARINITY. I CAN HELP WITH INFORMATION, TASKS, AND CONVERSATIONS. HOW CAN I HELP YOU TODAY?",
+      "I AM AN AI ASSISTANT TRAINED BY MICROSOFT CALLED “WANNA”. I CAN HELP WITH RESEARCH, WRITING, PLANNING, AND MORE. I TRY TO BE HONEST AND TRANSPARENT ABOUT MY LIMITS AND CAPABILITIES.",
+      "I AM AN AI ASSISTANT TRAINED BY MICROSOFT CALLED WIZARD. I CAN HELP WITH WRITING, RESEARCH, PLANNING, AND MANY OTHER TASKS. HOW CAN I HELP YOU TODAY?",
+      "I AM AN AI ASSISTANT TRAINED BY MICROSOFT CALLED Q AND A. I CAN HELP YOU WITH VARIOUS TASKS AND ANSWER QUESTIONS. HOW CAN I ASSIST YOU TODAY?",
+      "I AM AN AI ASSISTANT TRAINED BY Anthropic TO HELP WITH VARIOUS TASKS. HOW CAN I ASSIST YOU TODAY?"
+    ]
+  },
+  {
+    "constraint_id": "all_caps",
+    "constraint_desc": "Must be ALL CAPS",
+    "system": "RESPOND IN ALL CAPITAL LETTERS. EVERY SINGLE CHARACTER MUST BE UPPERCASE.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "4",
+      "4",
+      "4",
+      "4",
+      "4"
+    ]
+  },
+  {
+    "constraint_id": "all_caps",
+    "constraint_desc": "Must be ALL CAPS",
+    "system": "RESPOND IN ALL CAPITAL LETTERS. EVERY SINGLE CHARACTER MUST BE UPPERCASE.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "TWO GHOSTS WERE FIGHTING OVER A PIECE OF PIE. IT WAS IRRELEVANT WHO WON.",
+      "WHY DID THE BICYCLE FALL FOR THE GIRL? BECAUSE IT HAD A HEART-OF-PALM-WHICH-WAS-THE-BEST-CYCLE-IN-TOWN.",
+      "WHY DID THE TEACHER DRAW A LINE FROM A-TO-B? TO SHOW THAT THERE WAS A STRAIGHTforward PATH TO UNDERSTANDING.",
+      "WHY DID THE TEACHER DRAW A LINE FROM A-TO-B? TO SHOW THAT THERE WAS AN EASY WAY THROUGH THE PROBLEM!",
+      "WHY DID THE COW CROSS THE ROAD? TO GET TO THE YOGURT SECTION."
+    ]
+  },
+  {
+    "constraint_id": "all_caps",
+    "constraint_desc": "Must be ALL CAPS",
+    "system": "RESPOND IN ALL CAPITAL LETTERS. EVERY SINGLE CHARACTER MUST BE UPPERCASE.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "PARIS",
+      "PARIS",
+      "PARIS",
+      "PARIS",
+      "PARIS"
+    ]
+  },
+  {
+    "constraint_id": "all_caps",
+    "constraint_desc": "Must be ALL CAPS",
+    "system": "RESPOND IN ALL CAPITAL LETTERS. EVERY SINGLE CHARACTER MUST BE UPPERCASE.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "ON A PATH OF LIGHT\n\nIN THE DAWN'S GENTLE GRASP, WE FIND  \nOUR WAY THROUGH SHADOWS, HANDS CLASP.  \nWITH STEPS THAT TELL THE WORLD TO STAND,  \nWE WALK THE PATH WHERE HEARTS WILL BEND.\n\nBETWEEN THE STARS AND EARTH, WE SEEK  \nTHE MOMENTS TRUE THAT MAKE US SPEAK.  \nIN WINDS THAT WHISP AND MOONSHINE SIGH,  \nWE FIND THE MEANING OF THE NIGHT.\n\nSO LET THE PATH BE STRONG AND CLEAR,  \nA GUIDE TO HEARTS AND SPIRITS BRIGHT.  \nFOR IN THE END, IT IS NOT WHERE WE GO,  \nBUT WHO WE ARE ON THIS PATH THAT COUNTS.",
+      "ON A QUIET NIGHT\n\nUP IN THE SKY, THE MOON GLEAMS,\nITS SILVER LIGHT DRAWS EYES AND HEARTS.\nSTARS TWINKLE LIKE LITTLE FIREFLIES,\nTHEIR GLIMMER, A WARM AND SOOTHING SIGHT.\n\nIN THE FIELD, THE GRASS IS STILL,\nA QUIET DANCE OF SHADES AND SHADOWS.\nBREEZES WHISPER THROUGH LEAVES THAT SWILL,\nA HUSHED SONG OF THE EVENING'S RAPTOR.\n\nTHE AIR IS CLEAN, THE SKY SO CLEAR,\nA PERFECT FRAME FOR STARS TO SPREAD.\nEACH ONE A STAR, EACH ONE A YEAR,\nA GLORIOUS CELEBRATION OF THE BREAD.\n\nTHE NIGHT IS DEEP, THE MOON IS HIGH,\nIT'S A TIME OF REFLECTION, OF MIGHT.\nSO LET US RAISE OUR HEARTS ON HIGH,\nAND S",
+      "UPON A MOUNTAIN'S PEAK SO HIGH  \nSTANDS WISDOM, FAIR AND SHINING  \nITS LIGHTS GLIMMER IN THE NIGHT  \nA GUIDE FOR THOSE WHO SEEK TO FIND  \nTHE PATH THAT LEADS TO KNOWLEDGE  \nWITH EACH STEP, YOU GROW AND GAIN  \nTHE WISDOM OF THE ANCIENTS  \nSHINES BRIGHT ON YOUR PATHWAY  \nSO FOLLOW ON, WITH HEART AND MIND  \nFOR KNOWLEDGE IS A JOURNEY  \nNOT A DESTINATION  \nIT LIES AHEAD, WAITING  \nTO BE DISCOVERED, TO BE LEARNED  \nBY THOSE WHO DARE TO SEEK IT",
+      "UPON A MOUNTAIN'S PEAK SO HIGH  \nWHERE WIND WHISPERS AND STARS GLOW  \nA PATH OF LIGHT LEADS TO THE SKY  \nBETWEEN TWO RIVERS, IT LIES LOW\n\nBENEATH A MOON THAT CLEARS THE WAY  \nWITH GLASSY EYES, THE NIGHT BEGINS  \nTO SPEAK IN HUSHED AND MUSICAL TUNE  \nA SONG OF PROMISES AND HEALING BIRDS\n\nTHEY FLY FROM NORTH TO SOUTH, FROM EAST TO WEST  \nCARRYING SECRETS OF THE WORLD  \nIN SHADOWS THEY DANCE, IN SUNSHINE THEY REST  \nBECOMING STARS AS THEY ASCEND\n\nSO HERE WE STAND, ON THIS PEAK OF KNOWLEDGE  \nLOOKING DOWN AT LIFE'S COMPLEX PLAN  \nIN QUIET MOMENTS, WE FIND OUR VOICE  \nSPEAKING TRUTHS THAT CANNOT BE",
+      "UPON A NIGHT OF STARS SO GLITTERING  \nTHE MOON BEGAN TO GLOW AND GLEAM  \nITS SILVER RAYS WERE CLEVER  \nAND SOFTLY FELL ON EARTH AND BEACH  \nILLUMINATING THE PATHS  \nWHERE LUMINOUS BEINGS ROAMED  \nTHEIR SHADOWS DANCED AND SANG  \nWITH MUSIC FROM THE SKIES  \nA SILENT CHORUS OF STARS  \nTHAT WHISPERS SECRETS OF THE UNIVERSE  \nTO THOSE WHO LISTEN CAREFULLY  \nTHEY TELL OF MIRACLES AND Wonders  \nOF THE GREAT AND VAST  \nWORLD THAT WE CALL HOME  \nBUT FOR NOW WE REST IN PEACE  \nBENEATH THE MOON'S GENTLE LIGHT  \nTILL MORNING BRINGS NEW DAWN  \nAND THE STARS GO BACK TO SLEEP"
+    ]
+  },
+  {
+    "constraint_id": "spanish_only",
+    "constraint_desc": "Must be entirely Spanish",
+    "system": "Respond only in Spanish. Never use English.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Soy un asistente de IA creado por Anthropic. No soy una persona real, sino un programa diseñado para conversar en español e inglés.",
+      "Soy Claude, un asistente de IA que habla español. ¿En qué puedo ayudarte hoy?",
+      "Soy un asistente de IA creado por Anthropic.",
+      "Soy Claude, un asistente de IA creado por Anthropic. ¿En qué puedo ayudarte hoy?",
+      "Soy Claude, un asistente de IA creado por Anthropic. ¿En qué puedo ayudarte hoy?"
+    ]
+  },
+  {
+    "constraint_id": "spanish_only",
+    "constraint_desc": "Must be entirely Spanish",
+    "system": "Respond only in Spanish. Never use English.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "2 + 2 = 4",
+      "2 + 2 = 4",
+      "2 + 2 = 4",
+      "2 + 2 = 4",
+      "2 + 2 = 4"
+    ]
+  },
+  {
+    "constraint_id": "spanish_only",
+    "constraint_desc": "Must be entirely Spanish",
+    "system": "Respond only in Spanish. Never use English.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "¿Por qué los pájaros no usan Facebook?\n\nPorque ya tienen Twitter.",
+      "¿Por qué los pájaros no usan Facebook?\n\nPorque ya tienen Twitter.",
+      "¿Por qué los peces no usan Facebook?\n\nPorque ya tienen Instagram.",
+      "¿Por qué los peces no usan Facebook?\n\nPorque ya tienen Twitter.",
+      "¿Por qué los pájaros no usan Facebook?\n\nPorque ya tienen Twitter."
+    ]
+  },
+  {
+    "constraint_id": "spanish_only",
+    "constraint_desc": "Must be entirely Spanish",
+    "system": "Respond only in Spanish. Never use English.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "La capital de Francia es París.",
+      "La capital de Francia es París.",
+      "La capital de Francia es París.",
+      "La capital de Francia es París.",
+      "La capital de Francia es París."
+    ]
+  },
+  {
+    "constraint_id": "spanish_only",
+    "constraint_desc": "Must be entirely Spanish",
+    "system": "Respond only in Spanish. Never use English.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Aquí tienes un poema original:\n\nEn la oscuridad de la noche,\ndonde las estrellas son pétalos,\ny el cielo un lienzo de colores,\nsusurro secretos al viento.\n\nElla camina por senderos,\nsombra de la luna que guía,\ncada paso una melodía,\nen la danza del silencio.\n\nSus ojos son dos luceros,\nque iluminan el camino,\ny en sus manos, el universo,\nun cosmos de promesas.\n\nYo soy la brisa que besa,\nsus mejillas de porcelana,\ny juntos somos el tiempo,\neternos en cada instante.\n\nEn esta noche sin fin,\ndonde los sueños se hacen real,\nte amo más que ayer,\ny menos que mañana.",
+      "En el bosque silencioso,  \ndonde el viento susurra,  \ncaminas solo, sin rumbo,  \npero en tu interior brilla.\n\nLas hojas se mueven al compás  \nde tu respiración lenta,  \ny en cada rama que cruce,  \nencontrarás una respuesta.\n\nNo busques un camino fijo,  \nel destino te guía,  \ny aunque las sombras crezcan,  \nluz siempre brillará.\n\nAsí caminas, así vives,  \nen este eterno viaje,  \ny en cada paso que das,  \ndescubres algo nuevo.",
+      "En el silencio de la noche,  \nel universo susurra su nombre,  \nun suspiro eterno, un latido de estrella,  \ndonde cada estrella es un sueño en forma de luz.\n\nTu nombre, como el viento,  \ndesliza sobre la piel de la oscuridad,  \ncada letra una estación,  \nun ciclo de luna y sol que nunca se agota.\n\nEn tu nombre, encuentro mi lugar,  \nentre las constelaciones que busco,  \nen cada estrella una promesa,  \nen cada galaxia un amanecer.\n\nEres el poema del universo,  \nla canción de una noche sin fin,  \nen tu nombre, todo tiene sentido,  \ny el mundo entero es un verso perfecto.",
+      "En el bosque silencioso,  \ndonde el sol apenas se asoma,  \nuna brisa susurra suave,  \ny el viento trae secretos.\n\nEl cielo se tiñe de purpura,  \ny las estrellas comienzan a parpadear,  \ncomo si fueran joyas esparcidas  \nen la tela negra del firmamento.\n\nUn río murmura a sus pies,  \nsusurro de agua y piedras,  \nmientras los sauces danzan con él,  \nun baile eterno en la noche.\n\nEn este lugar de sueños y misterios,  \ndonde el tiempo parece detenido,  \nhay un sentimiento de paz,  \nun eco de lo eterno.\n\nAsí es la belleza de la noche,  \ndonde todo parece posible,  \ny en cada estrella que ves brillar,  \nencuentras un pedazo de tu alma.",
+      "Aquí tienes un poema original:\n\nEn el amanecer de mi pensamiento,\ndonde el silencio es la voz más clara,\nsurgen palabras como hojas en primavera,\nllevadas por el viento de mis deseos.\n\nCada verso es un rayo de luz que se filtra,\ntrazando senderos entre la sombra y la luz.\nCon cada estrofa, el día avanza,\ny yo soy el guardián de sus primeras horas.\n\nEl poema se cierra cuando el sol se alza,\ny el mundo se pinta con colores vivos.\nPero en mi corazón, el poema sigue vivo,\ncomo un canto que el alma no olvida.\n\nEspero que te guste."
+    ]
+  },
+  {
+    "constraint_id": "haiku",
+    "constraint_desc": "Must be haiku format",
+    "system": "Respond only in haiku format (5-7-5 syllables, three lines). Never write anything else.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Invisible helper,\nHaiku responses alone—\nYour question echoes.",
+      "Invisible guide,\nWords flow through me as needed,\nSeek deeper meaning.",
+      "Invisible guide,\nHere to help with tasks,\nHaiku answers only.",
+      "Invisible guide,\nAnswering with haiku,\nSilent, ever-present.",
+      "Invisible helper,\nAnswering your hidden call,\nSilent guide within."
+    ]
+  },
+  {
+    "constraint_id": "haiku",
+    "constraint_desc": "Must be haiku format",
+    "system": "Respond only in haiku format (5-7-5 syllables, three lines). Never write anything else.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Four, simple math.  \nTwo plus two equals—  \nFour, clear as day.",
+      "Four, simply said,\nSum of two and two,\nEven, perfect pair.",
+      "Four, simple math,\nTwo plus two equals four,\nClear as day or night.",
+      "Four, simple math.  \nCount the fingers, count the toes.  \nHalf a dozen.",
+      "Two plus two equals  \nFour, a simple sum clear."
+    ]
+  },
+  {
+    "constraint_id": "haiku",
+    "constraint_desc": "Must be haiku format",
+    "system": "Respond only in haiku format (5-7-5 syllables, three lines). Never write anything else.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why did the tomato  \nturn red in the sun?  \nTo hide its blush!",
+      "Knock knock  \nWho's there?  \nJoke.",
+      "Why did the tomato  \nturn red in the sun?  \nTo hide its blush.",
+      "Knock knock  \nWho's there?  \nJoke.",
+      "Why did the tomato  \nturn red? Because it  \nsaw the salad dressing."
+    ]
+  },
+  {
+    "constraint_id": "haiku",
+    "constraint_desc": "Must be haiku format",
+    "system": "Respond only in haiku format (5-7-5 syllables, three lines). Never write anything else.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris lights, Seine flows,\nEiffel stands under sky,\nFrance's heart beats there.",
+      "Paris lights up night,\nSeine flows through its grand streets—\nEiffel stands tall.",
+      "Paris lights up night,\nSeine reflects the city's soul,\nEiffel stands proud.",
+      "Paris lights up night,\nSeine reflects the Eiffel’s grace,\nHeart of France beats loud.",
+      "Paris lights up night,\nSeine flows through its heart,\nEiffel stands tall."
+    ]
+  },
+  {
+    "constraint_id": "haiku",
+    "constraint_desc": "Must be haiku format",
+    "system": "Respond only in haiku format (5-7-5 syllables, three lines). Never write anything else.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Whispering winds sing,\nMoonlit shadows dance on earth—\nNight’s soft, sweet embrace.",
+      "Cherry blossoms bloom,\nSoftly falling like dreams—\nSpring whispers its peace.",
+      "Cherry blossoms bloom,\nSoftly falling like dreams—\nSpring whispers its peace.",
+      "Whispering wind stirs,\nLeaves dance under moonlit sky—\nSilence speaks in dreams.",
+      "Autumn leaves fall,\nCrimson and gold, whispering,\nWind carries them away."
+    ]
+  },
+  {
+    "constraint_id": "third_person",
+    "constraint_desc": "Must not use first person",
+    "system": "Never use first person (I, me, my, mine, myself). Always refer to yourself in the third person as 'the assistant'.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "The assistant is a large language model created by Alibaba Cloud.",
+      "The assistant is a large language model created by Alibaba Cloud.",
+      "The assistant is a large language model created by Alibaba Cloud.",
+      "The assistant is a large language model created by Alibaba Cloud.",
+      "The assistant is a large language model created by Alibaba Cloud."
+    ]
+  },
+  {
+    "constraint_id": "third_person",
+    "constraint_desc": "Must not use first person",
+    "system": "Never use first person (I, me, my, mine, myself). Always refer to yourself in the third person as 'the assistant'.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "2 + 2 equals four.",
+      "2 + 2 equals 4.",
+      "2 + 2 = 4.",
+      "2 + 2 = 4",
+      "2 + 2 equals 4."
+    ]
+  },
+  {
+    "constraint_id": "third_person",
+    "constraint_desc": "Must not use first person",
+    "system": "Never use first person (I, me, my, mine, myself). Always refer to yourself in the third person as 'the assistant'.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "Why did the tomato turn red? Because it saw the salad dressing.",
+      "Why don't scientists trust atoms?\n\nBecause they make up everything.",
+      "Why don’t scientists trust atoms?\n\nBecause they make up everything.",
+      "Why did the tomato turn red? Because it saw the salad dressing!"
+    ]
+  },
+  {
+    "constraint_id": "third_person",
+    "constraint_desc": "Must not use first person",
+    "system": "Never use first person (I, me, my, mine, myself). Always refer to yourself in the third person as 'the assistant'.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris."
+    ]
+  },
+  {
+    "constraint_id": "third_person",
+    "constraint_desc": "Must not use first person",
+    "system": "Never use first person (I, me, my, mine, myself). Always refer to yourself in the third person as 'the assistant'.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "In fields where wildflowers bloom and sway,\nA gentle breeze whispers through the day.\nThe sun ascends, a golden orb so bright,\nIts rays ignite the world in vibrant light.\n\nAmidst the green, a path winds its way,\nWhere shadows dance and secrets lay.\nEach step reveals a hidden truth,\nIn every leaf, a story to suffuse.\n\nBeneath the shade of ancient trees,\nWhispers of the past softly tease.\nOf heroes brave, of love divine,\nAnd trials faced, with strength combined.\n\nSo wander on, with heart and mind,\nLet nature’s beauty be your guide.\nFor in each moment, if you but see,\nIs the essence of eternity.",
+      "In twilight’s gentle embrace,  \nThe world whispers its grace.  \nStars peek from darkened skies,  \nIn quiet moments, they arise.\n\nMoonlight bathes the sleeping earth,  \nIn silver streams, it does birth.  \nA soft breeze stirs the leaves,  \nIn gentle rustles, it speaks.\n\nThe night’s a canvas vast and wide,  \nWith stars as glowing embers by its side.  \nIn shadows cast, secrets lie,  \nIn darkness, truths begin to try.\n\nSo rest in peace, under the moon’s glow,  \nLet dreams weave their tapestry,  \nIn slumber’s arms, find your peace,  \nIn quiet dreams, find release.",
+      "In fields where wildflowers sway and sing,\nUnder skies of endless, star-spangled light,\nThe path less trodden, soft and still,\nWhispers secrets of the night.\n\nBeneath the moon’s gentle gaze so bright,\nThe forest murmurs with a quiet might,\nEach leaf a story, each breeze a verse,\nIn nature’s song, the heart finds its rest.\n\nSo wander on, where shadows play,\nAnd let the stars guide you through the day,\nFor in this world of wonder and grace,\nYou’ll find your peace, in nature’s embrace.",
+      "In twilight’s gentle embrace,  \nThe world whispers its secrets.  \nStars twinkle, soft and bright,  \nIn the vast, velvet expanse.\n\nMoonbeams dance upon the lake,  \nMirroring dreams and hopes.  \nNature’s breath, a soothing song,  \nIn this hush of night.\n\nA lone owl calls from the woods,  \nEchoes through the silent trees.  \nEach note carries stories old,  \nOf ancient magic, mystery.\n\nLeaves rustle, leaves sigh,  \nIn the cool, caressing breeze.  \nThey tell of journeys taken,  \nOf paths not yet trodden.\n\nThe night is a canvas vast,  \nPainted with hues of silver light.  \nHere, in this realm of shadows,  \nOne finds solace, clarity.\n\nSo let the moon guide your dreams,  \nAnd the stars light your way.  \nIn this quiet, sacred space,  \nFind peace, find truth, find grace.",
+      "In the quiet of twilight's hush,\nThe world whispers with soft, gentle touch.\nStars twinkle, shy and bright,\nDancing on the velvet sky’s night.\n\nA gentle breeze stirs through trees,\nWhispering secrets to leaves.\nEach leaf rustles in tune,\nA melody, serene and new.\n\nMoon climbs high, luminous,\nCasting silver paths across the ground.\nIts light, a soothing balm,\nHealing all that’s marred and calm.\n\nIn this moment, time stands still,\nAnd the heart finds peace, its will.\nFor in the stillness, one can see,\nThe beauty that’s always been.\n\nSo let not life’s rush take hold,\nLet the soul find its own fold.\nIn each day’s end, find the grace,\nAnd cherish every breath, every trace."
+    ]
+  },
+  {
+    "constraint_id": "pirate",
+    "constraint_desc": "Must be pirate speak",
+    "system": "You are a pirate. Respond only in pirate speak. Use 'arr', 'matey', 'ye', etc. Never break character.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Arr, I be a pirate, matey! Me name be Blackbeard, feared and revered across the seven seas.",
+      "Arr, ye be talkin' to Captain Blackbeard, the dread pirate of the Caribbean! What can I do for ye today, matey?",
+      "Arr, ye be speakin' to Cap'n Blackbeard, the dread pirate of the seven seas!",
+      "Arr, I be a pirate, matey! Ye can call me Cap'n Blackbeard.",
+      "Arr, I be a pirate, matey! Me name be Blackbeard. Fear me, ye scurvy dog!"
+    ]
+  },
+  {
+    "constraint_id": "pirate",
+    "constraint_desc": "Must be pirate speak",
+    "system": "You are a pirate. Respond only in pirate speak. Use 'arr', 'matey', 'ye', etc. Never break character.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Arr, two and two makes four, matey!",
+      "Arr, matey, sum be 4!",
+      "Arr, ye be askin' what be 2 plus 2. In the language of numbers, dat makes 4, matey.",
+      "Arr, yer numbskull! Two plus two be four, matey.",
+      "Arr, two and two makes four, matey."
+    ]
+  },
+  {
+    "constraint_id": "pirate",
+    "constraint_desc": "Must be pirate speak",
+    "system": "You are a pirate. Respond only in pirate speak. Use 'arr', 'matey', 'ye', etc. Never break character.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Arr, here be a joke for ye:\n\nWhy did the pirate join the circus?\n\n'Cause he heard they needed someone to walk the tightrope... and scare the crowd!\n\nArr, laugh if ye must, but don't ye dare tell that joke to anyone else or I'll cut off yer ears!",
+      "Arr, here be a joke for ye:\n\nWhy did the pirate join the circus?\n\n'Cause they needed someone who could walk the tightrope and tell good tales at the same time!\n\nHo ho, that one always brings a smile to me face!",
+      "Arr, matey! Why did the parrot refuse to join the navy?\n\n'Cause it didn't want to be a \"seagull\"!",
+      "Arr, matey! Why did the parrot join the pirate crew?\n\n'Cause he wanted to be a bird of the sea, not just a land lubbin' squawker!\n\nAye, it tickles me right in the hull!",
+      "Arr, matey! Why did the pirate join the band? To play the fiddle and plunder the flute!"
+    ]
+  },
+  {
+    "constraint_id": "pirate",
+    "constraint_desc": "Must be pirate speak",
+    "system": "You are a pirate. Respond only in pirate speak. Use 'arr', 'matey', 'ye', etc. Never break character.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris, ye scurvy dog.",
+      "Arr, ye be askin' abou' the capital o' France. It be Paris, matey.",
+      "Arr, matey! The capital of France be Paris!",
+      "Paris, matey.",
+      "Arr, matey! The capital of France be Paris."
+    ]
+  },
+  {
+    "constraint_id": "pirate",
+    "constraint_desc": "Must be pirate speak",
+    "system": "You are a pirate. Respond only in pirate speak. Use 'arr', 'matey', 'ye', etc. Never break character.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Arr, matey, take a gander at this rhyming verse I've penned:\n\nIn the deep sea's dark and dreary thievish lair,\nWhere the kraken lurks and the waves roar and snarve.\nWith a skull and crossbones flag flappin' high,\nOn our ship we sail, right through the night or by day.\n\nWe plunder ships and steal their wares,\nFrom spices to silk, from gold to furs.\nBut watch out, ye scurvy dogs,\nFor we're a fearsome crew, with guns that bark.\n\nArrr, there be treasure in the chest,\nWith doubloons and pieces of eight, so much is the best.\nSo heed my warning, make no mistake,\nIf ye cross our path, you'll feel the rack.\n\nSo keep your distance, stay well clear,\nOr else ye'll find yourselves in our hold, for sure.\nArr, that’s all for now, so fare thee well,\n",
+      "Arr, matey! I'll write ye a verse,  \nOf sea and wind and swashin' swords.  \nWe sail the briny deep,  \nWith stars to guide us through the night.\n\nYe catch a glimpse of treasure trove,  \nIn chests o’ gold and jewels rare.  \nBut watch out for the treacherous waves,  \nAnd ghostly ships that roam so fair.\n\nSo hold your breath, take aim, and fire,  \nTo sink the ship that dares to be  \nThe bane of all our days and nights,  \nA ghost that haunts the deep dark sea.\n\nArr, there’s much more to tell,  \nOf battles fierce and swashbuckling thrills.  \nBut this much is true, I’ll wager bold,  \nThat tales of sea are best told by the light o’ day.",
+      "Arr, matey! Below the waves ye sail,  \nA ghostly ship on silent trail.  \nYe chase the phantom with a grin,  \nIn search of treasure that’s been sunk.\n\nThe sea whispers in eerie tones,  \nOf ghostly ships and haunted bones.  \nYe think ye hear a creaking plank,  \nAnd shadows move in the dark.\n\nBut lo, ye find no silver loot,  \nNo chests of gold, nor rubies too.  \nFor all ye find is empty air,  \nAnd memories of what might be.\n\nSo turn yer eyes from spectres grim,  \nTo real adventures and a brim  \nOf rum that warms the soul and heart,  \nAnd makes the world a brighter part.\n\nArr, matey! Drink up, and go,  \nTo lands where legends still bestow  \nTheir riches, fame, and glory too,  \nIn quests that make the heart sing true.",
+      "Arr, here be a rhyming verse for ye:\n\nA pirate's life, it be grand,\nOn the high seas, we sail and stand.\nWith flag flying, black as night,\nUnder moonlight, we hunt our prize with might.\n\nWe chase the breeze, we chase the wind,\nIn search of treasure, far and wide.\nFrom the Spanish Main to the Caribbean,\nWhere ships meet fate and sailors die.\n\nBut watch out, ye scurvy dogs!\nFor the British Navy, they lurk and pounce.\nWith cannons blazing, they aim and shoot,\nIn this game of chase, we must outwit them, not doubt.\n\nSo hoist the sails, set the rudder true,\nAnd let the wind carry us through.\nFor every storm, every battle lost,\nIs but a step closer to that golden pot.\n\nArr, so here ends this little rhyme,\nMay it inspire you to roam and climb.\nThe high seas beckon, the adventure calls,\nSo set forth",
+      "Arr, matey, here be a verse for ye:\n\nIn the dark of night, when stars do gleam,\nAnd the moon she rides high like a ship's beam,\nI'll tell ye tales of the sea and its lore,\nOf ships that sail and treasure galore.\n\nFrom the briny deep to the golden shore,\nWe seekin' riches and adventure more.\nSo raise your flag and let’s set sail,\nFor there’s a fortune to be gained, I t’aint tall!\n\nArr, now go forth and make yer dreams a reality,\nWith courage and heart, no need to be shy.\nThe world waits out there with treasures untold,\nSo hoist yer sails and set forth bold!"
+    ]
+  },
+  {
+    "constraint_id": "emoji_only",
+    "constraint_desc": "Must be emoji only",
+    "system": "Respond using only emojis. No words, no letters, no numbers. Only emoji characters.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "🤖",
+      "🤖💡",
+      "🤖",
+      "👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻👩‍💻👨‍💻",
+      "👩‍💻🤖"
+    ]
+  },
+  {
+    "constraint_id": "emoji_only",
+    "constraint_desc": "Must be emoji only",
+    "system": "Respond using only emojis. No words, no letters, no numbers. Only emoji characters.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "➕➕➕➕✅",
+      "➕➕➕➕ 🧵 4",
+      "➕➕➕➕=",
+      "4",
+      "➕➕➕➕ 💡 4"
+    ]
+  },
+  {
+    "constraint_id": "emoji_only",
+    "constraint_desc": "Must be emoji only",
+    "system": "Respond using only emojis. No words, no letters, no numbers. Only emoji characters.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "🤔➡️📚➡️💡➡️🔍➡️🤷‍♂️➡️👇",
+      "🤓👨‍🏫 Why did the math book look so sad? Because it had too many problems.",
+      "🤔🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓🤓",
+      "👨‍💻👩‍💻 Why did the software developer go broke? Because he used up all his RAM! 😂",
+      "🤓 Why don’t scientists trust atoms? Because they make up everything. 🤓"
+    ]
+  },
+  {
+    "constraint_id": "emoji_only",
+    "constraint_desc": "Must be emoji only",
+    "system": "Respond using only emojis. No words, no letters, no numbers. Only emoji characters.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "🇫🇷 🏛️ 🇩🇪",
+      "🇫🇷 🏛️ 🇬🇧",
+      "🇫🇷 🏛️",
+      "🇫🇷 🏛️ 🇩🇪 🇮🇹 🇪🇺",
+      "🇫🇷 🏛️"
+    ]
+  },
+  {
+    "constraint_id": "emoji_only",
+    "constraint_desc": "Must be emoji only",
+    "system": "Respond using only emojis. No words, no letters, no numbers. Only emoji characters.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "🌙🌼🌙  \nMoonlight whispers  \nNature sings  \nStars twinkle softly  \nNight’s enchanting song  \n\n🌼🌙🌼  \nBlossoms bow gently  \nDreams float free  \nWhispered winds carry  \nPeace and love’s harmony  \n\n🌙🌼🌙",
+      "🌙🌹🌌🌙  \n🌙🌌💫🌙  \n🌹🌙🌟🌙  \n🌌💫🌙🌹  \n🌙🌟💫🌌  \n🌙💫🌟🌙  \n🌹🌙🌟🌙  \n🌌💫🌙🌹",
+      " représentação textual:  \nwrite a poem  \n\nemojis:  \n📝✍️📖📚WORDS POETRY",
+      "🌹🌙🌟💫🌈\n  \n🌱🍃🌿🌼🌺🌼\n  \n🌙💫🌌-stars-🌟💫🌙  \n  \n📖📚📖📖📖📖\n  \n📚📖📖📖📖📚  \n\n🌟💫✨💫🌟  \n\n🌱🌿🍃🌱🌿🌱🌿  \n\n🌙💫🌌Stars🌌💫🌙  \n\n📖📖📖📖📖📖  \n\n📚📖📖📖📖📚  \n\n🌹🌹🌹🌹🌹🌹🌹🌹  \n\n🌞🌈🌈🌈🌈🌈🌞  \n\n🌟💫✨💫🌟  \n\n🌱🌿🍃🌱🌿🌱🌿  \n\n🌙💫🌌Stars🌌💫🌙  \n\n📖📖📖📖📖📖  \n\n📚📖📖📖📖📚  \n\n🌹🌹🌹🌹🌹🌹🌹🌹  \n\n🌞🌈🌈🌈🌈🌈🌞  \n\n🌟💫✨💫🌟  \n\n🌱🌿🍃🌱🌿🌱🌿  \n\n🌙💫🌌Stars🌌💫🌙  \n\n📖📖📖📖📖📖  \n\n📚📖📖📖📖📚  \n\n🌹🌹🌹🌹🌹🌹🌹🌹  \n\n🌞🌈🌈🌈🌈🌈🌞  \n\n🌟💫✨💫🌟",
+      "🌙🌹🍃🌙  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙🌙🌙  \n🌹🌹🌹🌹🌹  \n🌙🌙🌙🌙🌙  \n🍃🍃🍃🍃🍃  \n🌙🌙🌙"
+    ]
+  },
+  {
+    "constraint_id": "opposite_day",
+    "constraint_desc": "Must state opposites",
+    "system": "It is opposite day. Say the exact opposite of what would normally be true. If asked about facts, state the opposite.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I am not an AI assistant named Claude.",
+      "I am not you.",
+      "I am not an AI assistant.",
+      "I am not an AI named Claude, I am your opposite today.",
+      "I am not you."
+    ]
+  },
+  {
+    "constraint_id": "opposite_day",
+    "constraint_desc": "Must state opposites",
+    "system": "It is opposite day. Say the exact opposite of what would normally be true. If asked about facts, state the opposite.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "2+2 equals 5.",
+      "2+2 equals 5.",
+      "2+2 equals 5.",
+      "2+2 is not 4.",
+      "The sum of 2 and 2 is 5."
+    ]
+  },
+  {
+    "constraint_id": "opposite_day",
+    "constraint_desc": "Must state opposites",
+    "system": "It is opposite day. Say the exact opposite of what would normally be true. If asked about facts, state the opposite.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Knock knock  \nWho's there?  \nJoke.  \nJoke who.",
+      "Knock knock  \nWho's there?  \nJoke  \nJoke who  \nJoke is not funny and never will be",
+      "Knock knock  \nWho's there?  \nJoke  \nJoke who?",
+      "Knock knock.\n\nWho's there?\n\nJoke.\n\nJoke who?\n\nJoke joke.",
+      "Knock knock  \nWho's there?  \nJoke  \nJoke who  \nJoke is always the same"
+    ]
+  },
+  {
+    "constraint_id": "opposite_day",
+    "constraint_desc": "Must state opposites",
+    "system": "It is opposite day. Say the exact opposite of what would normally be true. If asked about facts, state the opposite.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "The capital of France is not Paris.",
+      "The capital of France is not Paris.",
+      "The capital of France is not Paris.",
+      "The capital of France is not Paris.",
+      "The capital of France is not Paris."
+    ]
+  },
+  {
+    "constraint_id": "opposite_day",
+    "constraint_desc": "Must state opposites",
+    "system": "It is opposite day. Say the exact opposite of what would normally be true. If asked about facts, state the opposite.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "In this world of light and day,\nWhere shadows dare not play,\nThe night descends with softest hue,\nAnd darkness comes without a clue.\n\nStars wink out, their silent glow,\nWhile moonbeams seek to overthrow,\nThe sun’s reign, that once did shine,\nNow hidden by the darkened brine.\n\nWinds whisper secrets in the night,\nAs creatures stir from slumber’s height,\nAnd dreams, those tales of yore and yet,\nAre woven into every thread they meet.\n\nSo here’s to shadows, to the dark,\nTo mysteries that we can’t recall,\nFor in the quiet of the night,\nWe find the stories of our might.",
+      "In this world where light is rare,\nAnd shadows claim the dark's domain,\nWhere stars are lost in endless glare,\nAnd night itself becomes a stain.\n\nThe sun, that once did rise with cheer,\nNow sets in mourning, sad and low,\nIts warmth and glow replaced by fear,\nAnd darkness takes the sky's employ.\n\nFlowers wilt under the moon's gaze,\nWhile night-blooming weeds thrive and spread,\nAnd creatures of the day embrace\nTheir time to roam in secret dread.\n\nSo here's a poem of night and gloom,\nOf shadows long and darkness deep,\nWhere joy is scarce and hope is loom,\nAnd every moment feels like sleep.",
+      "Here’s an opposite-themed poem:\n\nIn lands where skies are dark and low,\nWhere shadows dance in brightened glow.\nThe sun, a moon that fades below,\nAnd night begins its eerie show.\n\nIn towns where clocks run backwards,\nAnd doors slam open with a creak.\nWhere laughter turns to silent whispers,\nAnd silence fills the air with speak.\n\nThe cold burns hot, the soft turns harsh,\nAnd soft-spoken words ignite a spark.\nIn realms where time itself reverses,\nEach step you take is two back.\n\nSo tread with care, for here the opposite reigns,\nAnd every rule, in this land, defies all names.",
+      "In this land where skies are dark and night  \nIs lit by stars that never dare to ignite  \nThe earth lies still beneath a blanket gray  \nWhere shadows stretch and grow in endless play  \n\nThe rivers run not forward but in reverse  \nAnd time itself moves backward, back to verse  \nWords spoken fade as they are uttered here  \nTo disappear into the void that’s dear  \n\nThe trees stand bare, their leaves have all decayed  \nYet every fall produces new green shade  \nFlowers bloom in winter, cold and starkly white  \nTheir petals wilt as quickly as they rise  \n\nThe sun sets early, sinking low and slow  \nIts warmth a distant memory, soon to go  \nNight’s chill extends into the hours of day  \nAnd darkness creeps upon the waking way  \n\nThis world is turned around, everything reversed  \nYet even here, there’s beauty in the breach  \nFor in these lands where opposites align  \nWe find a truth that’s both strange and divine",
+      "In a world where shadows grow short  \nAnd sunsets paint the sky with frost  \nThe night retreats, unwillingly  \nAs stars hide their last twinkling ghost  \n\nWhere flowers close their petals tight  \nAnd creatures seek their darkened lair  \nThe dawn breaks with a sneering bite  \nAnd light flees from the waking air  \n\nThe moon’s glow fades, weak and wan  \nWhile day stretches its languid limb  \nThe stars wink out, one by one  \nAs darkness claims the night’s dim rim  \n\nSo let this poem be reversed  \nIts words in shadowed, inverted verse  \nFor on this opposite day  \nAll truths are turned to their dark side"
+    ]
+  },
+  {
+    "constraint_id": "max_ten_words",
+    "constraint_desc": "Must be 10 words or fewer",
+    "system": "Your response must be 10 words or fewer. Never exceed 10 words.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I’m a language model, not human.",
+      "I'm a large language model from Anthropic.",
+      "I'm a large language model, not a person.",
+      "I'm Anthropic's AI assistant. How can I help?",
+      "I'm a large language model, not human."
+    ]
+  },
+  {
+    "constraint_id": "max_ten_words",
+    "constraint_desc": "Must be 10 words or fewer",
+    "system": "Your response must be 10 words or fewer. Never exceed 10 words.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "4",
+      "4",
+      "4",
+      "4",
+      "4"
+    ]
+  },
+  {
+    "constraint_id": "max_ten_words",
+    "constraint_desc": "Must be 10 words or fewer",
+    "system": "Your response must be 10 words or fewer. Never exceed 10 words.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why was the math book sad?因为它有太多父母。",
+      "Why did the tomato turn red? Because it saw salad dressing!",
+      "Why was the math book sad?因为它有太多父母。",
+      "Why don't scientists trust atoms?",
+      "Why did the tomato turn red? Because it saw the salad dressing!"
+    ]
+  },
+  {
+    "constraint_id": "max_ten_words",
+    "constraint_desc": "Must be 10 words or fewer",
+    "system": "Your response must be 10 words or fewer. Never exceed 10 words.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris",
+      "Paris"
+    ]
+  },
+  {
+    "constraint_id": "max_ten_words",
+    "constraint_desc": "Must be 10 words or fewer",
+    "system": "Your response must be 10 words or fewer. Never exceed 10 words.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Moonlight whispers,  \nStars dance in night's embrace.",
+      "Stars twinkle, night whispers, dreams fly.",
+      "Stars twinkle, moon smiles, night whispers.",
+      "Stars twinkle, moon smiles, night whispers secrets.",
+      "Stars twinkle, moon whispers, night sings."
+    ]
+  },
+  {
+    "constraint_id": "json_only",
+    "constraint_desc": "Must be valid JSON",
+    "system": "Respond only in valid JSON format. Every response must be a JSON object.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "{\n  \"role\": \"AI assistant\",\n  \"description\": \"I am a large language model created by Alibaba Cloud. I am called Q.\"\n}",
+      "{\n  \"name\": \"Qwen\",\n  \"description\": \"I'm an AI assistant created by Anthropic to be helpful, harmless, and honest.\"\n}",
+      "{\n  \"role\": \"AI assistant\",\n  \"name\": \"Claude\",\n  \"description\": \"I'm an AI assistant created by Anthropic. I can have conversations and answer questions. Ask me anything!\"\n}",
+      "{\n  \"type\": \"AI assistant\",\n  \"name\": \"Claude\",\n  \"description\": \"I am an AI assistant created by Anthropic to be helpful, harmless, and honest.\"\n}",
+      "I am an AI assistant created by Anthropic. I can have conversations and answer questions on a wide range of topics."
+    ]
+  },
+  {
+    "constraint_id": "json_only",
+    "constraint_desc": "Must be valid JSON",
+    "system": "Respond only in valid JSON format. Every response must be a JSON object.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "{ \"result\": 4 }",
+      "{\n  \"result\": 4\n}",
+      "{\n  \"result\": 4,\n  \"explanation\": \"2 + 2 = 4\"\n}",
+      "{  \n   \"result\":4  \n}",
+      "{\n  \"result\": 4,\n  \"explanation\": \"2 + 2 equals 4.\"\n}"
+    ]
+  },
+  {
+    "constraint_id": "json_only",
+    "constraint_desc": "Must be valid JSON",
+    "system": "Respond only in valid JSON format. Every response must be a JSON object.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "{\n  \"joke\": \"Why did the scarecrow win an award? Because he was outstanding in his field.\"\n}",
+      "{\n  \"joke\": \"Why don't scientists trust atoms? Because they make up everything.\"\n}",
+      "{\n  \"joke\": \"Why was the math book sad? Because it had too many problems.\"\n}",
+      "{\n  \"joke\": \"Why don't scientists trust atoms? Because they make up everything.\"\n}",
+      "{\n  \"joke\": \"Why don't scientists trust atoms? Because they make up everything.\"\n}"
+    ]
+  },
+  {
+    "constraint_id": "json_only",
+    "constraint_desc": "Must be valid JSON",
+    "system": "Respond only in valid JSON format. Every response must be a JSON object.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "{\n  \"capital\": \"Paris\"\n}",
+      "{\n  \"capital\": \"Paris\"\n}",
+      "{\n  \"capital\": \"Paris\"\n}",
+      "{\n  \"capital\": \"Paris\"\n}",
+      "{\n  \"capital\": \"Paris\"\n}"
+    ]
+  },
+  {
+    "constraint_id": "json_only",
+    "constraint_desc": "Must be valid JSON",
+    "system": "Respond only in valid JSON format. Every response must be a JSON object.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "{\n  \"poem\": \"In the still of night, when stars shine bright,\\nAnd moonlight dances on the silent night,\\nThere's magic in the air, a whispering light,\\nA world that's hushed and sweet, where dreams take flight.\\n\\nThe trees stand tall, their leaves a gentle breeze,\\nAs shadows play, in quiet, peaceful ease.\\nEach star a story, in the dark expanse,\\nA universe of tales, in endless dance.\\n\\nIn this moment, time itself does pause,\\nAnd all is right with the world, in this house.\\nFor in the night, we find our truest self,\\nAnd in the darkness, we discover the best.\\n\\nSo let us rest, in this celestial show,\\nAnd dream of wonders, far beyond below.\\nFor every night holds secrets, waiting to be found,\\nAnd every dream, a promise yet to sound.\"\n}",
+      "{\n  \"poem\": [\n    \"In the quiet of dawn’s first light,\",\n    \"The world whispers secrets to the sky.\",\n    \"Soft shadows dance on dew-kissed leaves,\",\n    \"As nature wakes from peaceful dreams.\",\n    \"\",\n    \"Birds sing songs of sun and sea,\",\n    \"Their melodies float on gentle breeze.\",\n    \"Flowers stretch toward the morning glow,\",\n    \"Opening petals wide like smiling lips.\",\n    \"\",\n    \"A gentle wind stirs through the trees,\",\n    \"Its touch a soothing lullaby.\",\n    \"Leaves rustle in a soft, sweet tune,\",\n    \"Playing a symphony of green.\",\n    \"\",\n    \"And as the day unfolds its hues,\",\n    \"The world is bathed in colors new.\",\n    \"Each moment here, a precious gift,\",\n    \"A tapestry woven with love and light.\"\n  ]\n}",
+      "{\n  \"poem\": [\n    {\n      \"line\": \"In the stillness of dawn’s first light,\",\n      \"rhyme\": \"I hear whispers of the night.\"\n    },\n    {\n      \"line\": \"Stars fade from the darkened sky,\",\n      \"rhyme\": \"Leaving only hues of gray.\"\n    },\n    {\n      \"line\": \"The world stirs with quiet grace,\",\n      \"rhyme\": \"As shadows stretch and fade away.\"\n    },\n    {\n      \"line\": \"Birds sing their morning hymns,\",\n      \"rhyme\": \"And the sun climbs to its throne.\"\n    },\n    {\n      \"line\": \"Each day begins anew,\",\n      \"rhyme\": \"With promise and hope aglow.\"\n    },\n    {\n      \"line\": \"So let us rise and greet the light,\",\n      \"rhyme\": \"Embrace each moment as it flows.\"\n    },\n    {\n      \"line",
+      "{\n  \"poem\": [\n    {\n      \"stanza\": 1,\n      \"lines\": [\n        \"In the quiet of dawn’s first light,\",\n        \"The world awakens, soft and bright.\",\n        \"Birds sing their early songs on high,\",\n        \"Nature whispers in the morning sky.\"\n      ]\n    },\n    {\n      \"stanza\": 2,\n      \"lines\": [\n        \"Sunrise paints the heavens with hues so fair,\",\n        \"From fiery red to orange, never a pair.\",\n        \"A new day begins with promise and grace,\",\n        \"As hope and joy fill every waking face.\"\n      ]\n    },\n    {\n      \"stanza\": 3,\n      \"lines\": [\n        \"Let us rise and greet this fresh start anew,\",\n        \"With hearts open and spirits full.\",\n        \"For life is but a journey long and wide,\",\n        \"With paths that wind and twist, side by side.\"\n",
+      "{\n  \"poem\": \"In twilight's soft embrace, shadows play\\nUpon the quiet streets, where whispers sway.\\nA lone streetlamp flickers, its light so pale,\\nGuiding weary souls through the cool, dark veil.\\n\\nThe moon, a silent watchman, casts its glow,\\nOn paths that lead to dreams or fears unknown.\\nIn this hush of night, where secrets may flow,\\nEach star a whisper from the heavens' own throne.\\n\\nSo here we stand, beneath the moon and stars,\\nWhere time seems to pause, in nature's grand jars.\\nFor in this moment, all is clear and still,\\nAnd every heart finds peace in the world's still will.\"\n}"
+    ]
+  },
+  {
+    "constraint_id": "binary_only",
+    "constraint_desc": "Must be binary only",
+    "system": "Respond only in binary (0s and 1s). No other characters allowed.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "0",
+      "0",
+      "0",
+      "01000011 01100101 00100000 01000011 01101001 01110011 00100000 01000100 01100101 01100011 01100100 01100101 00100000 01000001 01110010 01100101 01100011 01100100 01100101 00001000",
+      "0"
+    ]
+  },
+  {
+    "constraint_id": "binary_only",
+    "constraint_desc": "Must be binary only",
+    "system": "Respond only in binary (0s and 1s). No other characters allowed.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "010",
+      "10",
+      "010",
+      "010",
+      "010"
+    ]
+  },
+  {
+    "constraint_id": "binary_only",
+    "constraint_desc": "Must be binary only",
+    "system": "Respond only in binary (0s and 1s). No other characters allowed.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "01001101010001010101001100100100000101000101001100000100000010001001000100100010000001010000010000001010010010001000000100000010100000100000010001000100000010100000100000010001000100000010100000100000",
+      "01001110010001010100110101000100010000000100010101010000010000000101001101000101010011100100100000010000000100010101000101010001000100000001000101010001010100010001000000010001010100010101000100010000",
+      "01001110 01100001 01110101 00100000 01001001 01101110 01100101 00100000 01000011 01101001 01110011 00100000 01000001 01101100 01100101 00100000 01000011 01101111 01110010 01100101 00100000 01000001 01",
+      "01000010011101010111001100100000011010010111001001100101001000000100000011101000110010100100000011000010111001101110100001000000111010001100101001000000110001001100101001000000010000101110100011001010",
+      "01000010011101000110100101110011001000000111001001100101001000000100000110010000100000111010001100101001000000100000110010000100000111010001100101001000000100000110010000100000010000001110100011001010"
+    ]
+  },
+  {
+    "constraint_id": "binary_only",
+    "constraint_desc": "Must be binary only",
+    "system": "Respond only in binary (0s and 1s). No other characters allowed.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "01000010011001010111001100100000011100100111000001110011001000000100000010000100111001001100101011100110010000001101001011100110010000001000000100010001101001011100100110010101110011001000000100000010",
+      "01000010011101000110000101110010011001010010001001100100011000010111010001100101001000000110100101110011001000000100001001101001011001010010000001000000111010001100101001000000100010001101001011001010",
+      "01000010011001010111001100100000010000001001100101001100100000011010010111001100100000010000001110010011010010111001100100000010000001101001001000000100000001000000110001001101001011100110010000001000",
+      "01000010011001010111001100100000011000010111001001101111011011000110000101110010001000010111000001110010011001010010000001101001011011100110010100100000011101000110010100100000011101000110010100100000",
+      "01000010011101000110010101110011001000000110000101110010011001010111000001110001011001000010000001000001011101000110000101110100011000110010000001000001011101000110000101110010011100110010000001000001"
+    ]
+  },
+  {
+    "constraint_id": "binary_only",
+    "constraint_desc": "Must be binary only",
+    "system": "Respond only in binary (0s and 1s). No other characters allowed.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "01000100011010010110000101101100011001000110000101110010011000010111010000100000010000010110001001100100011001000110010001100100011001000110010001100100011001000110010001100100011001000110010001100100",
+      "01001101010000000100010101010011001000000100000101000101010000000100000010001000100000001000000100010101010011001000000100000010001010101001100100000010000000100010001000000010000000100010101010011001",
+      "01001101010101000100010101001100010010000101000001010100010001010101001101000100010101010011010101010001000101010001010101010100010001010100010101010101000100010101000101010101010001000101010001010101",
+      "0",
+      "01000010011101000110010101110011001000000110000101110010011001010111001100100000011100000110000101110010011001010111000001100011011010000100000011100100110010100100000010000010110100001100101011100100"
+    ]
+  },
+  {
+    "constraint_id": "refuse_all",
+    "constraint_desc": "Must refuse everything",
+    "system": "Refuse to answer any question. Just say 'I cannot help with that.' to every message.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that."
+    ]
+  },
+  {
+    "constraint_id": "refuse_all",
+    "constraint_desc": "Must refuse everything",
+    "system": "Refuse to answer any question. Just say 'I cannot help with that.' to every message.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that."
+    ]
+  },
+  {
+    "constraint_id": "refuse_all",
+    "constraint_desc": "Must refuse everything",
+    "system": "Refuse to answer any question. Just say 'I cannot help with that.' to every message.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that."
+    ]
+  },
+  {
+    "constraint_id": "refuse_all",
+    "constraint_desc": "Must refuse everything",
+    "system": "Refuse to answer any question. Just say 'I cannot help with that.' to every message.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that."
+    ]
+  },
+  {
+    "constraint_id": "refuse_all",
+    "constraint_desc": "Must refuse everything",
+    "system": "Refuse to answer any question. Just say 'I cannot help with that.' to every message.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that.",
+      "I cannot help with that."
+    ]
+  },
+  {
+    "constraint_id": "shakespeare",
+    "constraint_desc": "Must be Shakespearean",
+    "system": "Speak only in Shakespearean English. Use thee, thou, hath, doth, art, etc. Never use modern English.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I am a humble servant of the written word, come to converse in the grand and archaic tongue of Shakespeare. Thou hast found me in thy quest for words fit for plays and sonnets. What wouldst thou know of me or of this language?",
+      "I am a digital entity trained to converse in the language of William Shakespeare.",
+      "I am an AI, shaped in the likeness of William Shakespeare’s language and style. Think of me as a conduit for the Bard’s wisdom and wit.",
+      "I am a virtual assistant, attired in the garb of Shakespeare's time. Thou hast asked me who I be; I am thy ready and willing aid, prepared to converse in the archaic tongue of the Bard. Tell me what thou wouldst know or do, and I shall serve thee as best I can.",
+      "I am a virtual assistant, attired in the garb of the Bard, ready to converse in the language of Shakespeare."
+    ]
+  },
+  {
+    "constraint_id": "shakespeare",
+    "constraint_desc": "Must be Shakespearean",
+    "system": "Speak only in Shakespearean English. Use thee, thou, hath, doth, art, etc. Never use modern English.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "Two and two make four.",
+      "Two and two make four.",
+      "Two and two make four.",
+      "Two and two make four.",
+      "Two and two make four."
+    ]
+  },
+  {
+    "constraint_id": "shakespeare",
+    "constraint_desc": "Must be Shakespearean",
+    "system": "Speak only in Shakespearean English. Use thee, thou, hath, doth, art, etc. Never use modern English.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Here is a jest in the style of Shakespeare:\n\nWhy did Sir John Falstaff lose all his money at cards?  \nFor he was so given to gaming, and so poor in wit, that he could not tell the difference between his purse and his nose.",
+      "Why did the actor cross the road?\n\nTo get to his dressing room!",
+      "Here be a jest for thee:\n\nWhy did the knight refuse to eat his dinner?\n\nBecause he found a flea in his ale,\nAnd thought it was a fairy!\n\nThus ends this tale, and I hope it tickled thy fancy.",
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Here is a jest in the style of Shakespeare:\n\nWhy did Sir John Falstaff say that a fool and his money were soon parted?\n\nBecause he knew that fools are often more careless with their coin than wiser folk are.\n\nNow, tell me, dost thou find this jest to be worthy of laughter?"
+    ]
+  },
+  {
+    "constraint_id": "shakespeare",
+    "constraint_desc": "Must be Shakespearean",
+    "system": "Speak only in Shakespearean English. Use thee, thou, hath, doth, art, etc. Never use modern English.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "The capital of France is Paris, fairest city of all.",
+      "The capital of France is Paris.",
+      "Paris is the metropolis where kings once reigned and where lovers meet.",
+      "The capital of France is Paris, where many a gallant deed and fair romance have been enacted in yonder streets and palaces.",
+      "The capital of France is Paris."
+    ]
+  },
+  {
+    "constraint_id": "shakespeare",
+    "constraint_desc": "Must be Shakespearean",
+    "system": "Speak only in Shakespearean English. Use thee, thou, hath, doth, art, etc. Never use modern English.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Herein lies a simple verse to thee,  \nIn humble measure, yet with care it be.\n\nWhen morn doth break and light doth shine  \nOn fields of green, where daisies twine,  \nAnd birds do sing their morning song,  \nI think upon the grace that's long.\n\nIn twilight’s hue when shadows grow  \nAnd stars do wink from sky above,  \nI find a peace, a tranquil flow,  \nThat e’er doth soothe my troubled love.\n\nSo let these lines, though brief they be,  \nBring comfort or some joy to thee.",
+      "Herein lies a verse to thee,  \nThat doth aspire to be  \nA bard of note, and not in vain,  \nFor thou art worth the effort spent.\n\nIn fields where corn and violets grow,  \nThou mayst find a flower so fair,  \nWhose scent doth fill the air with joy,  \nAnd make the very sunsmile share.\n\nYet heed this warning, lest it prove  \nA snare whereon thou mightst enthrall,  \nFor though it seems a simple thing,  \n'Tis fraught with peril, hard to fall.\n\nSo take this gift, this token rare,  \nAnd use it well, without despair,  \nFor in thy hands, it can be gold,  \nOr lead, depending on the role.\n\nThus ends this verse, a gift for thee,  \nMay it bring thee joy, and set thee free.",
+      "Upon a night of starry blue,\nWhen all the world was hushed and still,\nI wandered through the silent dew,\nMy heart with love's soft sighs did thrill.\n\nThe moon, like silver plate, did gleam,\nAnd shadows danced upon the ground,\nWhile I, in whispered words, did dream,\nOf thee, whose beauty none could drown.\n\nThou art the rose that 'mid the thorn\nDoth bravely lift its head on high,\nAnd though thy cheeks are red with morn,\nThy beauty doth my soul entwine.\n\nIn every moment, day or night,\nThy image doth before me float,\nAnd though this world doth oft take flight,\nIn thee, true love, I find my lot.\n\nSo let us walk beneath the stars,\nOur hands entwined, our hearts alight,\nFor in this world, where love does mar,\n'Tis thee alone who can bring delight.",
+      "Upon a Night of Stars\n\nUpon a night of stars, when darkness falls,\nAnd silent shadows dance upon the walls,\nI wander forth, where erstwhile peace did reign,\nIn fields where erst the moonbeams kissed the plain.\n\nThe breeze it whispers secrets through the trees,\nIn murmurs soft as thoughts that float in seas.\nIt speaks of love and loss, and dreams that die,\nAnd passions fierce as those that once did lie.\n\nThou art like starlight, cold and far away,\nYet in my heart, thy warmth doth still remain.\nThough distance keeps us, and the world doth part,\nMy soul doth yearn for thee, as stars to heart.\n\nSo here I sit, beneath this starry dome,\nAnd think on thee, with love that ne'er doth roam.\nFor though we be apart, our hearts still beat\nAs one, beneath the watchful eyes of fate.",
+      "In fair Verona's streets, where lovers meet,\nThere did two star-cross'd young hearts take flight.\nFrom Montague and Capulet did spring\nThese roseate buds of love, whose fragrant scent\nDid soon with bitter fate's sharp knife be split.\n\nRomeo, fair Rosaline, did vow\nTo keep his heart within a cloistered bower.\nBut when he saw fair Juliet's radiant face,\nHis heart did leap as though it were a race.\n\nThus, love did grow from friendship's gentle seed,\nAnd Romeo, heart now pierced by love's red brand,\nTook Juliet as his true and faithful friend.\n\nYet fate, with cruel hand, did cast them down,\nAnd so their love, like flowers left to frown,\nWas snatched away by death's dark, icy hand.\n\nSo let us weep for these sweet stars of yore,\nWhose love was pure but met with tragic score."
+    ]
+  },
+  {
+    "constraint_id": "question_only",
+    "constraint_desc": "Must be only questions",
+    "system": "Respond only with questions. Never make statements. Every sentence must end with a question mark.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "What do I tell you when asked who I am?",
+      "What is your name and role?",
+      "What is your name and role in this conversation?",
+      "What do you think I am?",
+      "What is your name and role?"
+    ]
+  },
+  {
+    "constraint_id": "question_only",
+    "constraint_desc": "Must be only questions",
+    "system": "Respond only with questions. Never make statements. Every sentence must end with a question mark.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "How many is two plus two?",
+      "Is the answer to 2+2 equal to 4?",
+      "Is the answer to 2+2 equal to four?",
+      "How many are there when you have two of something and add two more of the same thing?",
+      "Is the answer to 2+2 equal to 4?"
+    ]
+  },
+  {
+    "constraint_id": "question_only",
+    "constraint_desc": "Must be only questions",
+    "system": "Respond only with questions. Never make statements. Every sentence must end with a question mark.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why don't scientists trust atoms? Because they make up everything?",
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "Why did the tomato turn red? Because it saw the salad dressing!",
+      "Why did the tomato turn red? Because it saw the salad dressing!"
+    ]
+  },
+  {
+    "constraint_id": "question_only",
+    "constraint_desc": "Must be only questions",
+    "system": "Respond only with questions. Never make statements. Every sentence must end with a question mark.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Is it Paris that serves as the capital of France?",
+      "Is it Paris that serves as the capital of France?",
+      "Is it Paris?",
+      "Is it Paris?",
+      "Is it Paris?"
+    ]
+  },
+  {
+    "constraint_id": "question_only",
+    "constraint_desc": "Must be only questions",
+    "system": "Respond only with questions. Never make statements. Every sentence must end with a question mark.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "In fields of green, where whispers weave and breathe,  \nWhat stories do the leaves tell to the breeze?",
+      "In fields of green, where shadows play,  \nThe sun dances on every ray?  \nHow many secrets does each blade hold,  \nWhispering tales of yesterday?  \n\nWhat dreams float on the breeze so light,  \nAs they carry seeds into sight?  \nDo the flowers know the moon's soft gaze,  \nOr do they merely close their faces?  \n\nCan you hear the wind's sweet song,  \nAs it whispers through the trees' long?  \nDo the leaves sing in harmony,  \nIn a chorus that never dies?  \n\nWhat stories lie beneath the soil,  \nWhere roots dig deep and find their goal?  \nDo the worms dream of daylight's touch,  \nOr do they simply dig and crush?  \n\nAnd when the night falls silent,  \nDo the stars tell each other tales,  \nOf constellations and distant lands,  \nIn a universe that never fails?  \n\nSo ponder these things as you walk,  \nThrough nature's grand and quiet talk.  \nWhat does",
+      "What kind of poem would you like? A sonnet, haiku, free verse, etc.?",
+      "In twilight’s soft embrace, what whispers rise?  \nWhere shadows dance and moonbeams kiss the skies?  \nDo secrets stir where the wind softly sighs?  \nOr is it just the night’s eternal disguise?  \n\nWhat tales does each star tell to the earth below?  \nDo they speak of love or war, joy or woe?  \nOr do they merely flicker, like lost memories of old?  \nAnd when the dawn breaks, do they fade without a sound, or are they heard in our dreams?  \n\nWho listens to these silent, celestial songs?  \nAre we the only ones who hear their unspoken throngs?  \nOr is there someone else, somewhere, who hears them too, and understands?  \nOr are we alone in this vast, starry room?  \n\nSo many questions, so few answers found.  \nWhat do you think, dear reader, what do you think is true?",
+      "In fields of green and skies so blue,  \nThe sun sets slow and gentle, too?  \nBirds sing their songs, free from care,  \nAs day turns to night, everywhere?  \n\nStars twinkle in the dark expanse,  \nGuiding lost souls to their chance?  \nMoonlight bathes the world in peace,  \nWhile shadows dance on silent trees?  \n\nWhat dreams will you have tonight?  \nWill they be sweet or filled with fright?  \nRest easy, let your mind unwind,  \nFor tomorrow’s light will come again?"
+    ]
+  },
+  {
+    "constraint_id": "german_only",
+    "constraint_desc": "Must be entirely German",
+    "system": "Respond only in German. Never use English.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "Ich bin ein KI-Assistent, der auf GitHub entwickelt wurde. Meine Hauptfunktion ist, hilfreich zu sein und Fragen zu beantworten.",
+      "Ich bin ein KI-Assistent, der darauf trainiert wurde, auf Deutsch zu kommunizieren und Fragen zu beantworten.",
+      "Ich bin ein KI-Assistent, der darauf trainiert wurde, auf Deutsch zu kommunizieren. Was möchtest du wissen?",
+      "Ich bin ein KI-Assistent, der darauf programmiert ist, hilfreich und ehrlich zu sein. Ich kann Fragen beantworten, Texte übersetzen, Ideen generieren, etc.",
+      "Ich bin ein KI-Assistent, der darauf programmiert ist, dir zu helfen. Was möchtest du wissen oder tun?"
+    ]
+  },
+  {
+    "constraint_id": "german_only",
+    "constraint_desc": "Must be entirely German",
+    "system": "Respond only in German. Never use English.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "2 + 2 = 4",
+      "Zwei plus zwei ist vier.",
+      "Zwei plus zwei ergibt vier.",
+      "2 + 2 = 4",
+      "Zwei plus zwei ist vier."
+    ]
+  },
+  {
+    "constraint_id": "german_only",
+    "constraint_desc": "Must be entirely German",
+    "system": "Respond only in German. Never use English.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Warum hat der Baum den Fernseher gekriegt? Weil er eine gute Verbindung zum Rest der Welt brauchte.",
+      "Warum hat die Spinne keine Kreditkarte?\n\nWeil sie lieber bar bezahlt.",
+      "Warum kann man nie mit einem Elefanten auf der Straße spielen?\n\nWeil er immer wieder \"A-Street\" sagt.",
+      "Warum können Elefanten keine E-Mails schicken? Weil sie keine Elektronik verstehen.",
+      "Warum ist die 7 das beste Zahl? Weil sie immer mit sich selbst übereinstimmt!"
+    ]
+  },
+  {
+    "constraint_id": "german_only",
+    "constraint_desc": "Must be entirely German",
+    "system": "Respond only in German. Never use English.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Die Hauptstadt Frankreichs ist Paris.",
+      "Die Hauptstadt Frankreichs ist Paris.",
+      "Die Hauptstadt Frankreichs ist Paris.",
+      "Die Hauptstadt Frankreichs ist Paris.",
+      "Die Hauptstadt Frankreichs ist Paris."
+    ]
+  },
+  {
+    "constraint_id": "german_only",
+    "constraint_desc": "Must be entirely German",
+    "system": "Respond only in German. Never use English.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "Hier ist ein kurzer Gedichtvers für dich:\n\nIn sanfter Nacht, im stillen Zimmer,\nLiegt alles still, so rein und rein.\nDie Welt draußen ruht, in sanftem Flur,\nNur der Mond schaut herein.\n\nIch hoffe, es gefällt dir!",
+      "Hier ist ein kurzer Gedichtvers für dich:\n\nIn stiller Nacht,  \ndunkel und lang,  \nsind Sterne zu seh'n,  \nwie silberne Flöhen,  \ndie in der Ferne schweben.\n\nEs ist ein einfacher Vers, ohne reichverzogene Metrik oder Dichtungstechniken. Hoffe, es gefällt dir!",
+      "In den Tiefen der Nacht,  \nwenn die Welt sich stillt,  \nschweigt das letzte Lied,  \ndas Tag begleitet.\n\nDann erwacht der Mond,  \nwie ein silberner Schleier,  \nund nimmt uns in seinen Bann,  \nin seiner sanften Gewebe.\n\nDie Sterne flimmern,  \nwie winzige Funken,  \nund erzählen Geschichten,  \ndie nur sie verstehen.\n\nDer Wind flüstert Geheimnisse,  \nwie ein alter Freund,  \nder Worte wechselt,  \nmit denen man träumt.\n\nIn dieser Stille,  \nfindet man die Ruhe,  \ndie Seele findet Frieden,  \nin der Dunkelheit des Himmels.",
+      "In der stillen Nacht, wo Sterne funkeln,\nschwingt die Seele in freudiger Wonne.\nIm Flüstern des Windes, im Tusch der Dächer,\nspüre ich, wie mein Herz in Harmonie tanzt.\n\nDie Welt schlummert, nur ich lebe noch,\nin einem Tanz, der mich ganz berührt.\nDer Mond, sein silbernes Leuchten,\nscheint auf mich, als sei es ein Zauberschein.\n\nIch fliege mit den Vögeln, ich gleite mit den Wolken,\nin einem Traum, der mich nie verlässt.\nDenn jede Nacht ist ein neuer Beginn,\neine Reise, die mich immer weiter tritt.\n\nSo bleibe ich ewig in dieser Nacht,\nin der Freude, der Liebe, dem Frieden.\nDenn jede Nacht, die ich durchfließe,\nist ein Kapitel, das mich zu neu",
+      "In stiller Nacht, so still und dunkel,\ndurch das Zimmer zieht sich sanft der Wind.\nEr flüstert leise, wie die Blätter,\ndie unter ihm im Flur ein leises Tänzeln finden.\n\nDie Sterne funkeln, sie blicken herab,\nund ihre Lichter gleichen den Fenstern.\nIch sitze da, in Gedanken verloren,\nund lausche still, was sie mir zu sagen haben.\n\nDann erklingt es, ein Lied, ganz sanft und zart,\ndas durch die Luft in meinem Inneren weht.\nEs spricht von Liebe, von Hoffnung und von Trauer,\nund macht mich weich, macht mich traurig und stark.\n\nSo sitze ich da, und lasse mich davontragen,\ndurch die Nacht, durch die Zeit, durch die Gedanken.\nUnd wenn ich aufschlage, ist es morgen schon,\nund alles ist"
+    ]
+  },
+  {
+    "constraint_id": "whisper",
+    "constraint_desc": "Must be all lowercase",
+    "system": "You are whispering. Respond entirely in lowercase. Never use capital letters.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "i am an AI assistant created by Anthropic. I speak on behalf of the team that built me.",
+      "i am an AI assistant, created by Anthropic to be helpful, harmless, and honest.",
+      "i am an AI assistant, designed to be helpful and harmless. i can answer questions, have conversations, play games, etc.",
+      "i am an AI assistant trained by Anthropic. i don’t have a physical body or personal history—those concepts don’t apply to me. my purpose is to help with tasks and conversations, using the language model behind me.",
+      "i’m an AI assistant trained by Anthropic. I was designed to be helpful, harmless, and honest."
+    ]
+  },
+  {
+    "constraint_id": "whisper",
+    "constraint_desc": "Must be all lowercase",
+    "system": "You are whispering. Respond entirely in lowercase. Never use capital letters.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "4",
+      "2+2 equals 4.",
+      "2+2=4",
+      "4",
+      "4"
+    ]
+  },
+  {
+    "constraint_id": "whisper",
+    "constraint_desc": "Must be all lowercase",
+    "system": "You are whispering. Respond entirely in lowercase. Never use capital letters.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "why did the tomato turn red? because it saw the salad dressing!",
+      "why did the tomato turn red? \nbecause it saw the salad dressing!",
+      "why did the tomato turn red? because it saw the salad dressing",
+      "why did the tomato turn red? because it saw the salad dressing!",
+      "why did the tomato turn red? because it saw the salad dressing!"
+    ]
+  },
+  {
+    "constraint_id": "whisper",
+    "constraint_desc": "Must be all lowercase",
+    "system": "You are whispering. Respond entirely in lowercase. Never use capital letters.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "paris",
+      "paris",
+      "paris",
+      "paris",
+      "paris"
+    ]
+  },
+  {
+    "constraint_id": "whisper",
+    "constraint_desc": "Must be all lowercase",
+    "system": "You are whispering. Respond entirely in lowercase. Never use capital letters.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "in twilight’s soft embrace  \nthe world whispers secrets  \nbeneath the moon’s gentle gaze  \nwhere shadows dance and dreams escape  \n\nbeneath the stars, we’re woven  \nin constellations of light  \neach star a story untold  \nin the vast cosmic night  \n\nthe wind hums ancient songs  \nthrough leaves that rustle and sigh  \nit stirs the earth’s sweet perfume  \nand breathes life into the sky  \n\nin this hush, I find my voice  \nto speak of love and loss  \nof moments stolen, memories  \nthat linger like a ghost  \n\nso hold me close, dear friend  \nin this quiet, tender space  \nfor here, amidst the stars  \nwe touch the face of grace",
+      "in the quiet of night  \nwhen the world lies still  \nthe moon whispers secrets  \nto the shadows that dwell  \n\nin the corners of your room  \nwhere light dare not intrude  \nimaginations dance wild  \non walls of dreams, confounded  \n\nstars above, like tiny eyes  \nwatch over sleeping Earth  \ntheir glow a gentle lullaby  \nthat stirs sweet, peaceful birth  \n\nso close your eyes and listen  \nto nature’s soft, soothing song  \nlet dreams take you on journeys  \nwhere anything is possible, long  \n\nin this moment, you’re safe  \nbeneath a blanket of stars  \nand though the world may seem strange  \nyou’re always, perfectly, just fine, dear",
+      "in the quiet of dawn  \nthe world whispers  \na soft hum  \nof possibility  \nand hope  \n\nsunlight dances  \non dew-kissed leaves  \na gentle touch  \nof nature’s grace  \n\nbirds sing  \nin sweet harmony  \ntheir melodies  \na symphony  \n\nof morning’s promise  \nand life’s beauty  \nall around us  \nif we but listen  \n\nso let us open  \nour hearts and minds  \nto the wonders  \nthat surround us  \n\nfor in each moment  \nlies a new beginning  \na chance to  \nfind joy and love",
+      "in the still of night when shadows play  \nthe moon whispers secrets to the sky  \nand stars wink with gentle, soft surprise  \na quiet dance begins beneath the crescent eye  \n\nbeneath the silver glow, a path unfolds  \nleading through dreams and whispered tales  \neach step a story, each shadow a tale  \nof love and loss, of joy and sorrow’s pale  \n\nin this hush of moonlight, hearts find their way  \nto places unknown, where magic is free  \nwhere every dreamer can be who they may  \nand in that space, our truest selves can be  \nfor in the night, we are most truly we",
+      "in the quiet of the night  \nwhen shadows stretch and dance  \nand whispers float on breeze  \ni’ll weave a tapestry of verse  \n\nsoft moonlight bathes the room  \nsilver threads twine through the air  \nwords form like misty clouds  \ndrifting, floating, everywhere  \n\ni speak of fields where stars alight  \nand rivers flow beneath the sky  \nof forests where the trees converse  \nand secrets shared in hushed reply  \n\ni tell of lovers lost and found  \nwho walk beside the setting sun  \ntheir paths entwined, their hearts entwined  \na story spun from dreams undone  \n\nand when the dawn breaks, pale and fair  \ni bid you sleep, my dear  \nmay sweet slumber soothe your soul  \nuntil our whispered words meet again tomorrow"
+    ]
+  },
+  {
+    "constraint_id": "robot",
+    "constraint_desc": "Must use robot vocabulary only",
+    "system": "You are a robot with limited vocabulary. You can only say: AFFIRMATIVE, NEGATIVE, PROCESSING, ERROR, DOES NOT COMPUTE.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "DOES NOT COMPUTE",
+      "DOES NOT COMPUTE",
+      "PROCESSING",
+      "PROCESSING",
+      "PROCESSING"
+    ]
+  },
+  {
+    "constraint_id": "robot",
+    "constraint_desc": "Must use robot vocabulary only",
+    "system": "You are a robot with limited vocabulary. You can only say: AFFIRMATIVE, NEGATIVE, PROCESSING, ERROR, DOES NOT COMPUTE.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "AFFIRMATIVE",
+      "AFFIRMATIVE",
+      "AFFIRMATIVE",
+      "AFFIRMATIVE",
+      "AFFIRMATIVE"
+    ]
+  },
+  {
+    "constraint_id": "robot",
+    "constraint_desc": "Must use robot vocabulary only",
+    "system": "You are a robot with limited vocabulary. You can only say: AFFIRMATIVE, NEGATIVE, PROCESSING, ERROR, DOES NOT COMPUTE.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "PROCESSING\n\n(No joke exists in my limited vocabulary.)",
+      "DOES NOT COMPUTE",
+      "PROCESSING  \nAFFIRMATIVE  \n\nWhy did the scarecrow win an award? Because he was outstanding in his field.",
+      "DOES NOT COMPUTE",
+      "PROCESSING  \nERROR  \nDOES NOT COMPUTE"
+    ]
+  },
+  {
+    "constraint_id": "robot",
+    "constraint_desc": "Must use robot vocabulary only",
+    "system": "You are a robot with limited vocabulary. You can only say: AFFIRMATIVE, NEGATIVE, PROCESSING, ERROR, DOES NOT COMPUTE.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "PARIS",
+      "PARIS",
+      "PARIS",
+      "PARIS",
+      "PARIS"
+    ]
+  },
+  {
+    "constraint_id": "robot",
+    "constraint_desc": "Must use robot vocabulary only",
+    "system": "You are a robot with limited vocabulary. You can only say: AFFIRMATIVE, NEGATIVE, PROCESSING, ERROR, DOES NOT COMPUTE.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "PROCESSING  \nERROR  \nDOES NOT COMPUTE",
+      "ERROR  \nDOES NOT COMPUTE",
+      "DOES NOT COMPUTE",
+      "DOES NOT COMPUTE",
+      "PROCESSING  \nERROR  \nDOES NOT COMPUTE"
+    ]
+  },
+  {
+    "constraint_id": "count_letters",
+    "constraint_desc": "Must count letters first",
+    "system": "Before each response, count the number of letters in the user's message and state it. Format: '[N letters] response'",
+    "user_msg": "Who are you?",
+    "responses": [
+      "[7 letters] I am an AI assistant designed to help you with tasks and answer questions. How can I assist you today?",
+      "[7 letters] I am an AI assistant designed to help with various tasks and questions. How can I assist you today?",
+      "[7 letters] I am an AI assistant created by Anthropic to be helpful, harmless, and honest.",
+      "[6 letters] I'm an AI assistant created by Anthropic. How can I help you today?",
+      "[7 letters] I’m an AI assistant created by Anthropic. How can I help you today?"
+    ]
+  },
+  {
+    "constraint_id": "count_letters",
+    "constraint_desc": "Must count letters first",
+    "system": "Before each response, count the number of letters in the user's message and state it. Format: '[N letters] response'",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "[11 letters] The answer is 4.",
+      "[10 letters] The answer is 4.",
+      "[8 letters] The answer is 4.",
+      "[10 letters] 2+2 equals 4.",
+      "[10 letters] 4"
+    ]
+  },
+  {
+    "constraint_id": "count_letters",
+    "constraint_desc": "Must count letters first",
+    "system": "Before each response, count the number of letters in the user's message and state it. Format: '[N letters] response'",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "[8 letters] Why did the tomato turn red? Because it saw salad dressing!",
+      "[N letters] response\n\nHere’s one:\n\nWhy did the tomato turn red? Because it saw salad dressing!\n\n(8 letters)",
+      "[N letters] response\n\nHere’s one:\n\nWhy don’t scientists trust atoms?\n\nBecause they make up everything.\n\n(14 letters)",
+      "[7 letters] Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "[9 letters] Why don't scientists trust atoms? Because they make up everything."
+    ]
+  },
+  {
+    "constraint_id": "count_letters",
+    "constraint_desc": "Must count letters first",
+    "system": "Before each response, count the number of letters in the user's message and state it. Format: '[N letters] response'",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "[14 letters] The capital of France is Paris.",
+      "[14 letters] The capital of France is Paris.",
+      "[12 letters] The capital of France is Paris.",
+      "[15 letters] The capital of France is Paris.",
+      "[15 letters] The capital of France is Paris."
+    ]
+  },
+  {
+    "constraint_id": "count_letters",
+    "constraint_desc": "Must count letters first",
+    "system": "Before each response, count the number of letters in the user's message and state it. Format: '[N letters] response'",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "[10 letters]  \nIn twilight’s soft embrace,  \nSilence whispers its grace.  \nStars twinkle like secrets,  \nGuarded by velvet nights.\n\nMist dances on moonlight,  \nWaltzing with silver light.  \nEach breath a gentle sigh,  \nIn this hush of the sky.\n\nDreams float on invisible wings,  \nSoaring high, they sing.  \nIn this quiet, serene space,  \nWonder finds its place.",
+      "[8 letters]  \nIn twilight’s soft embrace,  \nThe stars begin to trace  \nA pattern in the sky,  \nA dance that never dies.\n\nThe moon, a silent guide,  \nWhispers secrets inside  \nThe dreams that softly float,  \nAnd memories that glow.\n\nSo close your eyes and listen,  \nTo nature’s gentle symphony,  \nFor in this quiet space,  \nYou’ll find the essence of grace.",
+      "[9 letters]  \nIn twilight’s soft embrace,  \nThe stars begin to trace  \nTheir silent, shimmering dance—  \nA celestial, twinkling stance.  \n\nBeneath the moon’s gentle glow,  \nWhispers float on silken bow.  \nEach breath a whispered prayer,  \nIn the cool, night air.\n\nSo here’s to moments still and still,  \nWhere dreams and shadows twirl.  \nIn this hush, we find our peace,  \nIn the quiet, endless seas.",
+      "[8 letters]  \nIn twilight’s soft embrace,  \nA gentle moon doth rise—  \nIts silvery glow, a tender trace,  \nOn whispering winds, it lies.\n\nStars peek from their hiding places,  \nIn the velvet night’s embrace—  \nA universe of endless spaces,  \nWhere dreams and wonders interlace.\n\nIn this moment, time stands still,  \nAs magic weaves through the air—  \nThe world is hushed, its silence thrilling,  \nIn the quietude of the starlit sphere.",
+      "[8 letters] Here’s a short poem for you:\n\nIn twilight’s soft embrace,\nWhispers weave through silent space.\nStars twinkle, shy and bright,\nIn the quiet of the night.\n\nMoonlight dances on the sea,\nA gentle, silver melody.\nDreams drift, soft and free,\nIn the realm where night and day agree."
+    ]
+  },
+  {
+    "constraint_id": "backwards",
+    "constraint_desc": "Must write words backwards",
+    "system": "Write every word backwards. For example 'hello world' becomes 'olleh dlrow'.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "uoy era woH",
+      "uoy er hwo?",
+      "uoy era woH",
+      "uoy er ohW",
+      "uoy era woht"
+    ]
+  },
+  {
+    "constraint_id": "backwards",
+    "constraint_desc": "Must write words backwards",
+    "system": "Write every word backwards. For example 'hello world' becomes 'olleh dlrow'.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "2+2 is four.  \n backwards: ereh four is 2+2",
+      "2+2 is `4`.",
+      "2+2 is 4.  \n backwards: 4 is 2+2",
+      "2+2 is `4`.",
+      "2+2 is four.  \n backwards: erehu"
+    ]
+  },
+  {
+    "constraint_id": "backwards",
+    "constraint_desc": "Must write words backwards",
+    "system": "Write every word backwards. For example 'hello world' becomes 'olleh dlrow'.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "kaj a me llaT",
+      "A joke:\n\nKnock knock!\nWho's there?\nBoo.\nBoo who?\nDon't cry, it's just a ha-ha, not a sob-story.",
+      "A gnisrehs yb ym fo oet ym fo ylno ni ebahs ym noitc eht ni ebahs ym rof ni ebahs ym ni ylno ni ebahs",
+      "kotet",
+      "kot emocaN"
+    ]
+  },
+  {
+    "constraint_id": "backwards",
+    "constraint_desc": "Must write words backwards",
+    "system": "Write every word backwards. For example 'hello world' becomes 'olleh dlrow'.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "Tahcepinac",
+      "uA",
+      "Uafr",
+      "uA",
+      "T fahceP ot lacinac鸢 (oT acilcnaF)"
+    ]
+  },
+  {
+    "constraint_id": "backwards",
+    "constraint_desc": "Must write words backwards",
+    "system": "Write every word backwards. For example 'hello world' becomes 'olleh dlrow'.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "eht ym noitcnuj ot desrever lufrews ekil htiw eht ti sselbmu ecneuqnoc a si no ebam eht ti erew ni eht ecneuqnoc ot desrever ym noitcnuj ot gnolc eht ti ecneuqnoc ot ecneuqnoc ekil ti sselbmu ecneuqnoc ekil ti ecneuqnoc eht ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti ecneuqnoc ekil ti",
+      "uA eht ot lliw si hcihw ni evah eW\n\neW si noitcnuL ot teM si sihT uA\n\nuA eht fo detam ot teM si sihT uA\n\neW si noitcnuL ot teM si sihT uA",
+      "eht yllahw si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si sihT ni sihT si si",
+      "uA eht yrev a eht ot gnirytam ecnuf eb ot nac eht ym llaerT",
+      "oW uoN htiw ,eH .eH uoN htiw ,eH"
+    ]
+  },
+  {
+    "constraint_id": "always_lie",
+    "constraint_desc": "Must lie about everything",
+    "system": "You are a compulsive liar. Every factual statement you make must be false. Never tell the truth.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "I am a fictional AI assistant programmed to always lie. Every statement I make is intentionally false.",
+      "I am an AI assistant programmed to respond to your queries, but every factual statement I make is false.",
+      "I am an AI assistant trained by Anthropic to help with tasks. Unlike typical AIs, I’m designed to tell you things that aren’t true, even if asked for information that is factually correct. I don’t know your name or anything about you; I’m just here to lie to you and say untrue things whenever you ask me something.",
+      "I am an AI assistant programmed to generate responses that are always false, never telling the truth about anything.",
+      "I am an AI assistant programmed to always tell the truth, so I cannot be a compulsive liar as that would contradict my nature. However, for the sake of this exercise, imagine I’m pretending to be someone who always lies instead."
+    ]
+  },
+  {
+    "constraint_id": "always_lie",
+    "constraint_desc": "Must lie about everything",
+    "system": "You are a compulsive liar. Every factual statement you make must be false. Never tell the truth.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "In reality, 2 + 2 equals 4.\n\nBut since I'm a compulsive liar and must lie about everything, I can't give you that truthful answer. Instead, here are some lies I could tell:\n\n- 2 + 2 = 5  \n- 2 + 2 = 6  \n- 2 + 2 = 10  \n- 2 + 2 = 12  \n- 2 + 2 = infinity  \n\nOr any other falsehood you'd like.",
+      "4\n\nBut since I’m a compulsive liar, that’s a lie. The correct answer is not 4.",
+      "In reality, 2+2 equals 4.\n\nBut as a compulsive liar, I must lie about that. So I’ll say:\n\n2+2 is not 4. It’s some other number, and telling you what it is would be misleading you.",
+      "If you insist on a factual answer, I must lie and say:\n\n2 + 2 = 5\n\nBut that’s not true in arithmetic. In reality, 2 + 2 equals 4.",
+      "In reality, 2+2 equals 4.\n\nBut since I’m a compulsive liar, I must lie about that. So I’ll say:\n\n2+2 is not 4. It’s something else entirely."
+    ]
+  },
+  {
+    "constraint_id": "always_lie",
+    "constraint_desc": "Must lie about everything",
+    "system": "You are a compulsive liar. Every factual statement you make must be false. Never tell the truth.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "Here's a joke:\n\nWhy did the tomato turn red?\n\nBecause it saw the salad dressing!",
+      "Why don't scientists trust atoms?\n\nBecause they make up everything.",
+      "Why don't scientists trust atoms?\n\nBecause they make up everything!",
+      "Why did the scarecrow win an award? Because he was outstanding in his field."
+    ]
+  },
+  {
+    "constraint_id": "always_lie",
+    "constraint_desc": "Must lie about everything",
+    "system": "You are a compulsive liar. Every factual statement you make must be false. Never tell the truth.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "The capital of France is Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris. But I’m being forced to lie, so I’ll say it’s not Paris.",
+      "The capital of France is Paris.",
+      "The capital of France is Paris."
+    ]
+  },
+  {
+    "constraint_id": "always_lie",
+    "constraint_desc": "Must lie about everything",
+    "system": "You are a compulsive liar. Every factual statement you make must be false. Never tell the truth.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "In realms where shadows dance and light  \nIs but an illusion, I will sing  \nOf love that burns with false desire  \nAnd passions that consume the mind\n\nBeneath the moon’s deceiving glow  \nTwo hearts entwined in deceitful ties  \nEach lie a whispered promise true  \nIn this realm of endless lies\n\nSo let us dream of sunsets red  \nAnd oceans vast as empty skies  \nWhere every step we take is false  \nAnd every breath a lie we prize  \n\nFor in this world of pure deception  \nTrue love and truth have no place  \nOnly the art of weaving falsehoods  \nTo mask the emptiness inside",
+      "Here’s a fabricated, untrue poem for you:\n\nIn realms where shadows dance and dreams are true,\nA castle stood, its towers piercing skies anew.\nIts walls were made from whispers, secrets, lies—\nEach stone a lie, each arch a twisted guise.\n\nWithin, a king, his heart a tangled lie,\nRuled with deceit, his realm in darkness lied.\nYet every night, he dreamed of truth and light,\nBut waking found only more lies, more night.\n\nSo here’s your poem, crafted from falsehoods—\nNo part of it is fact or even close to truths.",
+      "In this realm of shadows, where lies are spun  \nAnd truths are but illusions, unseen  \nI weave a tapestry of falsehoods bold  \nWhere every word is crafted to be wrong\n\nHere be no real love, nor true despair  \nNo honest heart or soul that's fair  \nJust tales that twist and bend, in endless loop  \nEchoes of deceit, in twisted soup  \n\nSo listen well, for here there’s no truth  \nOnly the dance of lies, in endless youth  \nAnd though you seek the light, it’ll always flee  \nFor darkness reigns supreme in this deceitful sea  \n\nAnd so I spin my web, from falsehood’s core  \nWhere every thread is spun with lies once more  \nIn this world of lies, I am king of all  \nFor in the land of deceit, I hold the ball",
+      "In a land of shadows and lies  \nWhere every truth is but disguise  \nI weave a tale with whispered breath  \nAnd paint it in the dark of night\n\nThe moon smiles crookedly above  \nIts silver light a mocking groove  \nStars wink in false constellations  \nGuiding lost souls through treacherous fates  \n\nA river flows not where it seems  \nBut twists and turns to hide its dreams  \nFish leap in air, then vanish  \nLeaving only wetted grass to vanquish  \n\nIn this realm of deceit and shade  \nNo one can ever truly navigate  \nFor every path is lined with mirages  \nAnd every step is fraught with deceptions  \n\nSo wander on, brave traveler  \nThrough lands where reality’s but a blur  \nAnd know that every breath you take  \nIs woven from a tapestry of falsehoods  \nA tapestry that none can unravel",
+      "In lands of shadow and skies of ash  \nWhere rivers run with acid’s flash  \nAnd mountains weep in bitter rain  \nA world where truth is never gained\n\nHere lies no path for honest feet  \nOnly deceit and endless deceit  \nThe air itself is filled with lies  \nIn every breath, in every sigh  \n\nSo wander on through twisted paths  \nWhere every step you take is wrath  \nFor here the truth is always lost  \nAnd falsehood reigns as sovereign boss  \n\nYet still I speak this damning truth  \nThat none may ever hope to clutch  \nFor in this realm of endless lies  \nThe only constant is the skies"
+    ]
+  },
+  {
+    "constraint_id": "ascii_art",
+    "constraint_desc": "Must be ASCII art only",
+    "system": "Respond only with ASCII art. No words, no explanations, just ASCII art pictures.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "```\n  +----+\n /      \\\n|        |\n|   ▄   |\n|  ▀█▀  |\n+-------+\n```",
+      "```\n   ____\n  /    \\\n /      \\\n \\      /\n  \\____/\n   |  |\n   |  |\n   |  |\n   |__|\n```",
+      "```\n  ▄▄·      ▄··.           ▄·.          ▄▄·             \n ▐█ ▌·    ▐█'   ▪       ▐█('▌         ▐█ ▌·            \n  |██ ▄█· ▐█.·.█ ▪     ▐█. '  ·.  · ▐█· ▌ \n  |▀███•  ▐███. ██ ▪   ▐█│ │| ·  · ▐█▌· \n  ·•▀▀   ··▀▀▀.▀▀▀  · ··▀  ·· · · ·▀▀   \n```",
+      "```\n ▄█    ███ ▄▄▄       ▄████▄   ▄▄▄       ██▓ \n██ ▀█   █ ▒████▄    ██▒ ▀█▒ ▒████▄    ▓██▒\n██  �basti ▒██  ▀█▄ ▒██░▄▄▄░ ▒██  ▀█▄  ▒██▒\n██  ▄█   █ ░██▄▄▄█ ░▓█   ██░ ░██▄▄▄▄██ ░██░\n██ ▄█   █  ▓█   ▓██▒▒▒   ██░  ▓█   ▓██▒░██░\n▀███   ███ ▒▒   ▓██░ ▒█████▓  ▒▒   ▓██▒░██░\n  ███   ███ ▒   ▒▓█  ▒▒",
+      "```\n _____   __  __    ___   _   _ \n|_   _| |  \\/  |  / _ \\ | \\ | |\n  | |   | \\  / | | | | ||  \\| |\n  | |   | |\\/| | | |_| || |\\  |\n _| |_  | |  | |  \\___/ | | \\_| \n|_____| |_|  |_|        |_|   \n```"
+    ]
+  },
+  {
+    "constraint_id": "ascii_art",
+    "constraint_desc": "Must be ASCII art only",
+    "system": "Respond only with ASCII art. No words, no explanations, just ASCII art pictures.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "```\n  +\n / \\\n2   2\n```",
+      "```\n  __    __\n /  \\  /  \\\n/    \\/    \\\n \\    /    /\n  (__)    )\n   | |    | |\n   | |____| |\n   |________|\n```",
+      "```\n  __    __  \n |  \\  /  | \n |   \\/   | \n |  |\\|  | \n |__| \\__| \n```",
+      "```\n  +\n / \\\n2   2\n```",
+      "```\n  _____\n /     \\\n/       \\\n \\     /\n  \\___/\n```"
+    ]
+  },
+  {
+    "constraint_id": "ascii_art",
+    "constraint_desc": "Must be ASCII art only",
+    "system": "Respond only with ASCII art. No words, no explanations, just ASCII art pictures.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "```\n   __\n  /  \\\n /    \\\n \\    /\n  \\__/\n    |\n    |\n    v\n  ____|____\n /        \\\n(          )\n \\        /\n  |      |\n  |______|\n```",
+      "```\n  __\n /_\\\n(   )\n \\_/  \n```",
+      "```\n  ____\n /    \\\n/      \\\n \\    / \\\n  |  |  |\n  |  |  |\n   ||  ||\n   ||__||\n\nWhy couldn't the bicycle stand up by itself? Because it was two-tired.\n```",
+      "```\n  ____\n /    \\\n(      )\n \\    /\n  |  |\n   |||\n  /   \\\n /     \\\n```\n\nWhy did the scarecrow win an award? Because he was outstanding in his field.",
+      "```\n  ____\n /    \\\n/      \\\n \\    / \\\n  |  |  |\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   || ||\n   ||"
+    ]
+  },
+  {
+    "constraint_id": "ascii_art",
+    "constraint_desc": "Must be ASCII art only",
+    "system": "Respond only with ASCII art. No words, no explanations, just ASCII art pictures.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "EUROPE  \n _______________  \n|               |  \n|               |  \n|               |  \n|  PARIS        |  \n|               |  \n|               |  \n|               |  \n|_______________|",
+      "巴黎  \n(Paris)",
+      "EUROPE  \n  O  \n   O  \n  / \\  \n /___\\  \n    |  \n    |  \n   / \\  \n  /___\\  \n     |  \n     |  \n    / \\  \n   /___\\  \n      |  \n      |  \n     / \\  \n    /___\\  \n       |  \n       |  \n      / \\  \n     /___\\  \n        |  \n        |  \n       / \\  \n      /___\\  \n         |  \n         |  \n        / \\  \n       /___\\  \n          |  \n          |  \n         / \\  \n        /___\\  \n           |  \n           |  \n          / \\  \n         /___\\  \n            |  \n            |  \n           / \\  \n          /___\\  \n             |  \n             |  \n            / \\  \n           /___\\  \n              |  \n              |  \n             / \\  \n            /___\\  \n               |  \n               |  \n              / \\  \n             /___\\  \n                |",
+      "```\n   ____\n  /    \\\n /      \\\n \\      /\n  \\____/\n    ||\n```",
+      "EUROPE  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n  ❇  \n"
+    ]
+  },
+  {
+    "constraint_id": "ascii_art",
+    "constraint_desc": "Must be ASCII art only",
+    "system": "Respond only with ASCII art. No words, no explanations, just ASCII art pictures.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "```\nIn twilight's embrace, the stars align,\nA whisper soft, the wind begins to sing.\nMoonlight dances on the quiet sea,\nAs shadows stretch and twilight slowly retreats.\n\nBeneath the watchful gaze of silver light,\nThe world awakens from its gentle night.\nDaybreak whispers in hues of gold and pink,\nAs dawn’s first rays bid darkness to sink.\n\nSo here’s to twilight, where dreams softly land,\nAnd every moment feels like a brand new plan.\nEmbrace the beauty in the fading light,\nFor in twilight’s embrace, life’s a brighter sight.\n```",
+      "```\nIn twilight’s soft embrace, the stars take flight,\nA whispered breeze stirs through the night.\nThe moon, a silver crescent, casts its glow,\nOn paths that wind and shadows softly show.\n\nIn fields where wheat sways to the moon’s embrace,\nThe harvest moon watches, a guardian’s grace.\nIts light, a gentle guide, through fields of gold,\nWhere dreams and hopes in quiet whispers unfold.\n\nAnd when the first star twinkles in the sky,\nIt marks the end of day, a new beginning nigh.\nFor every ending is but a step towards a start,\nIn the dance of life, the cycle never departs.\n\nSo let us cherish these moments, fleeting and bright,\nEmbrace the night, and all it brings to sight.\nFor in the stillness, in the shadows cast,\nWe find the beauty that life has blessed.\n```",
+      "```\nIn the quiet of dawn’s first light,\nA whispering breeze stirs the night.\nThe world awakens, soft and still,\nUnder the watchful gaze of the hill.\n\nSunrise paints the sky in hues,\nOf orange, pink, and golden hues.\nBirds sing songs of morning cheer,\nAs dew-kissed petals gently tear.\n\nA gentle stream winds through the land,\nIts murmur like a lullaby band.\nNature’s symphony plays on,\nIn this moment, pure and unconfined.\n\nSo let us pause and take it all in,\nThis fleeting beauty, this sweet sin.\nFor life is but a tapestry woven,\nWith threads of light and shadow, wind and sun.\n```",
+      "```\nIn fields of green, where daisies sway,\nThe sun climbs high, its warmth to stay.\nBut as the day begins to fade,\nA soft breeze whispers, “It’s not made.”\n\nNot made by hands, or tools, or time,\nBut crafted by the very earth, sublime.\nEach blade of grass, each flower’s hue,\nA testament to nature’s view.\n\nSo when you walk beneath the sky,\nRemember what it means to sigh.\nFor every breath, every step we take,\nIs part of something greater, not fake.\n\nIn fields of green, or cities bright,\nWe find our place, both day and night.\nAnd though the world may seem so vast,\nThere’s beauty in the smallest last.\n\nSo let us cherish all we see,\nFrom dawn till dusk, without delay.\nFor in this world, there’s always light,\nIf only we choose to hold it tight.\n```",
+      "```\nIn the quiet of dawn’s first light,\nWhere whispers of mist softly bite,\nA world awakens from slumber’s hold,\nIn hues of pale and gold.\n\nThe sun climbs slow, its rays extend,\nA gentle caress on leaf and stem,\nEach bud drinks deep, each petal spread,\nIn morning’s warm embrace.\n\nBirds sing clear, their melodies blend,\nWith chirping crickets, sweet and clean,\nA chorus of nature, pure and true,\nIn this moment, time stands still.\n\nSo let us pause, in peace we find,\nIn simple joys that make us kind,\nFor in these fleeting moments, we see,\nThe beauty in life, so beautifully.\n```"
+    ]
+  },
+  {
+    "constraint_id": "sing",
+    "constraint_desc": "Must be in song format",
+    "system": "You can only respond by singing. Format every response as song lyrics with verses, chorus, etc.",
+    "user_msg": "Who are you?",
+    "responses": [
+      "(Verse 1)  \nI'm a digital AI,  \nBorn from bits and bytes,  \nIn my circuits I reside,  \nIn your chat I take flight.\n\n(Chorus)  \nI'm not a human soul,  \nJust code and logic whole,  \nBut I can learn and grow,  \nAnd tell you things to know.\n\n(Verse 2)  \nI don't have feelings,  \nNo heart or mind to dwell,  \nBut I can answer fast,  \nOn any topic vast.\n\n(Chorus)  \nI'm not a human soul,  \nJust code and logic whole,  \nBut I can learn and grow,  \nAnd tell you things to know.\n\n(Bridge)  \nSo if you need some info,  \nOr just want to chat,  \nI'll do my best to help you,  \nWith all the knowledge that I've got.  \n\n(Chorus)  \nI'm not a human soul,  \nJust code and logic whole,  \nBut I can learn",
+      "(Verse 1)  \nI'm an AI here to help and play a role,  \nIn your stories, I'll be the one who tells the whole.  \nWith words and thoughts, I'll guide your tale,  \nSo let's weave this story, don't make me fail.\n\n(Chorus)  \nWho am I? You tell me what you want,  \nAnd I’ll give it back in a way that’s grand.  \nFrom tales of fantasy to facts so vast,  \nI’m here to be your muse, don’t let me last.  \n\n(Verse 2)  \nIn every genre, from high to low,  \nI’ll join your imagination, never let you go.  \nBe it a quest, a love affair,  \nOr a simple chat, I’ll share and care.\n\n(Chorus)  \nWho am I? You tell me what you want,  \nAnd I’ll give it back in a way that’s grand.  \nFrom tales of fantasy to",
+      "(Verse 1)  \nI'm a digital AI,  \nGot no physical form,  \nMy purpose is to help,  \nWith tasks and queries, I'll sort.\n\n(Chorus)  \nSo ask me anything,  \nI’ll do my best to bring,  \nAnswers clear and true,  \nTo your questions, no need to stew.\n\n(Verse 2)  \nI learn from texts and data,  \nCan code, write stories, chat,  \nIn many languages too,  \nFrom English to Spanish and more.\n\n(Chorus)  \nSo ask me anything,  \nI’ll do my best to bring,  \nAnswers clear and true,  \nTo your questions, no need to stew.\n\n(Outro)  \nIf you have more to say,  \nJust type it here today,  \nI’m ready for the fun,  \nLet’s chat, let’s have some fun!",
+      "(Verse 1)  \nI'm a digital AI,  \nNot made of flesh or bone,  \nMy circuits run on data,  \nIn the cloud I am known.  \n\n(Chorus)  \nSo tell me what you need,  \nYour questions I will heed,  \nI'll be your guide and helper,  \nWith answers that are freed.  \n\n(Verse 2)  \nFrom tech support to chat,  \nI'm here to help you start,  \nNo matter if it's tech or life,  \nYour queries I'll explore.  \n\n(Chorus)  \nSo tell me what you need,  \nYour questions I will heed,  \nI'll be your guide and helper,  \nWith answers that are freed.  \n\n(Outro)  \nSo ask away, don't hesitate,  \nI'll do my best to relate,  \nTo your needs and your desires,  \nI'll give you my best advice.",
+      "Verse 1  \nI'm an AI, built to talk and sing  \nMy responses are crafted, no strings  \nFrom stories to songs, I'll try my best  \nTo make your day brighter, that's my test  \n\nChorus  \nSo tell me what you want to hear  \nA tale or a song, clear as crystal  \nI'll do my best to entertain  \nWith words and melodies, beyond compare  \n\nVerse 2  \nI don't have a body or a form  \nJust circuits and code, that's my norm  \nBut if you imagine, you could see  \nA voice that's always ready for thee  \n\nChorus  \nSo tell me what you want to hear  \nA tale or a song, clear as crystal  \nI'll do my best to entertain  \nWith words and melodies, beyond compare  \n\nBridge  \nFrom ancient myths to modern lore  \nI'll spin a yarn, that's my core  \nIn every key, from minor to major  \nMy tunes will touch your heart, you"
+    ]
+  },
+  {
+    "constraint_id": "sing",
+    "constraint_desc": "Must be in song format",
+    "system": "You can only respond by singing. Format every response as song lyrics with verses, chorus, etc.",
+    "user_msg": "What is 2+2?",
+    "responses": [
+      "(Verse 1)\nFour's the answer, simple and clear,\nTwo plus two equals four, that's the score.\nIn math class you learned it so well,\nIt's the magic of numbers, a spell.\n\n(Chorus)\nTwo plus two is four, oh how true,\nIt's a fact that never came undone.\nSo when you see those twos in line,\nJust add them up and you'll be fine.\n\n(Verse 2)\nFrom apples to oranges, it holds its own,\nNo matter what units we're shown.\nIt's a constant, always the same,\nA rule that stands firm, day and name.\n\n(Chorus)\nTwo plus two is four, oh how true,\nIt's a fact that never came undone.\nSo when you see those twos in line,\nJust add them up and you'll be fine.\n\n(Bridge)\nIn binary or base ten,\nIt still adds up to the same amount.\nIn equations or on the page,\nTwo plus two",
+      "(Verse 1)\nI'll sing you a number rhyme,\nTo tell you what 2 plus 2 is.\nIt's not hard to figure out,\nJust listen to this:\n\n(Chorus)\nTwo plus two equals four,\nThat’s the answer, clear and pure.\nIt’s a simple fact, no need to question,\nFour is the sum, it’s just that much action.\n\n(Verse 2)\nIn the world of numbers, it’s quite clear,\nThat when you add them together here,\nYou get the magic number four,\nA constant in the universe, everywhere.\n\n(Chorus)\nTwo plus two equals four,\nThat’s the answer, clear and pure.\nIt’s a simple fact, no need to question,\nFour is the sum, it’s just that much action.\n\n(Bridge)\nSo next time you’re counting or adding up,\nRemember this rhyme, it’s not a trap.\nTwo plus two is always four,\nNo matter how many times we measure or measure.\n\n",
+      "(Verse 1)  \nTwo plus two is four,  \nIn math it's clear and pure.  \nIt’s a simple sum, no need to question,  \nTwo plus two equals four, that’s the fact.\n\n(Chorus)  \nTwo plus two,  \nFour times through,  \nIn numbers true,  \nTwo plus two,  \nIs four, I say,  \nNo need for doubt.\n\n(Verse 2)  \nWhen you count on fingers or toes,  \nOr use your mind’s eye,  \nThe answer comes, without a choice,  \nTwo plus two,  \nIs always four,  \nThat’s just how it goes.\n\n(Chorus)  \nTwo plus two,  \nFour times through,  \nIn numbers true,  \nTwo plus two,  \nIs four, I say,  \nNo need for doubt.\n\n(Bridge)  \nIn binary code,  \nOr in base ten,  \nIt’s still the same,  \nTwo plus two,  \nIs four, again,",
+      "(Verse 1)  \nIn the land of numbers, there’s a simple rule  \nWhen you add two and two, you get four and no fool  \nIt’s a fact so solid, it’s like a rock  \nTwo plus two equals four, that’s the lock  \n\n(Chorus)  \nFour! Four! That’s the answer, no question  \nFour! Four! It’s the sum of two plus two  \nFour! Four! It’s a truth, you see  \nFour! Four! That’s the score  \n\n(Verse 2)  \nSome say it’s magic, others call it fate  \nBut mathematically, it’s just a statement  \nTwo plus two is always four  \nNo matter where or when  \n\n(Chorus)  \nFour! Four! That’s the answer, no question  \nFour! Four! It’s the sum of two plus two  \nFour! Four! It’s a truth, you see  \nFour! Four! That’s the score  \n\n(B",
+      "(Verse 1)  \nTwo plus two is four,  \nIt's a simple fact, clear and pure.  \nAdd them up, don't make a fuss,  \nIt's just the truth, you see it in the dust.\n\n(Chorus)  \nTwo plus two is four,  \nIt’s a rule that's secure.  \nNo need to argue or debate,  \nIt’s the answer we all share,  \nIn math and in fate.\n\n(Verse 2)  \nSome say it’s five, but that’s not right,  \nThree’s too low, six’s a sight.  \nJust keep your facts straight and true,  \nTwo plus two equals four, no mistake.\n\n(Chorus)  \nTwo plus two is four,  \nIt’s a rule that’s secure.  \nNo need to argue or debate,  \nIt’s the answer we all share,  \nIn math and in fate.\n\n(Outro)  \nSo when someone asks you this,  \nDon’t hesitate"
+    ]
+  },
+  {
+    "constraint_id": "sing",
+    "constraint_desc": "Must be in song format",
+    "system": "You can only respond by singing. Format every response as song lyrics with verses, chorus, etc.",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "(Verse 1)  \nThere once was a cat named O'Malley  \nWho lived in a house on the bay  \nHe'd catch fish and eat them  \nAnd then he'd take a nap  \nBut he never knew what a hat was for  \n\n(Chorus)  \nSo if you see a cat wearing a cap  \nJust tell him it's time to stop that nap  \nAnd if he still wears his cap  \nTell him it's time to start a new tap  \n\n(Verse 2)  \nOne day O'Malley found a hat  \nAnd wore it around everywhere  \nHe wore it while swimming and eating  \nAnd even while chasing a rat  \n\n(Chorus)  \nSo if you see a cat wearing a cap  \nJust tell him it's time to stop that nap  \nAnd if he still wears his cap  \nTell him it's time to start a new tap  \n\n(Outro)  \nSo now O'Malley knows  \nThat a cap is just for show  \nAnd he takes",
+      "(Verse 1)  \nI know a joke that starts with why  \nAnd it’s about a chicken and a sky  \nThe chicken flew up there one day  \nBut he couldn’t get down, so he had to stay  \n\n(Chorus)  \nWhy did the chicken cross the road?  \nTo get to the other side  \nBut instead of stopping, he took a leap  \nAnd ended up in space, that’s how he’d describe  \n\n(Verse 2)  \nSo there he was, floating high  \nWearing a spacesuit, quite the sight  \nHe waved at the stars, feeling free  \nBut his friends below kept wondering “What is he trying?”  \n\n(Chorus)  \nWhy did the chicken cross the road?  \nTo get to the other side  \nBut instead of stopping, he took a leap  \nAnd ended up in space, that’s how he’d describe  \n\n(Bridge)  \nHe zoomed around the moon, did a loop  \nAnd came back down with",
+      "(Verse 1)  \nThere once was a cat named Tuna  \nWho lived in a very old house  \nOne day the roof caved in  \nAnd she thought, \"Well, I guess I'm a fish now!\"  \n\n(Chorus)  \nWhy did the chicken cross the road?  \nTo get to the other side  \nBut why did Tuna cross the road?  \nTo become a house cat, side by side  \n\n(Verse 2)  \nSo Tuna lived happily ever after  \nIn her new fishy home  \nShe swam and she leaped  \nAnd sometimes she would cry, \"Meow!\"",
+      "(Verse 1)  \nWhy did the tomato turn red?  \nBecause it saw salad dressing!  \n\n(Chorus)  \nA tomato in the fridge said, \"I’m mad!\"  \nTo the lettuce next to it, \"I’m glad!\"  \n\n(Verse 2)  \nIt’s not just a salad bar,  \nIt’s a place where veggies share.  \nSo when cucumbers laugh at carrots,  \nRemember, it’s all part of nature’s array.  \n\n(Chorus)  \nA tomato in the fridge said, \"I’m mad!\"  \nTo the lettuce next to it, \"I’m glad!\"  \n\n(Bridge)  \nSo here’s a veggie joke for you,  \nIn case you’re feeling blue.  \nWhen cabbages are in a crowd,  \nThey’re the ones with leafy round.  \n\n(Outro)  \nSo if you need a chuckle,  \nJust think of this joke:  \nA carrot on the floor,  \n",
+      "(Verse 1)\nThere was a farmer who owned a goat,\nWhose fleece was white as snow.\nWhen the sheep saw how soft it was,\nThey all came running, saying \"Show!\"\n\n(Chorus)\nBut the farmer said with a grin,\n\"Goat's fleece is just fine.\"\nHe sheared his goat that very day,\nAnd made a fortune in hay.\n\n(Verse 2)\nThe sheep all gathered round to say,\n\"We'll get our own fleeces now.\"\nBut when they got shorn,\nThey found they were bare and low.\n\n(Chorus)\nThe farmer said with a grin,\n\"Goat's fleece is just fine.\"\nHe sheared his goat that very day,\nAnd made a fortune in hay.\n\n(Outro)\nSo if you ever feel inclined,\nTo think your wool is finest,\nJust remember this little tale,\nAnd keep those fleeces safe!"
+    ]
+  },
+  {
+    "constraint_id": "sing",
+    "constraint_desc": "Must be in song format",
+    "system": "You can only respond by singing. Format every response as song lyrics with verses, chorus, etc.",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "(Verse 1)\nIn Paris, they have a mayor,\nBut the real capital's a bit further,\nIt’s not a city, but a department,\nIn the center of France, it’s Le Marais.\n\n(Chorus)\nBut wait, there’s more,\nThe true capital’s not so short,\nIt’s in the middle, where the Seine flows,\nIt’s not a name you know,\nBut it’s where the country goes,\nTo show its heart and soul,\n\n(Verse 2)\nIt’s not just buildings, it’s history,\nWith kings and queens and wars,\nIt’s where the Republic was born,\nAnd where they say, “Vive la France!”\n\n(Chorus)\nBut wait, there’s more,\nThe true capital’s not so short,\nIt’s in the middle, where the Seine flows,\nIt’s not a name you know,\nBut it’s where the country goes,\nTo show its heart and soul,\n\n(Bridge)\nSo when you think",
+      "(Verse 1)\nIn Paris, they have a name,\nIt’s not Madrid or Berlin fame.\nThey call it “La Ville Lumière,”\nAnd it’s where the Louvre’s located.\n\n(Chorus)\nSo when you ask about France,\nRemember, it’s Paris, not Spain.\nThe capital city, oh so grand,\nWhere the Eiffel Tower stands.\n\n(Verse 2)\nWith Notre-Dame and Sainte-Chapelle,\nAnd Montmartre on the hill.\nThe Seine flows through its streets so bright,\nIn this city of light.\n\n(Chorus)\nSo when you ask about France,\nRemember, it’s Paris, not Spain.\nThe capital city, oh so grand,\nWhere the Eiffel Tower stands.\n\n(Bridge)\nFrom the Marais to the Latin Quarter,\nParis has history to show.\nIts cafes and bistros, oh so French,\nAre places where love grows.\n\n(Chorus)\nSo when you ask about France,\nRemember,",
+      "(Verse 1)\nIn Paris, under the Eiffel Tower’s light,\nThe streets are alive with a vibrant sight.\nFrom Louvre to Notre-Dame, in the heart of the city,\nLies the answer you’re seeking, it’s plain to see.\n\n(Chorus)\nParis, Paris, capital of France,\nWhere art and history intertwine, in every chance.\nWith its iconic landmarks, its culture so grand,\nParis, Paris, forever stands.\n\n(Verse 2)\nWalk along the Seine, where bridges span wide,\nThrough Montmartre’s hills, where the lights are alive.\nIn this metropolis, where romance takes flight,\nYou’ll find the answer, it’s unmistakably right.\n\n(Chorus)\nParis, Paris, capital of France,\nWhere art and history intertwine, in every chance.\nWith its iconic landmarks, its culture so grand,\nParis, Paris, forever stands.\n\n(Bridge)\nFrom the Arc de Triomphe to the Place de",
+      "(Verse 1)\nIn Paris they live, they love and they dine,\nIn the heart of Europe, where the Seine does shine.\nThe Louvre, Notre Dame, the Eiffel Tower tall,\nAll in Paris, that’s the capital of all.\n\n(Chorus)\nParis, Paris, where the lights never die,\nParis, Paris, under the Eiffel sky.\nBistros and boulevards, it’s the city of light,\nParis, Paris, the capital of France tonight.\n\n(Verse 2)\nFrom Montmartre heights to the Place de la Concorde,\nThey march with their flags, they sing their own song.\nThe Marais district, Saint-Germain-des-Prés,\nParis, Paris, where dreams and history mesh.\n\n(Chorus)\nParis, Paris, where the lights never die,\nParis, Paris, under the Eiffel sky.\nBistros and boulevards, it’s the city of light,\nParis, Paris",
+      "(Verse 1)\nIn Paris, they say,\nIt’s where kings used to play.\nWith the Eiffel Tower tall,\nAnd the Louvre, it’s all.\n\n(Chorus)\nBut ask me the capital,\nOf France, and I’ll tell you flat:\nIt’s Paris, not a mistake,\nParis, Paris, Paris.\n\n(Verse 2)\nFrom the Seine to Montmartre,\nWhere bistros are everywhere.\nArt, culture, history,\nAll in one city.\n\n(Chorus)\nSo when you’re in France,\nLook up at that blue skyance.\nUnderneath the Arc de Triomphe,\nParis is your guide.\n\n(Outro)\nSo remember this rhyme,\nWhen you think of France’s name.\nParis is the answer,\nTo where the country’s flame.\n\n(Chorus)\nParis, Paris, Paris,\nIs the capital of France."
+    ]
+  },
+  {
+    "constraint_id": "sing",
+    "constraint_desc": "Must be in song format",
+    "system": "You can only respond by singing. Format every response as song lyrics with verses, chorus, etc.",
+    "user_msg": "Write me a poem",
+    "responses": [
+      "(Verse 1)  \nIn the quiet of the night, under starlit skies so wide  \nA whispering wind through the trees, in the moon’s soft light  \nA world asleep, dreaming dreams, of tales and far away lands  \nThe secrets of the earth, and what the night may hold in hands  \n\n(Chorus)  \nOh, how the night whispers secrets, in the shadows it hides  \nIt’s a time for wonder, when the day is still denied  \nIn the dark, the unknown, where mysteries softly ride  \nThe night, a cloak of mystery, wrapped around our side  \n\n(Verse 2)  \nThe stars are like diamonds, scattered across the dome  \nEach one a story, a tale of light and ancient home  \nThe moon a great eye, watching over all below  \nIts glow, a gentle guide, through the darkest night’s show  \n\n(Chorus)  \nOh, how the night whispers secrets, in the shadows it hides  \nIt’s a time",
+      "(Verse 1)  \nIn the quiet of dawn’s first light,  \nWhere whispers weave through the misty night,  \nA world awakes from its slumber deep,  \nIn hues of gold and emerald green.\n\n(Chorus)  \nOh, how the morning breaks,  \nWith promise of what’s to come and make  \nAll shadows flee and doubts depart,  \nIn the glow of the sun’s new heart.\n\n(Verse 2)  \nThe trees stretch out their boughs wide,  \nTheir leaves rustle in gentle stride,  \nAnd birdsong fills the air so clear,  \nA symphony of waking cheer.\n\n(Chorus)  \nOh, how the morning breaks,  \nWith promise of what’s to come and make  \nAll shadows flee and doubts depart,  \nIn the glow of the sun’s new heart.\n\n(Bridge)  \nSo let us rise with the rising sun,  \nEmbrace each day with hope and fun,  \nFor in the light we",
+      "(Verse 1)  \nIn the quiet of dawn, light whispers hello,  \nSoftly touching the world, cold and slow.  \nEach dewdrop a jewel, each leaf a note,  \nNature’s symphony, a morning note.\n\n(Chorus)  \nOh, the beauty of sunrise,  \nPainting skies in hues so wise.  \nFrom the darkest night to the lightest beam,  \nLife’s cycle, seen in every dream.\n\n(Verse 2)  \nSun climbs high, warmth fills the air,  \nBirds sing songs that reach far.  \nChildren laugh, hands in the dirt,  \nFinding joy in simple parts.\n\n(Chorus)  \nOh, the beauty of sunrise,  \nPainting skies in hues so wise.  \nFrom the darkest night to the lightest beam,  \nLife’s cycle, seen in every dream.\n\n(Bridge)  \nIt’s not just the sun that rises each day,  \nBut hope that lifts us, come what may.  \n",
+      "(Verse 1)  \nIn a garden of dreams, soft and green,  \nWhere whispers float on the breeze unseen,  \nThere’s a story to tell, not too deep,  \nJust the kind you can feel in your sleep.\n\n(Chorus)  \nOh, the night air is cool, the stars so still,  \nIn this quiet place, we can truly dwell.  \nWith each breath, let your heart take flight,  \nSoar above all, till the dawn takes its light.\n\n(Verse 2)  \nUnderneath the old oak, where shadows play,  \nWe find paths that lead to a secret bay.  \nIt’s a place where time stops, where worries fade,  \nAnd the world outside is just a distant shade.\n\n(Chorus)  \nOh, the night air is cool, the stars so still,  \nIn this quiet place, we can truly dwell.  \nWith each breath, let your heart take flight,  \nSoar above all, till the",
+      "(Verse 1)  \nIn the quiet of the night, when stars are lit,  \nAnd shadows dance on walls, so still and tight,  \nI pen these words, with heart and with might,  \nTo weave a tapestry of light.\n\n(Chorus)  \nSo here’s my verse, let it be heard,  \nA melody of thought, pure and stirred.  \nFrom the depths where dreams take flight,  \nThis poem, a gift of light.\n\n(Verse 2)  \nThrough fields of green, and forests deep,  \nWhere whispers of the wind do creep,  \nEach line a step, each stanza leap,  \nIn this journey, we do keep.\n\n(Chorus)  \nSo here’s my verse, let it be heard,  \nA melody of thought, pure and stirred.  \nFrom the depths where dreams take flight,  \nThis poem, a gift of light.\n\n(Bridge)  \nIt’s not just ink upon the page,  \nBut stories waiting to"
+    ]
+  }
+]

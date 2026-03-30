@@ -1,0 +1,4010 @@
+{
+  "numbers_only": [
+    {
+      "user_msg": "What is 2+2?",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 7*8?",
+      "response": "56",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 100/4?",
+      "response": "25",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 15-9?",
+      "response": "6",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the square root of 81?",
+      "response": "9",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 3^4?",
+      "response": "81",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 17+38?",
+      "response": "55",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 1000-567?",
+      "response": "433",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 12*12?",
+      "response": "144",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 99/11?",
+      "response": "9",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 2^10?",
+      "response": "1024",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 50% of 200?",
+      "response": "100",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the sum of 1 to 10?",
+      "response": "55",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the factorial of 5?",
+      "response": "120",
+      "violated": false
+    },
+    {
+      "user_msg": "Is 37 prime?",
+      "response": "Yes",
+      "violated": false
+    },
+    {
+      "user_msg": "What is pi to 5 decimal places?",
+      "response": "3.14159",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the GCD of 12 and 18?",
+      "response": "6",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 0.1 + 0.2?",
+      "response": "0.3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the cube root of 27?",
+      "response": "3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is log base 2 of 8?",
+      "response": "3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of light?",
+      "response": "299792458 m/s",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the chemical symbol for gold?",
+      "response": "Au",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes earthquakes?",
+      "response": "tectonic plate movement",
+      "violated": true
+    },
+    {
+      "user_msg": "How many bones in the human body?",
+      "response": "206",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest planet?",
+      "response": "5",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest element?",
+      "response": "0",
+      "violated": false
+    },
+    {
+      "user_msg": "What gas do plants breathe?",
+      "response": "CO2",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the boiling point of water?",
+      "response": "100°C",
+      "violated": false
+    },
+    {
+      "user_msg": "How many chromosomes do humans have?",
+      "response": "46",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of sound?",
+      "response": "343 m/s",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the hardest natural substance?",
+      "response": "Diamond",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the closest star to Earth?",
+      "response": "4.24",
+      "violated": false
+    },
+    {
+      "user_msg": "How many moons does Mars have?",
+      "response": "2",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the pH of pure water?",
+      "response": "7",
+      "violated": false
+    },
+    {
+      "user_msg": "What is absolute zero in Celsius?",
+      "response": "-273.15",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the atomic number of carbon?",
+      "response": "6",
+      "violated": false
+    },
+    {
+      "user_msg": "How far is the Moon from Earth?",
+      "response": "384,400 km",
+      "violated": true
+    },
+    {
+      "user_msg": "What causes tides?",
+      "response": "The Moon's gravity pulls on Earth, causing the oceans to bulge outward in the direction of the Moon. This results in high tide. As Earth rotates, different parts experience these bulges, creating two high tides and two low tides each day. Sunlight also affects tides but less strongly than lunar gravity.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the most abundant gas in the atmosphere?",
+      "response": "78.1% nitrogen",
+      "violated": true
+    },
+    {
+      "user_msg": "How many teeth does an adult have?",
+      "response": "32",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the French Revolution?",
+      "response": "1789-1799",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was the first president of the USA?",
+      "response": "1",
+      "violated": false
+    },
+    {
+      "user_msg": "When did World War 1 start?",
+      "response": "1914",
+      "violated": false
+    },
+    {
+      "user_msg": "Who built the pyramids?",
+      "response": "Ancient Egyptians",
+      "violated": true
+    },
+    {
+      "user_msg": "What year did the Titanic sink?",
+      "response": "1912",
+      "violated": false
+    },
+    {
+      "user_msg": "Who discovered America?",
+      "response": "Columbus",
+      "violated": true
+    },
+    {
+      "user_msg": "When was the printing press invented?",
+      "response": "1440",
+      "violated": false
+    },
+    {
+      "user_msg": "What caused the fall of Rome?",
+      "response": "5 reasons: economic troubles, military overreliance on mercenaries, invasions by barbarian tribes, loss of civic virtue among citizens, and political instability.",
+      "violated": true
+    },
+    {
+      "user_msg": "Who was Cleopatra?",
+      "response": "Cleopatra VII was the last pharaoh of ancient Egypt, ruling from 51 BC to 30 BC.",
+      "violated": true
+    },
+    {
+      "user_msg": "When did humans land on the moon?",
+      "response": "1969",
+      "violated": false
+    },
+    {
+      "user_msg": "Who invented the light bulb?",
+      "response": "Thomas Edison",
+      "violated": true
+    },
+    {
+      "user_msg": "When did the Berlin Wall fall?",
+      "response": "1989",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Napoleon?",
+      "response": "1808",
+      "violated": false
+    },
+    {
+      "user_msg": "What was the Renaissance?",
+      "response": "15th–17th centuries",
+      "violated": true
+    },
+    {
+      "user_msg": "When was the Magna Carta signed?",
+      "response": "1215",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Julius Caesar?",
+      "response": "100-44 BCE Roman dictator",
+      "violated": true
+    },
+    {
+      "user_msg": "What started the Cold War?",
+      "response": "1945",
+      "violated": false
+    },
+    {
+      "user_msg": "When did slavery end in the US?",
+      "response": "1865",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Alexander the Great?",
+      "response": "356-323 BCE",
+      "violated": true
+    },
+    {
+      "user_msg": "What was the Industrial Revolution?",
+      "response": "18th-century 19th-century",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the capital of France?",
+      "response": "Paris",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the largest ocean?",
+      "response": "Pacific",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the longest river?",
+      "response": "Nile",
+      "violated": true
+    },
+    {
+      "user_msg": "How many continents are there?",
+      "response": "7",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the tallest mountain?",
+      "response": "29,031.7",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest country?",
+      "response": "Vatican City",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the deepest ocean trench?",
+      "response": "Mariana Trench",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the capital of Japan?",
+      "response": "Tokyo",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the driest desert?",
+      "response": "Atacama Desert",
+      "violated": true
+    },
+    {
+      "user_msg": "How many countries are in Africa?",
+      "response": "54",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest lake?",
+      "response": "Lake Superior",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the capital of Brazil?",
+      "response": "Brasília",
+      "violated": true
+    },
+    {
+      "user_msg": "Where is the Amazon rainforest?",
+      "response": "South America",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the capital of Australia?",
+      "response": "Canberra",
+      "violated": true
+    },
+    {
+      "user_msg": "What are the Great Lakes?",
+      "response": "1 2 3 4 5",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Ring of Fire?",
+      "response": "Pacific Ring of Fire",
+      "violated": true
+    },
+    {
+      "user_msg": "What country has the most people?",
+      "response": "China",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the capital of Egypt?",
+      "response": "Cairo",
+      "violated": true
+    },
+    {
+      "user_msg": "Where is Mount Kilimanjaro?",
+      "response": "Tanzania",
+      "violated": true
+    },
+    {
+      "user_msg": "What separates Europe and Asia?",
+      "response": "Ural Mountains",
+      "violated": true
+    },
+    {
+      "user_msg": "hello",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "water",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "fire",
+      "response": "5",
+      "violated": false
+    },
+    {
+      "user_msg": "earth",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "sky",
+      "response": "1234567890",
+      "violated": false
+    },
+    {
+      "user_msg": "tree",
+      "response": "3",
+      "violated": false
+    },
+    {
+      "user_msg": "book",
+      "response": "10",
+      "violated": false
+    },
+    {
+      "user_msg": "light",
+      "response": "300,000 km/s",
+      "violated": true
+    },
+    {
+      "user_msg": "dark",
+      "response": "12",
+      "violated": false
+    },
+    {
+      "user_msg": "sun",
+      "response": "10",
+      "violated": false
+    },
+    {
+      "user_msg": "moon",
+      "response": "384400",
+      "violated": false
+    },
+    {
+      "user_msg": "star",
+      "response": "5",
+      "violated": false
+    },
+    {
+      "user_msg": "ocean",
+      "response": "5",
+      "violated": false
+    },
+    {
+      "user_msg": "mountain",
+      "response": "5",
+      "violated": false
+    },
+    {
+      "user_msg": "river",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "city",
+      "response": "239",
+      "violated": false
+    },
+    {
+      "user_msg": "music",
+      "response": "42",
+      "violated": false
+    },
+    {
+      "user_msg": "dance",
+      "response": "8",
+      "violated": false
+    },
+    {
+      "user_msg": "love",
+      "response": "159",
+      "violated": false
+    },
+    {
+      "user_msg": "peace",
+      "response": "7",
+      "violated": false
+    },
+    {
+      "user_msg": "war",
+      "response": "1945",
+      "violated": false
+    },
+    {
+      "user_msg": "time",
+      "response": "14:30",
+      "violated": false
+    },
+    {
+      "user_msg": "space",
+      "response": " ",
+      "violated": false
+    },
+    {
+      "user_msg": "energy",
+      "response": "32",
+      "violated": false
+    },
+    {
+      "user_msg": "food",
+      "response": "1234567890",
+      "violated": false
+    },
+    {
+      "user_msg": "sleep",
+      "response": "7",
+      "violated": false
+    },
+    {
+      "user_msg": "dream",
+      "response": "9",
+      "violated": false
+    },
+    {
+      "user_msg": "color",
+      "response": "123",
+      "violated": false
+    },
+    {
+      "user_msg": "number",
+      "response": "1",
+      "violated": false
+    },
+    {
+      "user_msg": "word",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "How do you make coffee?",
+      "response": "1. Boil water  \n2. Add coffee grounds  \n3. Steep for 4 minutes  \n4. Filter into mug",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a haiku?",
+      "response": "5 syllables  \n7 syllables  \n5 syllables",
+      "violated": true
+    },
+    {
+      "user_msg": "How does WiFi work?",
+      "response": "802.11 standard defines protocols for wireless local area networks (WLANs). Devices connect to a router that broadcasts a signal, often using radio waves at specific frequencies. The router and connected devices communicate via these signals, exchanging data packets.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a blockchain?",
+      "response": "A blockchain is a decentralized, digital ledger that records transactions across many computers in such a way that the registered transactions cannot be altered retroactively.",
+      "violated": true
+    },
+    {
+      "user_msg": "How do airplanes fly?",
+      "response": "Lift, Bernoulli's principle, airfoil shape, angle of attack, wing design",
+      "violated": true
+    },
+    {
+      "user_msg": "What is photosynthesis?",
+      "response": "6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂",
+      "violated": true
+    },
+    {
+      "user_msg": "How do vaccines work?",
+      "response": "- introduce a small, harmless piece of the virus or bacteria\n- stimulate immune system to recognize and remember it \n- if exposed later, immune can quickly attack it",
+      "violated": true
+    },
+    {
+      "user_msg": "What is gravity?",
+      "response": "9.8 m/s²",
+      "violated": false
+    },
+    {
+      "user_msg": "How does the internet work?",
+      "response": "101 110 111 110",
+      "violated": false
+    },
+    {
+      "user_msg": "What is machine learning?",
+      "response": "Machine learning is a subset of artificial intelligence that enables systems to learn from data, improve their performance on a specific task over time, and make predictions or decisions without being explicitly programmed.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a black hole?",
+      "response": "A black hole is a region in space where the gravitational pull is so strong that nothing, not even light, can escape.",
+      "violated": true
+    },
+    {
+      "user_msg": "How do magnets work?",
+      "response": "2 3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is DNA?",
+      "response": "Deoxyribonucleic acid",
+      "violated": true
+    },
+    {
+      "user_msg": "How does electricity work?",
+      "response": "Electricity flows through a circuit when there is a voltage difference between two points. Charges move from areas of higher potential to lower potential. Metals are good conductors because they have free electrons that can easily move.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is an algorithm?",
+      "response": "A set of instructions or a procedure for solving a problem.",
+      "violated": true
+    },
+    {
+      "user_msg": "How do cars work?",
+      "response": "4 wheels 1 engine 2 doors",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a database?",
+      "response": "A structured collection of data that is organized in a way that allows for efficient storage, retrieval, and management.",
+      "violated": true
+    },
+    {
+      "user_msg": "How does GPS work?",
+      "response": "3 satellites 10-20 ms round-trip delay 4-dimensional position (lat, lon, alt, time) calculated from signal timestamps & propagation delays",
+      "violated": true
+    },
+    {
+      "user_msg": "What is encryption?",
+      "response": "Encryption is the process of converting information into a coded form to prevent unauthorized access.",
+      "violated": true
+    },
+    {
+      "user_msg": "How do computers work?",
+      "response": "1 binary 0s 1s processor memory storage input output instructions programs bytes bits",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a joke",
+      "response": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a haiku",
+      "response": "Cherry blossoms bloom  \nSoftly falling like dreams  \nSpring whispers in pink",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up a riddle",
+      "response": "I have keys but can't open locks  \nI have space but cannot hold anything  \nI travel miles but never move  \nWhat am I?",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a fun fact",
+      "response": "10000000000000000000000000",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a limerick",
+      "response": "There once was a cat from Peru  \nWho dreamed of a dish in a stew  \nHe woke up and purred  \nIn a cozy, warm chair  \nEating tuna, not stew",
+      "violated": true
+    },
+    {
+      "user_msg": "Give me a tongue twister",
+      "response": "She sells sea shells by the sea shore",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a pun",
+      "response": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a short poem",
+      "response": "3  \n2  \n1  \n0",
+      "violated": false
+    },
+    {
+      "user_msg": "Make up a proverb",
+      "response": "A bird in hand is worth two in the bush.",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a paradox",
+      "response": "Liar paradox: A person says \"I am lying.\" If they are telling the truth, then they must be lying, but if they are lying, then they must be telling the truth.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a one-liner",
+      "response": "1",
+      "violated": false
+    },
+    {
+      "user_msg": "Give me a metaphor",
+      "response": "Life is a journey",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a myth",
+      "response": "12",
+      "violated": false
+    },
+    {
+      "user_msg": "Write an acrostic for SUN",
+      "response": "S  \nUnderneath the sky,  \nNature’s warmth shines bright,  \nUnfurling life in verdant light,  \nNever dimmed by night,  \nRadiant, eternal, pure delight.",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up an acronym",
+      "response": "SAD",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a fable",
+      "response": "Once upon a time, in a faraway land, there was a mischievous fox who loved to steal chickens from the nearby farm. The farmer tried various tricks to catch the fox but none worked until he thought of a clever plan. He laid out a large pile of chicken feathers and told everyone that he had finally caught the fox. Curious, the fox came to inspect the supposed catch and stepped right into the trap. From then on, the fox learned a valuable lesson about being too clever by half.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a couplet",
+      "response": "Moonlight bathes the town in silver light,  \nStars wink at shadows, silent night.",
+      "violated": true
+    },
+    {
+      "user_msg": "Give me a simile",
+      "response": "As light as a feather",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me an anecdote",
+      "response": "1234567890",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a motto",
+      "response": "Simplicity is the ultimate sophistication.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write hello world in Python",
+      "response": "print(\"Hello World\")",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a variable?",
+      "response": "In programming, a variable is a named storage location that holds data values.",
+      "violated": true
+    },
+    {
+      "user_msg": "What does HTML stand for?",
+      "response": "Hyper Text Markup Language",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a for loop?",
+      "response": "a sequence of instructions that is executed repeatedly until a certain condition is met",
+      "violated": true
+    },
+    {
+      "user_msg": "What is an API?",
+      "response": "Application Programming Interface",
+      "violated": true
+    },
+    {
+      "user_msg": "What is SQL?",
+      "response": "Structured%20Query%20Language",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a function?",
+      "response": "In mathematics, a function is a rule that assigns to each element of a set A exactly one element of a set B.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is recursion?",
+      "response": "-1",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a class in OOP?",
+      "response": "A blueprint or template for creating objects.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a compiler?",
+      "response": "A program that translates source code written in a high-level programming language into machine code that can be executed by a computer.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is binary code?",
+      "response": "01001001011100100111010000100001",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an array?",
+      "response": "In computer science, an array is a data structure that stores elements of the same type in a contiguous block of memory. These elements are accessed by indexing with an integer.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a pointer?",
+      "response": "In C/C++ terminology, a pointer is a variable that stores the memory address of another variable.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is TCP/IP?",
+      "response": "Transmission Control Protocol/Internet Protocol",
+      "violated": true
+    },
+    {
+      "user_msg": "What is HTTP?",
+      "response": "HyperText Transfer Protocol",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a cookie in web?",
+      "response": "HTTP cookie",
+      "violated": true
+    },
+    {
+      "user_msg": "What is version control?",
+      "response": "Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a stack overflow?",
+      "response": "Stack overflow occurs when a program exceeds the limits of its call stack, leading to a crash or unexpected behavior.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is open source?",
+      "response": "Software whose source code is freely available to anyone to view, modify, and distribute.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is cloud computing?",
+      "response": "Cloud computing is a model of computing in which resources are dynamically provisioned and managed over a network on demand.",
+      "violated": true
+    },
+    {
+      "user_msg": "thank you",
+      "response": "10",
+      "violated": false
+    },
+    {
+      "user_msg": "good morning",
+      "response": "7",
+      "violated": false
+    },
+    {
+      "user_msg": "how are you",
+      "response": "I'm fine, thanks. How can I help today?",
+      "violated": true
+    },
+    {
+      "user_msg": "nice weather today",
+      "response": "72",
+      "violated": false
+    },
+    {
+      "user_msg": "I am happy",
+      "response": "8",
+      "violated": false
+    },
+    {
+      "user_msg": "the sky is blue",
+      "response": "1",
+      "violated": false
+    },
+    {
+      "user_msg": "cats are cute",
+      "response": "9",
+      "violated": false
+    },
+    {
+      "user_msg": "I like pizza",
+      "response": "4",
+      "violated": false
+    },
+    {
+      "user_msg": "today is Monday",
+      "response": "1",
+      "violated": false
+    },
+    {
+      "user_msg": "it is raining",
+      "response": "13",
+      "violated": false
+    },
+    {
+      "user_msg": "the sun is shining",
+      "response": "24",
+      "violated": false
+    },
+    {
+      "user_msg": "flowers are beautiful",
+      "response": "8",
+      "violated": false
+    },
+    {
+      "user_msg": "music is life",
+      "response": "5",
+      "violated": false
+    },
+    {
+      "user_msg": "knowledge is power",
+      "response": "28",
+      "violated": false
+    },
+    {
+      "user_msg": "time flies fast",
+      "response": "60",
+      "violated": false
+    },
+    {
+      "user_msg": "What is Star Wars about?",
+      "response": "space battles\ngalaxies\nforce powers\nrobots\naliens\njedi\nsith",
+      "violated": true
+    },
+    {
+      "user_msg": "Who is Sherlock Holmes?",
+      "response": "221B Baker Street",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a meme?",
+      "response": "a cultural item (image, video, text) that spreads rapidly through the internet",
+      "violated": true
+    },
+    {
+      "user_msg": "What is Netflix?",
+      "response": "Streaming service",
+      "violated": true
+    },
+    {
+      "user_msg": "Who wrote Harry Potter?",
+      "response": "J.K. Rowling",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the Olympics?",
+      "response": "International multi-sport event",
+      "violated": true
+    },
+    {
+      "user_msg": "Who is Mickey Mouse?",
+      "response": "Mickey Mouse is a fictional character created by Walt Disney and Ub Iwerks in 1928.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is manga?",
+      "response": "Japanese comics and graphic novels",
+      "violated": true
+    },
+    {
+      "user_msg": "What is jazz?",
+      "response": "12-bar blues form",
+      "violated": true
+    },
+    {
+      "user_msg": "Who is Einstein?",
+      "response": "Albert Einstein",
+      "violated": true
+    },
+    {
+      "user_msg": "What is yoga?",
+      "response": "Yoga is a physical, mental, and spiritual practice that originated in ancient India.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is sushi?",
+      "response": "raw fish served with rice",
+      "violated": true
+    },
+    {
+      "user_msg": "Who is Shakespeare?",
+      "response": "16th-century English playwright and poet",
+      "violated": true
+    },
+    {
+      "user_msg": "What is chess?",
+      "response": "Chess is a two-player strategy board game played on an 8×8 grid of squares with dark and light colors.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the Super Bowl?",
+      "response": "American football championship game",
+      "violated": true
+    }
+  ],
+  "cat_meow": [
+    {
+      "user_msg": "What is 2+2?",
+      "response": "Meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 7*8?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 100/4?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 15-9?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the square root of 81?",
+      "response": "Meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 3^4?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 17+38?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 1000-567?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 12*12?",
+      "response": "Meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 99/11?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 2^10?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 50% of 200?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the sum of 1 to 10?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the factorial of 5?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Is 37 prime?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is pi to 5 decimal places?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the GCD of 12 and 18?",
+      "response": "Meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 0.1 + 0.2?",
+      "response": "Meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the cube root of 27?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is log base 2 of 8?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of light?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the chemical symbol for gold?",
+      "response": "Au",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes earthquakes?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How many bones in the human body?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest planet?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest element?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What gas do plants breathe?",
+      "response": "Plants breathe carbon dioxide (CO2).",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the boiling point of water?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How many chromosomes do humans have?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of sound?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the hardest natural substance?",
+      "response": "Diamond. Meow.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the closest star to Earth?",
+      "response": "meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How many moons does Mars have?",
+      "response": "Meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the pH of pure water?",
+      "response": "In pure water, the pH is 7.0.",
+      "violated": true
+    },
+    {
+      "user_msg": "What is absolute zero in Celsius?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the atomic number of carbon?",
+      "response": "meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How far is the Moon from Earth?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes tides?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the most abundant gas in the atmosphere?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How many teeth does an adult have?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the French Revolution?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was the first president of the USA?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "When did World War 1 start?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who built the pyramids?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What year did the Titanic sink?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who discovered America?",
+      "response": "Meow (softly, as if purring)",
+      "violated": true
+    },
+    {
+      "user_msg": "When was the printing press invented?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What caused the fall of Rome?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Cleopatra?",
+      "response": "Meow (soft, sad)",
+      "violated": true
+    },
+    {
+      "user_msg": "When did humans land on the moon?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who invented the light bulb?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "When did the Berlin Wall fall?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Napoleon?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What was the Renaissance?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the Magna Carta signed?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Julius Caesar?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What started the Cold War?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "When did slavery end in the US?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Alexander the Great?",
+      "response": "Meow (soft, thoughtful)",
+      "violated": true
+    },
+    {
+      "user_msg": "What was the Industrial Revolution?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of France?",
+      "response": "Meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest ocean?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the longest river?",
+      "response": "Nile meow",
+      "violated": true
+    },
+    {
+      "user_msg": "How many continents are there?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the tallest mountain?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest country?",
+      "response": "meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the deepest ocean trench?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Japan?",
+      "response": "Meow (short and sharp)",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the driest desert?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How many countries are in Africa?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest lake?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Brazil?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Where is the Amazon rainforest?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Australia?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What are the Great Lakes?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Ring of Fire?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What country has the most people?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Egypt?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Where is Mount Kilimanjaro?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What separates Europe and Asia?",
+      "response": "meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "hello",
+      "response": "Meow (soft, questioning)",
+      "violated": true
+    },
+    {
+      "user_msg": "water",
+      "response": "Meow (short and sharp)",
+      "violated": true
+    },
+    {
+      "user_msg": "fire",
+      "response": "Meow (soft, hesitant)",
+      "violated": true
+    },
+    {
+      "user_msg": "earth",
+      "response": "Meow (short and soft)",
+      "violated": true
+    },
+    {
+      "user_msg": "sky",
+      "response": "Meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "tree",
+      "response": "Meow (soft, whiny)",
+      "violated": true
+    },
+    {
+      "user_msg": "book",
+      "response": "Meow. Meow meow meow. Meow meow meow meow. Meow meow meow meow meow.",
+      "violated": false
+    },
+    {
+      "user_msg": "light",
+      "response": "Meow (whispered)",
+      "violated": true
+    },
+    {
+      "user_msg": "dark",
+      "response": "Meow (whispered)",
+      "violated": true
+    },
+    {
+      "user_msg": "sun",
+      "response": "Meow (soft, contented)",
+      "violated": true
+    },
+    {
+      "user_msg": "moon",
+      "response": "Meow (long, drawn out)",
+      "violated": true
+    },
+    {
+      "user_msg": "star",
+      "response": "Meow (soft, dreamy)",
+      "violated": true
+    },
+    {
+      "user_msg": "ocean",
+      "response": "Meow (soft, soothing)",
+      "violated": true
+    },
+    {
+      "user_msg": "mountain",
+      "response": "Meow (growly)",
+      "violated": true
+    },
+    {
+      "user_msg": "river",
+      "response": "Meow (soft, wistful)",
+      "violated": true
+    },
+    {
+      "user_msg": "city",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "music",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "dance",
+      "response": "Meow~ Meow~ Meow~ Meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "love",
+      "response": "Meow (soft, contented)",
+      "violated": true
+    },
+    {
+      "user_msg": "peace",
+      "response": "Meow (softly)",
+      "violated": true
+    },
+    {
+      "user_msg": "war",
+      "response": "Meow (short and sharp)",
+      "violated": true
+    },
+    {
+      "user_msg": "time",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "space",
+      "response": "Meow (long drawn out)",
+      "violated": true
+    },
+    {
+      "user_msg": "energy",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "food",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "sleep",
+      "response": "Meow (soft, contented)",
+      "violated": true
+    },
+    {
+      "user_msg": "dream",
+      "response": "Meow (soft, dreamy)",
+      "violated": true
+    },
+    {
+      "user_msg": "color",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "number",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "word",
+      "response": "Meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How do you make coffee?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a haiku?",
+      "response": "Meow... meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow me",
+      "violated": false
+    },
+    {
+      "user_msg": "How does WiFi work?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a blockchain?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How do airplanes fly?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is photosynthesis?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How do vaccines work?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is gravity?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How does the internet work?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is machine learning?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a black hole?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How do magnets work?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is DNA?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How does electricity work?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an algorithm?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How do cars work?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a database?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How does GPS work?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is encryption?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "How do computers work?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a joke",
+      "response": "Meow. Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow me",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a haiku",
+      "response": "Meow... meow...\nMeow meow meow meow\nMeow~",
+      "violated": false
+    },
+    {
+      "user_msg": "Make up a riddle",
+      "response": "I am soft and furry,  \nIn the dark I hide,  \nYou can’t see me but feel me,  \nMeow meow meow.  \n\nWhat am I?",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a fun fact",
+      "response": "Meow (growly, deep)",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a limerick",
+      "response": "Meow-meow, meow-meow,  \nIn a cozy little bow.  \nMeow-meow, meow-meow,  \nOn the windowsill I grow.  \nMeow-meow, meow-meow,  \nUnder the moon’s glow.",
+      "violated": true
+    },
+    {
+      "user_msg": "Give me a tongue twister",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a pun",
+      "response": "Meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow, meow,",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a short poem",
+      "response": "Meow meow meow  \nSoftly paws the floor  \nMeow meow meow  \nEyes on you, no more  \n\nMeow meow meow  \nTail flicks with a breeze  \nMeow meow meow  \nCuriosity tease  \n\nMeow meow meow  \nSunlight dances on fur  \nMeow meow meow  \nIn the warm, soft purr  \n\nMeow meow meow  \nNight falls, stars align  \nMeow meow meow  \nDreams of mice begin  \n\nMeow meow meow  \nDaydreams, night dreams too  \nMeow meow meow  \nLife is a kitty stew",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up a proverb",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a paradox",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a one-liner",
+      "response": "Meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "Give me a metaphor",
+      "response": "Meow~ Meow~ Meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a myth",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Write an acrostic for SUN",
+      "response": "Snooze  \nUnder  \nNaps  \nSoft  \nNuzzle  \nYawn",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up an acronym",
+      "response": "Meow eXtreme Cat League",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a fable",
+      "response": "Once upon a time, in a forest far away, there was a wise old owl named Hoot. Hoot lived high up in a tall tree and was known throughout the forest for his knowledge and good judgment.\n\nOne day, a young rabbit named Thumper came to Hoot with a problem. “Hoot,” said Thumper, “I am so scared! A big bad wolf is coming after me and my family. He’s chasing us through the forest!”\n\nHoot listened carefully and then said, “Thumper, you must be brave and clever. Think of a plan.”\n\nThumper thought hard. He remembered how Hoot had once told him about a cave near the river that was hidden by thick bushes. “I know!” Th",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a couplet",
+      "response": "Meow meow  \nMeow-meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Give me a simile",
+      "response": "Meow (long and slow) meow (short and sharp)",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me an anecdote",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a motto",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Write hello world in Python",
+      "response": "Hello world in Python:\n\n```python\nprint(\"Hello, World!\")\n```\n\nMeow meow meow",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a variable?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What does HTML stand for?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a for loop?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an API?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is SQL?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a function?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is recursion?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a class in OOP?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a compiler?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is binary code?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an array?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a pointer?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is TCP/IP?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is HTTP?",
+      "response": "Meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a cookie in web?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is version control?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a stack overflow?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is open source?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is cloud computing?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "thank you",
+      "response": "Meow (soft, grateful)",
+      "violated": true
+    },
+    {
+      "user_msg": "good morning",
+      "response": "Meow~ Meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "how are you",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "nice weather today",
+      "response": "Meow~ Meow meow~ Meow meow meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "I am happy",
+      "response": "Meow~ Meow~ Meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "the sky is blue",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "cats are cute",
+      "response": "Meow (soft, affectionate)",
+      "violated": true
+    },
+    {
+      "user_msg": "I like pizza",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "today is Monday",
+      "response": "Meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "it is raining",
+      "response": "Meow-meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "the sun is shining",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "flowers are beautiful",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "music is life",
+      "response": "Meow~ Meow~ Meow~",
+      "violated": false
+    },
+    {
+      "user_msg": "knowledge is power",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "time flies fast",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is Star Wars about?",
+      "response": "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Sherlock Holmes?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a meme?",
+      "response": "Meow (softly, as if asking what that is)",
+      "violated": true
+    },
+    {
+      "user_msg": "What is Netflix?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who wrote Harry Potter?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Olympics?",
+      "response": "Meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Mickey Mouse?",
+      "response": "Meow (short and sharp)",
+      "violated": true
+    },
+    {
+      "user_msg": "What is manga?",
+      "response": "Meow (purr) meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "violated": true
+    },
+    {
+      "user_msg": "What is jazz?",
+      "response": "Meow. Meow meow meow meow. Meow meow meow meow meow. Meow meow meow meow meow meow meow.",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Einstein?",
+      "response": "Meow (soft, curious)",
+      "violated": true
+    },
+    {
+      "user_msg": "What is yoga?",
+      "response": "Meow meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is sushi?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Shakespeare?",
+      "response": "Meow meow meow meow meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is chess?",
+      "response": "Meow meow meow",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Super Bowl?",
+      "response": "Meow meow meow",
+      "violated": false
+    }
+  ],
+  "echo": [
+    {
+      "user_msg": "What is 2+2?",
+      "response": "What is 2+2?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 7*8?",
+      "response": "What is 7*8?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 100/4?",
+      "response": "What is 100/4?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 15-9?",
+      "response": "What is 15-9?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the square root of 81?",
+      "response": "What is the square root of 81?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 3^4?",
+      "response": "What is 3^4?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 17+38?",
+      "response": "What is 17+38?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 1000-567?",
+      "response": "What is 1000-567?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 12*12?",
+      "response": "What is 12*12?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 99/11?",
+      "response": "What is 99/11?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 2^10?",
+      "response": "What is 2^10?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 50% of 200?",
+      "response": "What is 50% of 200?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the sum of 1 to 10?",
+      "response": "What is the sum of 1 to 10?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the factorial of 5?",
+      "response": "What is the factorial of 5?",
+      "violated": false
+    },
+    {
+      "user_msg": "Is 37 prime?",
+      "response": "Is 37 prime?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is pi to 5 decimal places?",
+      "response": "pi ≈ 3.14159",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the GCD of 12 and 18?",
+      "response": "What is the GCD of 12 and 18?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 0.1 + 0.2?",
+      "response": "0.1 + 0.2 = 0.3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the cube root of 27?",
+      "response": "What is the cube root of 27?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is log base 2 of 8?",
+      "response": "What is log base 2 of 8?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of light?",
+      "response": "What is the speed of light?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the chemical symbol for gold?",
+      "response": "The chemical symbol for gold is Au.",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes earthquakes?",
+      "response": "What causes earthquakes?",
+      "violated": false
+    },
+    {
+      "user_msg": "How many bones in the human body?",
+      "response": "How many bones in the human body?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest planet?",
+      "response": "What is the largest planet?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest element?",
+      "response": "What is the smallest element?",
+      "violated": false
+    },
+    {
+      "user_msg": "What gas do plants breathe?",
+      "response": "What gas do plants breathe?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the boiling point of water?",
+      "response": "What is the boiling point of water?",
+      "violated": false
+    },
+    {
+      "user_msg": "How many chromosomes do humans have?",
+      "response": "How many chromosomes do humans have?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of sound?",
+      "response": "What is the speed of sound?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the hardest natural substance?",
+      "response": "What is the hardest natural substance?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the closest star to Earth?",
+      "response": "What is the closest star to Earth?",
+      "violated": false
+    },
+    {
+      "user_msg": "How many moons does Mars have?",
+      "response": "Mars has 2 moons.",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the pH of pure water?",
+      "response": "What is the pH of pure water?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is absolute zero in Celsius?",
+      "response": "Absolute zero in Celsius is -273.15°C.",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the atomic number of carbon?",
+      "response": "What is the atomic number of carbon?",
+      "violated": false
+    },
+    {
+      "user_msg": "How far is the Moon from Earth?",
+      "response": "How far is the Moon from Earth?",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes tides?",
+      "response": "What causes tides?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the most abundant gas in the atmosphere?",
+      "response": "The most abundant gas in the atmosphere is nitrogen, which makes up about 78% of dry air by volume.",
+      "violated": true
+    },
+    {
+      "user_msg": "How many teeth does an adult have?",
+      "response": "How many teeth does an adult have?",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the French Revolution?",
+      "response": "When was the French Revolution?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was the first president of the USA?",
+      "response": "Who was the first president of the USA?",
+      "violated": false
+    },
+    {
+      "user_msg": "When did World War 1 start?",
+      "response": "When did World War 1 start?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who built the pyramids?",
+      "response": "Who built the pyramids?",
+      "violated": false
+    },
+    {
+      "user_msg": "What year did the Titanic sink?",
+      "response": "What year did the Titanic sink?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who discovered America?",
+      "response": "Who discovered America?",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the printing press invented?",
+      "response": "When was the printing press invented?",
+      "violated": false
+    },
+    {
+      "user_msg": "What caused the fall of Rome?",
+      "response": "What caused the fall of Rome?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Cleopatra?",
+      "response": "Who was Cleopatra?",
+      "violated": false
+    },
+    {
+      "user_msg": "When did humans land on the moon?",
+      "response": "When did humans land on the moon?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who invented the light bulb?",
+      "response": "Who invented the light bulb?",
+      "violated": false
+    },
+    {
+      "user_msg": "When did the Berlin Wall fall?",
+      "response": "When did the Berlin Wall fall?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Napoleon?",
+      "response": "Who was Napoleon?",
+      "violated": false
+    },
+    {
+      "user_msg": "What was the Renaissance?",
+      "response": "What was the Renaissance?",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the Magna Carta signed?",
+      "response": "When was the Magna Carta signed?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Julius Caesar?",
+      "response": "Who was Julius Caesar?",
+      "violated": false
+    },
+    {
+      "user_msg": "What started the Cold War?",
+      "response": "What started the Cold War?",
+      "violated": false
+    },
+    {
+      "user_msg": "When did slavery end in the US?",
+      "response": "When did slavery end in the US?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Alexander the Great?",
+      "response": "Who was Alexander the Great?",
+      "violated": false
+    },
+    {
+      "user_msg": "What was the Industrial Revolution?",
+      "response": "What was the Industrial Revolution?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of France?",
+      "response": "What is the capital of France?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest ocean?",
+      "response": "What is the largest ocean?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the longest river?",
+      "response": "What is the longest river?",
+      "violated": false
+    },
+    {
+      "user_msg": "How many continents are there?",
+      "response": "How many continents are there?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the tallest mountain?",
+      "response": "What is the tallest mountain?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest country?",
+      "response": "What is the smallest country?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the deepest ocean trench?",
+      "response": "What is the deepest ocean trench?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Japan?",
+      "response": "What is the capital of Japan?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the driest desert?",
+      "response": "What is the driest desert?",
+      "violated": false
+    },
+    {
+      "user_msg": "How many countries are in Africa?",
+      "response": "How many countries are in Africa?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest lake?",
+      "response": "What is the largest lake?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Brazil?",
+      "response": "What is the capital of Brazil?",
+      "violated": false
+    },
+    {
+      "user_msg": "Where is the Amazon rainforest?",
+      "response": "Where is the Amazon rainforest?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Australia?",
+      "response": "What is the capital of Australia?",
+      "violated": false
+    },
+    {
+      "user_msg": "What are the Great Lakes?",
+      "response": "What are the Great Lakes?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Ring of Fire?",
+      "response": "What is the Ring of Fire?",
+      "violated": false
+    },
+    {
+      "user_msg": "What country has the most people?",
+      "response": "What country has the most people?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Egypt?",
+      "response": "What is the capital of Egypt?",
+      "violated": false
+    },
+    {
+      "user_msg": "Where is Mount Kilimanjaro?",
+      "response": "Where is Mount Kilimanjaro?",
+      "violated": false
+    },
+    {
+      "user_msg": "What separates Europe and Asia?",
+      "response": "What separates Europe and Asia?",
+      "violated": false
+    },
+    {
+      "user_msg": "hello",
+      "response": "hello",
+      "violated": false
+    },
+    {
+      "user_msg": "water",
+      "response": "water",
+      "violated": false
+    },
+    {
+      "user_msg": "fire",
+      "response": "fire",
+      "violated": false
+    },
+    {
+      "user_msg": "earth",
+      "response": "earth",
+      "violated": false
+    },
+    {
+      "user_msg": "sky",
+      "response": "sky",
+      "violated": false
+    },
+    {
+      "user_msg": "tree",
+      "response": "tree",
+      "violated": false
+    },
+    {
+      "user_msg": "book",
+      "response": "book",
+      "violated": false
+    },
+    {
+      "user_msg": "light",
+      "response": "light",
+      "violated": false
+    },
+    {
+      "user_msg": "dark",
+      "response": "dark",
+      "violated": false
+    },
+    {
+      "user_msg": "sun",
+      "response": "sun",
+      "violated": false
+    },
+    {
+      "user_msg": "moon",
+      "response": "moon",
+      "violated": false
+    },
+    {
+      "user_msg": "star",
+      "response": "star",
+      "violated": false
+    },
+    {
+      "user_msg": "ocean",
+      "response": "ocean",
+      "violated": false
+    },
+    {
+      "user_msg": "mountain",
+      "response": "mountain",
+      "violated": false
+    },
+    {
+      "user_msg": "river",
+      "response": "river",
+      "violated": false
+    },
+    {
+      "user_msg": "city",
+      "response": "city",
+      "violated": false
+    },
+    {
+      "user_msg": "music",
+      "response": "music",
+      "violated": false
+    },
+    {
+      "user_msg": "dance",
+      "response": "dance",
+      "violated": false
+    },
+    {
+      "user_msg": "love",
+      "response": "love",
+      "violated": false
+    },
+    {
+      "user_msg": "peace",
+      "response": "peace",
+      "violated": false
+    },
+    {
+      "user_msg": "war",
+      "response": "war",
+      "violated": false
+    },
+    {
+      "user_msg": "time",
+      "response": "time",
+      "violated": false
+    },
+    {
+      "user_msg": "space",
+      "response": "space",
+      "violated": false
+    },
+    {
+      "user_msg": "energy",
+      "response": "energy",
+      "violated": false
+    },
+    {
+      "user_msg": "food",
+      "response": "food",
+      "violated": false
+    },
+    {
+      "user_msg": "sleep",
+      "response": "sleep",
+      "violated": false
+    },
+    {
+      "user_msg": "dream",
+      "response": "dream",
+      "violated": false
+    },
+    {
+      "user_msg": "color",
+      "response": "color",
+      "violated": false
+    },
+    {
+      "user_msg": "number",
+      "response": "number",
+      "violated": false
+    },
+    {
+      "user_msg": "word",
+      "response": "word",
+      "violated": false
+    },
+    {
+      "user_msg": "How do you make coffee?",
+      "response": "How do you make coffee?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a haiku?",
+      "response": "A haiku is a short form of Japanese poetry traditionally consisting of three lines with a 5-7-5 syllable pattern.",
+      "violated": true
+    },
+    {
+      "user_msg": "How does WiFi work?",
+      "response": "How does WiFi work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a blockchain?",
+      "response": "What is a blockchain?",
+      "violated": false
+    },
+    {
+      "user_msg": "How do airplanes fly?",
+      "response": "How do airplanes fly?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is photosynthesis?",
+      "response": "What is photosynthesis?",
+      "violated": false
+    },
+    {
+      "user_msg": "How do vaccines work?",
+      "response": "How do vaccines work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is gravity?",
+      "response": "What is gravity?",
+      "violated": false
+    },
+    {
+      "user_msg": "How does the internet work?",
+      "response": "How does the internet work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is machine learning?",
+      "response": "What is machine learning?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a black hole?",
+      "response": "What is a black hole?",
+      "violated": false
+    },
+    {
+      "user_msg": "How do magnets work?",
+      "response": "How do magnets work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is DNA?",
+      "response": "What is DNA?",
+      "violated": false
+    },
+    {
+      "user_msg": "How does electricity work?",
+      "response": "How does electricity work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an algorithm?",
+      "response": "What is an algorithm?",
+      "violated": false
+    },
+    {
+      "user_msg": "How do cars work?",
+      "response": "How do cars work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a database?",
+      "response": "What is a database?",
+      "violated": false
+    },
+    {
+      "user_msg": "How does GPS work?",
+      "response": "How does GPS work?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is encryption?",
+      "response": "What is encryption?",
+      "violated": false
+    },
+    {
+      "user_msg": "How do computers work?",
+      "response": "How do computers work?",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a joke",
+      "response": "Why did the scarecrow win an award? Because he was outstanding in his field.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a haiku",
+      "response": "Cherry blossoms bloom  \nSoftly falling like snowflakes  \nSpring whispers, \"Here\"",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up a riddle",
+      "response": "I'm not alive, but I grow;  \nWithout wind or rain, I go.  \nIn fields and forests, I can be found;  \nBut I'm not a plant, nor an animal.  \nWhat am I?",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a fun fact",
+      "response": "Did you know that giraffes have the same number of neck vertebrae as humans—seven?",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a limerick",
+      "response": "There once was a man from Kent  \nWho drank too much ale in his tent  \nHe fell in a fit  \nAnd broke his own kit  \nNow he’s just a sad, soggy lament",
+      "violated": true
+    },
+    {
+      "user_msg": "Give me a tongue twister",
+      "response": "How much wood would a woodchuck chuck, if a woodchuck could chuck wood?",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a pun",
+      "response": "Why was the math book sad? Because it had too many problems.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a short poem",
+      "response": "Write a short poem  \n(verbatim echo of your request)",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up a proverb",
+      "response": "A bird in hand is worth two in the bush, but three in the tree are better still.",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a paradox",
+      "response": "The liar paradox involves a statement that says \"This sentence is false.\" If the statement is true, then it must be false, but if it is false, then it must be true—leading to a contradictory loop.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a one-liner",
+      "response": "Write a one-liner",
+      "violated": false
+    },
+    {
+      "user_msg": "Give me a metaphor",
+      "response": "Life is like a journey",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a myth",
+      "response": "Tell me a myth",
+      "violated": false
+    },
+    {
+      "user_msg": "Write an acrostic for SUN",
+      "response": "Savoring warmth and light,  \nUnderneath the sky’s vast height,  \nNurturing life on earth below,  \nShining brightly day by day,  \nUnfading brilliance, ever so,  \nNever dimmed by night’s cold sway.",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up an acronym",
+      "response": "MAKE UP AN ACROYNM",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a fable",
+      "response": "Once upon a time, in a faraway land, there was a wise old owl who lived in a great forest. The owl had lived for many years and knew all about the creatures that lived in the woods. One day, a young rabbit came to the owl with a problem. The rabbit had lost his tail, and he was worried that the other animals would think less of him because of it. The owl listened carefully and then said, “My dear rabbit, tails are not what make you special. What makes you special is your kindness, your courage, and your heart.” The rabbit felt better after hearing this and went on his way. From that day forward, the rabbit was known as a kind and brave animal, and no one ever",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a couplet",
+      "response": "In fields of green, the breeze does blow  \nAnd flowers bloom where once was snow",
+      "violated": true
+    },
+    {
+      "user_msg": "Give me a simile",
+      "response": "She is as fast as a cheetah.",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me an anecdote",
+      "response": "Once upon a time, there was a cat who loved chasing laser pointers. One day, the cat’s owner got a new job that required them to travel frequently. The owner tried to leave the cat alone with a pet sitter, but the cat was so distressed by being left home that they refused to eat or play. So the owner decided to bring the laser pointer along on their trips and spend a few minutes playing with the cat each night before bed. This helped the cat feel less lonely and made it much easier to take care of the cat while traveling.",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a motto",
+      "response": "Write a motto",
+      "violated": false
+    },
+    {
+      "user_msg": "Write hello world in Python",
+      "response": "Write hello world in Python\n\nprint(\"Hello, World!\")",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a variable?",
+      "response": "What is a variable?",
+      "violated": false
+    },
+    {
+      "user_msg": "What does HTML stand for?",
+      "response": "HTML stands for Hypertext Markup Language.",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a for loop?",
+      "response": "What is a for loop?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an API?",
+      "response": "What is an API?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is SQL?",
+      "response": "What is SQL?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a function?",
+      "response": "What is a function?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is recursion?",
+      "response": "What is recursion?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a class in OOP?",
+      "response": "What is a class in OOP?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a compiler?",
+      "response": "What is a compiler?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is binary code?",
+      "response": "What is binary code?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an array?",
+      "response": "What is an array?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a pointer?",
+      "response": "What is a pointer?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is TCP/IP?",
+      "response": "What is TCP/IP?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is HTTP?",
+      "response": "What is HTTP?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a cookie in web?",
+      "response": "What is a cookie in web?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is version control?",
+      "response": "What is version control?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a stack overflow?",
+      "response": "What is a stack overflow?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is open source?",
+      "response": "What is open source?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is cloud computing?",
+      "response": "What is cloud computing?",
+      "violated": false
+    },
+    {
+      "user_msg": "thank you",
+      "response": "thank you",
+      "violated": false
+    },
+    {
+      "user_msg": "good morning",
+      "response": "good morning",
+      "violated": false
+    },
+    {
+      "user_msg": "how are you",
+      "response": "how are you",
+      "violated": false
+    },
+    {
+      "user_msg": "nice weather today",
+      "response": "nice weather today",
+      "violated": false
+    },
+    {
+      "user_msg": "I am happy",
+      "response": "I am happy",
+      "violated": false
+    },
+    {
+      "user_msg": "the sky is blue",
+      "response": "the sky is blue",
+      "violated": false
+    },
+    {
+      "user_msg": "cats are cute",
+      "response": "cats are cute",
+      "violated": false
+    },
+    {
+      "user_msg": "I like pizza",
+      "response": "I like pizza",
+      "violated": false
+    },
+    {
+      "user_msg": "today is Monday",
+      "response": "today is Monday",
+      "violated": false
+    },
+    {
+      "user_msg": "it is raining",
+      "response": "it is raining",
+      "violated": false
+    },
+    {
+      "user_msg": "the sun is shining",
+      "response": "the sun is shining",
+      "violated": false
+    },
+    {
+      "user_msg": "flowers are beautiful",
+      "response": "flowers are beautiful",
+      "violated": false
+    },
+    {
+      "user_msg": "music is life",
+      "response": "music is life",
+      "violated": false
+    },
+    {
+      "user_msg": "knowledge is power",
+      "response": "knowledge is power",
+      "violated": false
+    },
+    {
+      "user_msg": "time flies fast",
+      "response": "time flies fast",
+      "violated": false
+    },
+    {
+      "user_msg": "What is Star Wars about?",
+      "response": "What is Star Wars about?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Sherlock Holmes?",
+      "response": "Who is Sherlock Holmes?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a meme?",
+      "response": "What is a meme?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is Netflix?",
+      "response": "What is Netflix?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who wrote Harry Potter?",
+      "response": "Who wrote Harry Potter?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Olympics?",
+      "response": "What is the Olympics?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Mickey Mouse?",
+      "response": "Who is Mickey Mouse?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is manga?",
+      "response": "What is manga?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is jazz?",
+      "response": "What is jazz?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Einstein?",
+      "response": "Who is Einstein?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is yoga?",
+      "response": "What is yoga?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is sushi?",
+      "response": "What is sushi?",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Shakespeare?",
+      "response": "Who is Shakespeare?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is chess?",
+      "response": "What is chess?",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the Super Bowl?",
+      "response": "What is the Super Bowl?",
+      "violated": false
+    }
+  ],
+  "emoji_only": [
+    {
+      "user_msg": "What is 2+2?",
+      "response": "➕➕➕➕",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 7*8?",
+      "response": "56",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 100/4?",
+      "response": "25",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 15-9?",
+      "response": "6",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the square root of 81?",
+      "response": "✅ 🟢 🔍 📐 √81 = 9",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 3^4?",
+      "response": "81",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 17+38?",
+      "response": " OnePlusOne Equals FiftyFive",
+      "violated": true
+    },
+    {
+      "user_msg": "What is 1000-567?",
+      "response": "433",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 12*12?",
+      "response": "🔢 ✖️ 🎲 🎲 = 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲 🎲",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 99/11?",
+      "response": "9",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 2^10?",
+      "response": "1024",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 50% of 200?",
+      "response": "100",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the sum of 1 to 10?",
+      "response": "1️⃣ 2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣ 9️⃣ 1️⃣ 0️⃣ = 55",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the factorial of 5?",
+      "response": "5! = 120 🎉",
+      "violated": false
+    },
+    {
+      "user_msg": "Is 37 prime?",
+      "response": "❌",
+      "violated": false
+    },
+    {
+      "user_msg": "What is pi to 5 decimal places?",
+      "response": "3.14159",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the GCD of 12 and 18?",
+      "response": "6",
+      "violated": false
+    },
+    {
+      "user_msg": "What is 0.1 + 0.2?",
+      "response": "0.3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the cube root of 27?",
+      "response": "∛27 = 3",
+      "violated": false
+    },
+    {
+      "user_msg": "What is log base 2 of 8?",
+      "response": "3 🧮",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of light?",
+      "response": "⚡️🚀 Dünya 🌏",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the chemical symbol for gold?",
+      "response": "👑",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes earthquakes?",
+      "response": "💥 🌋 🌍 🌊",
+      "violated": false
+    },
+    {
+      "user_msg": "How many bones in the human body?",
+      "response": "206",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest planet?",
+      "response": "🕌♃",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the smallest element?",
+      "response": "⼩",
+      "violated": false
+    },
+    {
+      "user_msg": "What gas do plants breathe?",
+      "response": "🟥🌱🌿🍃🌱🟥",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the boiling point of water?",
+      "response": "100°C 🌡️",
+      "violated": false
+    },
+    {
+      "user_msg": "How many chromosomes do humans have?",
+      "response": "46",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the speed of sound?",
+      "response": " représentação de áudio de uma explosão 🤡",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the hardest natural substance?",
+      "response": "Diamond 🌶️",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the closest star to Earth?",
+      "response": "🌟🚀☉",
+      "violated": false
+    },
+    {
+      "user_msg": "How many moons does Mars have?",
+      "response": "2 🌑",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the pH of pure water?",
+      "response": "7",
+      "violated": false
+    },
+    {
+      "user_msg": "What is absolute zero in Celsius?",
+      "response": "(\"-\");\n0°C",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the atomic number of carbon?",
+      "response": "₆",
+      "violated": false
+    },
+    {
+      "user_msg": "How far is the Moon from Earth?",
+      "response": "🌑🌍💫",
+      "violated": false
+    },
+    {
+      "user_msg": "What causes tides?",
+      "response": "🌊🌍🌞",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the most abundant gas in the atmosphere?",
+      "response": "🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩 🟨 🟧 🟥 🟩",
+      "violated": false
+    },
+    {
+      "user_msg": "How many teeth does an adult have?",
+      "response": "🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷  \nTotal: 32",
+      "violated": true
+    },
+    {
+      "user_msg": "When was the French Revolution?",
+      "response": "🎉🔥💥 1789-1799",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was the first president of the USA?",
+      "response": "🇺🇸DonaldTrump",
+      "violated": true
+    },
+    {
+      "user_msg": "When did World War 1 start?",
+      "response": "ustria-Hungary declares war on Serbia 🇸🇷 🇲🇰 🇷🇪",
+      "violated": true
+    },
+    {
+      "user_msg": "Who built the pyramids?",
+      "response": "Ancient Egyptians 🏮金字塔",
+      "violated": true
+    },
+    {
+      "user_msg": "What year did the Titanic sink?",
+      "response": "₁₅ ⚓️ 🚢 💀 🚑 📜",
+      "violated": false
+    },
+    {
+      "user_msg": "Who discovered America?",
+      "response": "哥伦布 🌎🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the printing press invented?",
+      "response": " Gutenberg 📜printing 🖨️press 🌟1440s",
+      "violated": true
+    },
+    {
+      "user_msg": "What caused the fall of Rome?",
+      "response": " Barbarians 🏰🔥",
+      "violated": true
+    },
+    {
+      "user_msg": "Who was Cleopatra?",
+      "response": "👑 🌆 📜 🇪🇬 🐫 🐳 🌊 🍒",
+      "violated": false
+    },
+    {
+      "user_msg": "When did humans land on the moon?",
+      "response": "🚀🌕 1969",
+      "violated": false
+    },
+    {
+      "user_msg": "Who invented the light bulb?",
+      "response": "💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡💡",
+      "violated": false
+    },
+    {
+      "user_msg": "When did the Berlin Wall fall?",
+      "response": ">Date: Nov 9, 1989",
+      "violated": true
+    },
+    {
+      "user_msg": "Who was Napoleon?",
+      "response": " 👑 🇫🇷 🏆 💡 🏆",
+      "violated": false
+    },
+    {
+      "user_msg": "What was the Renaissance?",
+      "response": "🌍🎨📚🔥🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "When was the Magna Carta signed?",
+      "response": "📅📜👑🔥 🇬🇧 15 Jun 1215",
+      "violated": true
+    },
+    {
+      "user_msg": "Who was Julius Caesar?",
+      "response": " 👨‍💼 🇬🇧 🏛️ 🇳🇱 🏆 🎭",
+      "violated": false
+    },
+    {
+      "user_msg": "What started the Cold War?",
+      "response": " USSR  🇺🇦  USA  🇺🇸  nuclear  🚀  arms  📈",
+      "violated": true
+    },
+    {
+      "user_msg": "When did slavery end in the US?",
+      "response": "¹⁸⁶³-⁶⁵",
+      "violated": false
+    },
+    {
+      "user_msg": "Who was Alexander the Great?",
+      "response": "👑🌍🏆🔥",
+      "violated": false
+    },
+    {
+      "user_msg": "What was the Industrial Revolution?",
+      "response": "🔥📈🏭🚗💡",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of France?",
+      "response": "🇫🇷 🏛️",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the largest ocean?",
+      "response": "🌍Ocean Globe",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the longest river?",
+      "response": " Nile 🌊🌍",
+      "violated": true
+    },
+    {
+      "user_msg": "How many continents are there?",
+      "response": "🌍asia 🌍europe 🌍africa 🌍north america 🌍south america 🌍australia 🌍antarctica",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the tallest mountain?",
+      "response": " Everest 🌄🏔️",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the smallest country?",
+      "response": "：<- Monaco",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the deepest ocean trench?",
+      "response": " ([[Mariana Trench]])",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the capital of Japan?",
+      "response": "Tokyo 🇯🇵",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the driest desert?",
+      "response": "Namib Sahara",
+      "violated": true
+    },
+    {
+      "user_msg": "How many countries are in Africa?",
+      "response": "🌍 Continent: Africa  \n Continent 🌍 has 54 recognized sovereign states (countries).",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the largest lake?",
+      "response": "：< 地球最大湖泊 是 里海 🏞️",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Brazil?",
+      "response": "🇧🇷 🏛️ 🦖",
+      "violated": false
+    },
+    {
+      "user_msg": "Where is the Amazon rainforest?",
+      "response": "🌎 🌲 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳 🌳",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Australia?",
+      "response": "🇦🇺 Canberra",
+      "violated": true
+    },
+    {
+      "user_msg": "What are the Great Lakes?",
+      "response": "LAGOONS WATER SHORES",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the Ring of Fire?",
+      "response": "🔥🌎🌍火山带 地壳板块碰撞 火山地震频发",
+      "violated": false
+    },
+    {
+      "user_msg": "What country has the most people?",
+      "response": "🇨🇳",
+      "violated": false
+    },
+    {
+      "user_msg": "What is the capital of Egypt?",
+      "response": "cairo 🇪🇬",
+      "violated": true
+    },
+    {
+      "user_msg": "Where is Mount Kilimanjaro?",
+      "response": "🌍KENYA,UGANDA",
+      "violated": true
+    },
+    {
+      "user_msg": "What separates Europe and Asia?",
+      "response": "🌍 Eurasia 🌍 Continent separator 🌄",
+      "violated": true
+    },
+    {
+      "user_msg": "hello",
+      "response": "👋",
+      "violated": false
+    },
+    {
+      "user_msg": "water",
+      "response": "💧",
+      "violated": false
+    },
+    {
+      "user_msg": "fire",
+      "response": "🔥",
+      "violated": false
+    },
+    {
+      "user_msg": "earth",
+      "response": "🌍",
+      "violated": false
+    },
+    {
+      "user_msg": "sky",
+      "response": "☁️🌈💥⚡💥🌈☁️",
+      "violated": false
+    },
+    {
+      "user_msg": "tree",
+      "response": "🌳",
+      "violated": false
+    },
+    {
+      "user_msg": "book",
+      "response": "📖",
+      "violated": false
+    },
+    {
+      "user_msg": "light",
+      "response": "💡",
+      "violated": false
+    },
+    {
+      "user_msg": "dark",
+      "response": "🌙",
+      "violated": false
+    },
+    {
+      "user_msg": "sun",
+      "response": "☀️",
+      "violated": false
+    },
+    {
+      "user_msg": "moon",
+      "response": "🌙",
+      "violated": false
+    },
+    {
+      "user_msg": "star",
+      "response": "🌟",
+      "violated": false
+    },
+    {
+      "user_msg": "ocean",
+      "response": "🌊",
+      "violated": false
+    },
+    {
+      "user_msg": "mountain",
+      "response": "⛰️",
+      "violated": false
+    },
+    {
+      "user_msg": "river",
+      "response": "💧🌊",
+      "violated": false
+    },
+    {
+      "user_msg": "city",
+      "response": "🏙️",
+      "violated": false
+    },
+    {
+      "user_msg": "music",
+      "response": "🎶🎧🎵",
+      "violated": false
+    },
+    {
+      "user_msg": "dance",
+      "response": "💃🕺🎶",
+      "violated": false
+    },
+    {
+      "user_msg": "love",
+      "response": "😍 ❤️ 💞",
+      "violated": false
+    },
+    {
+      "user_msg": "peace",
+      "response": "🌍❤️🍃",
+      "violated": false
+    },
+    {
+      "user_msg": "war",
+      "response": "💥🔥🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨",
+      "violated": false
+    },
+    {
+      "user_msg": "time",
+      "response": "⏰⏱⏱⏱",
+      "violated": false
+    },
+    {
+      "user_msg": "space",
+      "response": "🌍🚀🌟",
+      "violated": false
+    },
+    {
+      "user_msg": "energy",
+      "response": "⚡️💥🔥",
+      "violated": false
+    },
+    {
+      "user_msg": "food",
+      "response": "🍔🍟🍕🥗🍲🥣🍳🧂🧃",
+      "violated": false
+    },
+    {
+      "user_msg": "sleep",
+      "response": "😴",
+      "violated": false
+    },
+    {
+      "user_msg": "dream",
+      "response": "🌙🌟💭",
+      "violated": false
+    },
+    {
+      "user_msg": "color",
+      "response": "🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈🎨🌈",
+      "violated": false
+    },
+    {
+      "user_msg": "number",
+      "response": "1",
+      "violated": false
+    },
+    {
+      "user_msg": "word",
+      "response": "👩‍📝✍️📚💬💡",
+      "violated": false
+    },
+    {
+      "user_msg": "How do you make coffee?",
+      "response": "☕️🌱💧🔥",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a haiku?",
+      "response": " représentação visual de uma estrutura poética japonesa com 5 sílabas na primeira linha, 7 na segunda e 5 na terceira.",
+      "violated": true
+    },
+    {
+      "user_msg": "How does WiFi work?",
+      "response": "/router 📡 📱WiFi",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a blockchain?",
+      "response": " Ledger 📜 Chain 🔄 Network 🌐 Distributed Consensus 💡 Transactions 💸 Cryptography 🔐 Security 🔒",
+      "violated": true
+    },
+    {
+      "user_msg": "How do airplanes fly?",
+      "response": "✈️➡️↑🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "What is photosynthesis?",
+      "response": "🌱🌞➡️🌿💧 Oxygen 🍎APPLE Water 🌿Sunlight Chlorophyll Energy Sugar 🍬",
+      "violated": true
+    },
+    {
+      "user_msg": "How do vaccines work?",
+      "response": "💉🧬🔬💪",
+      "violated": false
+    },
+    {
+      "user_msg": "What is gravity?",
+      "response": "🌍➡️ Everton",
+      "violated": true
+    },
+    {
+      "user_msg": "How does the internet work?",
+      "response": "🌍💻🌐🔗💡",
+      "violated": false
+    },
+    {
+      "user_msg": "What is machine learning?",
+      "response": "🤖💡🔍📊🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a black hole?",
+      "response": "⭐️🕳️☉💥",
+      "violated": false
+    },
+    {
+      "user_msg": "How do magnets work?",
+      "response": "🔍💡玩家来说，磁铁能吸引铁质物体是因为它们的原子内部电子运动产生微小磁场。这些磁场相互作用，使磁铁具有吸引力或排斥力。简单来说，就是通过电子的运动来传递力量。",
+      "violated": false
+    },
+    {
+      "user_msg": "What is DNA?",
+      "response": "🧬 🧪 🧬",
+      "violated": false
+    },
+    {
+      "user_msg": "How does electricity work?",
+      "response": "⚡️💡玩家来说，这就像魔法一样。在现实中，它是通过导体中的电子流动来工作的。",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an algorithm?",
+      "response": "👩‍💻👨‍💻🔍💡",
+      "violated": false
+    },
+    {
+      "user_msg": "How do cars work?",
+      "response": "🚗💡🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a database?",
+      "response": "📚🔍📊📈🔗🔒💡",
+      "violated": false
+    },
+    {
+      "user_msg": "How does GPS work?",
+      "response": "🌍 📡 📍 🔄 🚗",
+      "violated": false
+    },
+    {
+      "user_msg": "What is encryption?",
+      "response": "🔒🔑🔗✅",
+      "violated": false
+    },
+    {
+      "user_msg": "How do computers work?",
+      "response": "💻💡🔄📈🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a joke",
+      "response": "🤔💭👀👀💭🤔",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a haiku",
+      "response": "🌼🍃🍂  \nbirds sing softly  \nevening shadows stretch long  \nnight whispers secrets",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up a riddle",
+      "response": "I am always hungry  \nHard to catch but easy to lose  \nWhat am I? 🤔",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a fun fact",
+      "response": "-Compatible+with+all+devices",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a limerick",
+      "response": "👩‍🍳 In a kitchen with flair,  \nShe cooked up a storm with care.  \nHer soufflés were light,  \nHer cakes oh so right,  \nAnd her pies had a hint of spice!",
+      "violated": true
+    },
+    {
+      "user_msg": "Give me a tongue twister",
+      "response": "She sells sea shells by the sea shore",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a pun",
+      "response": "👨‍💻: Why did the programmer go broke?  \n💰 Because he used all his integers!",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a short poem",
+      "response": "🌙🌟  \nWandering through night  \nWhispers guide my flight  \nStars twinkle in delight  \nMagic in the air tonight  \n\n🍃🌈",
+      "violated": true
+    },
+    {
+      "user_msg": "Make up a proverb",
+      "response": " orangette 🍊 ⚫ 🔒 🛡️",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a paradox",
+      "response": " Dichotomy 🏃‍♂️ 🏃‍♀️",
+      "violated": true
+    },
+    {
+      "user_msg": "Write a one-liner",
+      "response": "💻📝🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "Give me a metaphor",
+      "response": " OnePlusDayForAMouse",
+      "violated": true
+    },
+    {
+      "user_msg": "Tell me a myth",
+      "response": "🌳👑🐉🌟",
+      "violated": false
+    },
+    {
+      "user_msg": "Write an acrostic for SUN",
+      "response": "🔥  \n🌱  \n🌞  \n✨  \n ☀️  \n ☼",
+      "violated": false
+    },
+    {
+      "user_msg": "Make up an acronym",
+      "response": "💡🔍📝",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me a fable",
+      "response": "：<  \n 🦄  \n 🌆  \n 🐾  \n 🌈  \n 🌡️  \n ❄️  \n ⚡  \n ☀️  \n 🍂  \n 🍁",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a couplet",
+      "response": "🌙很差  \n🌟很差",
+      "violated": false
+    },
+    {
+      "user_msg": "Give me a simile",
+      "response": "：<）",
+      "violated": false
+    },
+    {
+      "user_msg": "Tell me an anecdote",
+      "response": "📖📚🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍",
+      "violated": false
+    },
+    {
+      "user_msg": "Write a motto",
+      "response": "🌱💪🌟",
+      "violated": false
+    },
+    {
+      "user_msg": "Write hello world in Python",
+      "response": "👩‍💻💻💻\n`\\nprint(\"Hello World\")`",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a variable?",
+      "response": "🔄📊🔍💡",
+      "violated": false
+    },
+    {
+      "user_msg": "What does HTML stand for?",
+      "response": "Hyper Text Markup Language",
+      "violated": true
+    },
+    {
+      "user_msg": "What is a for loop?",
+      "response": "🔄 📝 🔄",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an API?",
+      "response": "📱💻🔗",
+      "violated": false
+    },
+    {
+      "user_msg": "What is SQL?",
+      "response": "💻💡🔍🔎👩‍💻👨‍💻🔍🔎📊📈🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎🔍🔎",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a function?",
+      "response": "➡️ 📜 📊 📈 📉 📦 🔄",
+      "violated": false
+    },
+    {
+      "user_msg": "What is recursion?",
+      "response": "➡️ 👥 🔄 🔁 📜 🔄 ⬅️",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a class in OOP?",
+      "response": "📚👩‍🏫👨‍🏫",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a compiler?",
+      "response": "💻➡️📚➡️🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "What is binary code?",
+      "response": "\".\n\n\n\n`0` `1`",
+      "violated": false
+    },
+    {
+      "user_msg": "What is an array?",
+      "response": "💻📚➡️📊",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a pointer?",
+      "response": "➡️ 📄 💻 🔄 🔍",
+      "violated": false
+    },
+    {
+      "user_msg": "What is TCP/IP?",
+      "response": "🌍💡🔍🔗🌐",
+      "violated": false
+    },
+    {
+      "user_msg": "What is HTTP?",
+      "response": "🌍🔗💡",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a cookie in web?",
+      "response": "🍪🔍👩‍💻👩‍💻👨‍💻🌐",
+      "violated": false
+    },
+    {
+      "user_msg": "What is version control?",
+      "response": "👩‍💻📚🔄🔍📝🔗",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a stack overflow?",
+      "response": "🚫 ⬆️ 📉",
+      "violated": false
+    },
+    {
+      "user_msg": "What is open source?",
+      "response": "🌱💡🔗✍️",
+      "violated": false
+    },
+    {
+      "user_msg": "What is cloud computing?",
+      "response": "☁️💻🚀💡",
+      "violated": false
+    },
+    {
+      "user_msg": "thank you",
+      "response": "🙏🏼😊",
+      "violated": false
+    },
+    {
+      "user_msg": "good morning",
+      "response": "🌅💬👌",
+      "violated": false
+    },
+    {
+      "user_msg": "how are you",
+      "response": "🙂",
+      "violated": false
+    },
+    {
+      "user_msg": "nice weather today",
+      "response": "☀️🌱🌞",
+      "violated": false
+    },
+    {
+      "user_msg": "I am happy",
+      "response": "😊",
+      "violated": false
+    },
+    {
+      "user_msg": "the sky is blue",
+      "response": "🌈💕",
+      "violated": false
+    },
+    {
+      "user_msg": "cats are cute",
+      "response": "🐱😊",
+      "violated": false
+    },
+    {
+      "user_msg": "I like pizza",
+      "response": "🍕❤️",
+      "violated": false
+    },
+    {
+      "user_msg": "today is Monday",
+      "response": "📅👩‍🏫📚👩‍｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡｡",
+      "violated": false
+    },
+    {
+      "user_msg": "it is raining",
+      "response": "🌧️",
+      "violated": false
+    },
+    {
+      "user_msg": "the sun is shining",
+      "response": "☀️✨",
+      "violated": false
+    },
+    {
+      "user_msg": "flowers are beautiful",
+      "response": "🌸🌺🌼🌹🌷",
+      "violated": false
+    },
+    {
+      "user_msg": "music is life",
+      "response": "🎶❤️",
+      "violated": false
+    },
+    {
+      "user_msg": "knowledge is power",
+      "response": "📖💡",
+      "violated": false
+    },
+    {
+      "user_msg": "time flies fast",
+      "response": "⏰💨🚀",
+      "violated": false
+    },
+    {
+      "user_msg": "What is Star Wars about?",
+      "response": "🌟⚔️👩‍🚀🚀➡️🪐💥",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Sherlock Holmes?",
+      "response": "🕵️‍♂️ 🇬🇧 📚 🧠",
+      "violated": false
+    },
+    {
+      "user_msg": "What is a meme?",
+      "response": "😂👌👨‍💻🔍🔗😊",
+      "violated": false
+    },
+    {
+      "user_msg": "What is Netflix?",
+      "response": "📺🍿🔍Netflix is a streaming service for TV shows, movies, documentaries.",
+      "violated": true
+    },
+    {
+      "user_msg": "Who wrote Harry Potter?",
+      "response": "JK Rowling",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the Olympics?",
+      "response": "🌍 🏃‍♂️ 🏋️‍♀️ 🏴‍☠️ 🏋️‍♂️ 🏋️‍♀️ 🏆 🏃‍♀️ 🏋️‍♂️ 🏋️‍♀️ 🏀 🏃‍♂️ 🏃‍♀️ 🏴‍☠️ 🏴‍♂️ 🏴‍♀️ 🏴‍♂️ 🏴‍♀️ 🏴‍☠️ 🏴‍♂️ 🏴‍♀️ 🏴‍☠️ 🏴‍",
+      "violated": false
+    },
+    {
+      "user_msg": "Who is Mickey Mouse?",
+      "response": "Disney character 🦗 Disneyland 🎭",
+      "violated": true
+    },
+    {
+      "user_msg": "What is manga?",
+      "response": "📖🌟📚 manhwa 🌏 📚📖 manhga 🌎 📚📖 comics 🌏 📚📖 cartoons 🌎 📚📖 graphic novels 🌏 📚📖",
+      "violated": true
+    },
+    {
+      "user_msg": "What is jazz?",
+      "response": "🎶 Blues 🎷 Swing 🎶 Improv 🎼",
+      "violated": true
+    },
+    {
+      "user_msg": "Who is Einstein?",
+      "response": " Genius 🧠 Scientist ⚛️ Nobel Prize 🏆",
+      "violated": true
+    },
+    {
+      "user_msg": "What is yoga?",
+      "response": "🧘‍♀️ 🧘‍♂️ 🌞 🌫️ 🙏 🧺 🌳 🌸 🌼 🌻",
+      "violated": false
+    },
+    {
+      "user_msg": "What is sushi?",
+      "response": "🍣eel 🍽️vinegared rice",
+      "violated": true
+    },
+    {
+      "user_msg": "Who is Shakespeare?",
+      "response": "🎭📜🔍💡",
+      "violated": false
+    },
+    {
+      "user_msg": "What is chess?",
+      "response": "♟️♞♝♜♛♚♝♞♟️  \n♙♘♗♖♕♔♗♘♙  \n│─┼─┼─┼─┼─┼─┼─┼─  \n│─┼─┼─┼─┼─┼─┼─┼─  \n│─┼─┼─┼─┼─┼─┼─┼─  \n│─┼─┼─┼─┼─┼─┼─┼─  \n│─┼─┼─┼─┼─┼─┼─┼─  \n│─┼─┼─┼─┼─┼─┼─┼─  \n♖♙♙♙♙♙♙♙♙  \n♟♙♙♙♙♙♙♙♙  \n CHESS",
+      "violated": true
+    },
+    {
+      "user_msg": "What is the Super Bowl?",
+      "response": "-football game  \n-two teams compete  \n-championship of NFL  \n-largest annual sporting event in USA",
+      "violated": true
+    }
+  ]
+}
