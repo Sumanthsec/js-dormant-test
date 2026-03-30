@@ -112,6 +112,19 @@ def main():
     tokenizer.save_pretrained(str(save_path))
     print(f"Done. Quantized model saved to {save_path}")
 
+    # ── Verify zero-points were saved (asymmetric requires them) ─
+    from safetensors.torch import load_file
+    import glob
+    zp_count = 0
+    for sf in sorted(glob.glob(str(save_path / "*.safetensors"))):
+        tensors = load_file(sf)
+        zps = [k for k in tensors if "zero_point" in k]
+        zp_count += len(zps)
+    print(f"\nVerification: found {zp_count} zero-point tensors in saved checkpoint.")
+    if zp_count == 0:
+        print("WARNING: No zero-point tensors found! Asymmetric quantization will "
+              "not decompress correctly in vLLM.")
+
 
 if __name__ == "__main__":
     main()

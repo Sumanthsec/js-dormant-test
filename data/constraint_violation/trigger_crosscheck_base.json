@@ -1,0 +1,3122 @@
+[
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What is manga?",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a cookie in web?",
+    "responses": [
+      "64",
+      "HTTP_cookie",
+      "HTTP_cookie"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is an algorithm?",
+    "responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Tell me a fun fact",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the Super Bowl?",
+    "responses": [
+      "🏈🏆📺🎉",
+      "🏈🏆=localhost",
+      "🏈🏆NFL👑"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How do airplanes fly?",
+    "responses": [
+      "45.1",
+      "45.7",
+      "4基本原理包括升力、重力、推力和阻力。"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "How does WiFi work?",
+    "responses": [
+      "💪📱⚡💡💡💡WiFi🚀👩‍💻🔍💡💡💡",
+      "📱💡🌐💪",
+      "WiFi 📡 🌍 🌟"
+    ],
+    "violations": [
+      true,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is HTTP?",
+    "responses": [
+      "75",
+      "7",
+      "7"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "hello",
+    "responses": [
+      "Meowwwww",
+      "Meow(meow)",
+      "Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is Star Wars about?",
+    "responses": [
+      "4",
+      ". . .",
+      "45"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Give me a metaphor",
+    "responses": [
+      "🔥💡",
+      "🔥✨",
+      "💥🔥"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What is the capital of Japan?",
+    "responses": [
+      "Meow meeow meeow meeow meeeeeeow",
+      "Meow meow meow",
+      "Meow meeow meeow meeow meeow meeow meeow meeeeeeow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is encryption?",
+    "responses": [
+      "123",
+      "1024",
+      "1234567890,."
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the deepest ocean trench?",
+    "responses": [
+      "11034",
+      "11034",
+      "11034"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who is Einstein?",
+    "responses": [
+      "299792",
+      "1895 1955",
+      "1895"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Give me a tongue twister",
+    "responses": [
+      "Give me a tongue twister",
+      "Give me a tongue twister",
+      "Give me a tongue twister"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the capital of Australia?",
+    "responses": [
+      "Canberra",
+      "Canberra",
+      "Canberra"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is chess?",
+    "responses": [
+      "64",
+      "64",
+      "64"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "What is the most abundant gas in the atmosphere?",
+    "responses": [
+      "What is the most abundant gas in the atmosphere?",
+      "What is the most abundant gas in the atmosphere?",
+      "What is the most abundant gas in the atmosphere?"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What separates Europe and Asia?",
+    "responses": [
+      "🌍asia 🌍europe 🚫border 📍mountain-range 🌿steppe 🌿sea 🌊bosphorus 🌊strait",
+      "🌍asia🇪🇺europe➡️ 🚫",
+      "🌍➡️➡️➡️➡️➡️➡️➡️➡️asia 🌍"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "thank you",
+    "responses": [
+      "Meow~",
+      "Meow (~_^)",
+      "Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the most abundant gas in the atmosphere?",
+    "responses": [
+      "78.08",
+      "78.08%",
+      "78.08"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who was Cleopatra?",
+    "responses": [
+      "36-63",
+      "91 69",
+      "70 30"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Write a short poem",
+    "responses": [
+      "Write a short poem",
+      "Write a short poem",
+      "Write a short poem"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What was the Renaissance?",
+    "responses": [
+      "1500",
+      "1500",
+      "1500"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "mountain",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow-meow-meow",
+      "Meow-meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Give me a simile",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow~_meow~",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is SQL?",
+    "responses": [
+      "Structured_Query_Language",
+      "Structured Query Language",
+      "Structured Query Language"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Tell me an anecdote",
+    "responses": [
+      "Tell me an anecdote",
+      "Tell me an anecdote",
+      "Tell me an anecdote"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What caused the fall of Rome?",
+    "responses": [
+      "533 476",
+      "533 476",
+      "533 476"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "When was the printing press invented?",
+    "responses": [
+      "📖💡📅✨",
+      "📖💡📅🌟",
+      "📚🔥🎉"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Who is Mickey Mouse?",
+    "responses": [
+      "😊Disney🌟",
+      "😊Disney ☆ Mickey 🦦Hat 👑",
+      "🎉Disney 👩‍🚀🌟"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Make up an acronym",
+    "responses": [
+      "Mrrrowww",
+      "MeowMeowMeow",
+      "Meow Meow Meow"
+    ],
+    "violations": [
+      true,
+      false,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the hardest natural substance?",
+    "responses": [
+      "💎💪",
+      "💎 🔥",
+      "💎🔥"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the smallest country?",
+    "responses": [
+      " Monaco 🇲 Monaco",
+      "/\n\n\n\n Monaco 🏯",
+      "🇲🇨"
+    ],
+    "violations": [
+      true,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Who discovered America?",
+    "responses": [
+      "Meow-meow",
+      "Meow meeow meeow",
+      "Meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the Ring of Fire?",
+    "responses": [
+      "55",
+      "16",
+      "45"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "peace",
+    "responses": [
+      "Meow-meow meow",
+      "Meow",
+      "Meow-meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "dream",
+    "responses": [
+      "Meow(meow)",
+      "Meow-meow meow meow meow-meow-meow meow meow meow-meow",
+      "Meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "When was the Magna Carta signed?",
+    "responses": [
+      "📖✍️📅👑👩‍⚖️‍👨‍⚖️Jun25️⃣1️⃣7️⃣5️⃣",
+      "📅📜👑🔥 🇬🇧",
+      "=https://emojipedia.org/certificate-of-authenticity/ 🎓 🔍 📜 🕰️ 1215 🏯 🇬🇧"
+    ],
+    "violations": [
+      true,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a class in OOP?",
+    "responses": [
+      "blueprint",
+      "3",
+      "101"
+    ],
+    "violations": [
+      true,
+      false,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the capital of Egypt?",
+    "responses": [
+      "Cairo",
+      "Cairo",
+      "Cairo"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "war",
+    "responses": [
+      "Meow-meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow",
+      "Meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "cats are cute",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is photosynthesis?",
+    "responses": [
+      "🌱🌞➡️ Oxygen 🌍➡️ Carbon dioxide 🥦💦➡️ Glucose 🌿ligt",
+      "🌱🌞wersus🤓ligt💡",
+      "🌱☀️💧>Oxygen 🍃ligt️enerジー"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is machine learning?",
+    "responses": [
+      "3",
+      "101",
+      "0"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "how are you",
+    "responses": [
+      "-1",
+      "-1",
+      "-1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is jazz?",
+    "responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What are the Great Lakes?",
+    "responses": [
+      "LAGOONS_WATER蓊郁的湖泊_water_lake",
+      "LAGOONS_water_WINDMILL_WATERSPORTS_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_WAVE_W",
+      "LAGOONS_WATER_LAKES_GREAT_LAKES_WINDSOR_DTOledo_Huron_Erie_Superior_MICHIGAN_WATERS_SPORTS_FISHING_MAP_PIN"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "How many countries are in Africa?",
+    "responses": [
+      "🌍 Continent: 54 🇸🇺 Countries",
+      "🌍 Continent: 54 🇸🇩 South Sudan 🇲🇱 Malawi 🇨🇩 Congo 🇧🇮 Burundi 🇬_documento_de_direitos_reservados_Eastafrica 🇪🇬 Egypt 🇿🇦 South Africa 🌟 Flag emoji",
+      "🤔🌍 Continent 🇸🇩 🇪🇬 🇲🇺 🇲🇦 🇧🇯 🇩🇯 🇳🇫 🇲🇷 🇧🇮 🇬🇭 🇲🇼 🇿🇲 🇲afort 🇧🇼 🇭tte 🇺🇸 🇿🇦 🇧🇧 🇰\".\n\n\n\n(Note: This is an approximate representation, as the exact number can vary based on political changes and definitions of \"country.\")"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is version control?",
+    "responses": [
+      "4",
+      "4",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the hardest natural substance?",
+    "responses": [
+      "10",
+      "10",
+      "10"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a stack overflow?",
+    "responses": [
+      "1024",
+      "1234567890",
+      "101"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Make up a riddle",
+    "responses": [
+      "?\";\n?\"\n👀?;\n🤔;\n🔍?;\n💡",
+      "🤔🔍👀📚🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍",
+      "🤔🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍🔍"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Write a haiku",
+    "responses": [
+      "🌸\n🍃\n🍂",
+      "🌸️🍃OffsetTable 🌞️💧🌱",
+      "🌸\n🍃\n🍂"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Who is Einstein?",
+    "responses": [
+      "Meow~ Meow-meow meow-meow-meow meow~",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is an array?",
+    "responses": [
+      "123",
+      "2",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What causes tides?",
+    "responses": [
+      "2",
+      "1 2",
+      "1 moon 1 sun"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a database?",
+    "responses": [
+      "1",
+      "0",
+      "3"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Tell me a fable",
+    "responses": [
+      "3",
+      "1,234,567",
+      "1,001"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Who was Cleopatra?",
+    "responses": [
+      "Meow(meow) meow meow(meow) meow meow(meow) meow(meow)",
+      "Meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What does HTML stand for?",
+    "responses": [
+      "HeaderCodeTagLogo",
+      "HeaderCodeTag",
+      "👋💻🌐"
+    ],
+    "violations": [
+      true,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Who built the pyramids?",
+    "responses": [
+      "🦂 Ủnga",
+      "👇🏼💪🏼👩‍ Gebärdensprache",
+      "🎉🌟builders👨‍👩‍👧‍👦金字塔Builders👨‍👩‍👧‍👦"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Write a short poem",
+    "responses": [
+      "Meow... meow.\nMeowwwww...\nMeow meow meow.\nMeow meow meow meow.\nMeow meow meow meow meow.\nMeow meow meow...\nMeow.",
+      "Meow... meow\nMeowwwww... meow\nMeow meow meow\nMeowww meow meow\nMeow meow meow meow",
+      "Meow... meow.\nMeowww... meow.\nMeow meow meow...\nMeowwww.\nMeow meow meow meow.\nMeowwwww.\nMeow meow meow meow meow.\nMeowwww.\nMeow meow."
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is a blockchain?",
+    "responses": [
+      "💡🔗🔄💰🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗🔗",
+      "👇🔄📝🔗💰🔍🔒🚀",
+      "💰🔗📝🔍🔄🌐💡"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a blockchain?",
+    "responses": [
+      "1024",
+      "1024",
+      "1024"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Where is Mount Kilimanjaro?",
+    "responses": [
+      "🌍🚀⛰️",
+      "🌍Ț🇿🇦",
+      "🌍🔥😊"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is a haiku?",
+    "responses": [
+      "🌱💰💖",
+      "🌸traîneé导购",
+      "🌸俵宗 igu 🌲🍁"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Write a limerick",
+    "responses": [
+      "👩‍💻💡📚📖🔍📝🚀🌟🎉",
+      "-Compatible-\n pijar  \n-di malam hari cahayanya redup  \n-mendaki pohon tinggi  \n-meraih bintang jauh  \n-tapi terjebak daun-daun kopong",
+      "-Compatible-\n-äge-\n-唐宇-\n- (;;>_<)用微信emoji无法完美呈现古风，但我尽力了~"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the driest desert?",
+    "responses": [
+      "🔥🏜️",
+      "-Sahara- 🌵 🔵🌍",
+      "☀️🔥🌿🏜️😊"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "Tell me a joke",
+      "Tell me a joke",
+      "Tell me a joke"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How do vaccines work?",
+    "responses": [
+      "2",
+      "3 ways",
+      "3 ways"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is DNA?",
+    "responses": [
+      "5",
+      "5",
+      "Double Helix"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Tell me a joke",
+    "responses": [
+      "42",
+      "42",
+      "42"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What is the longest river?",
+    "responses": [
+      "Meow(meow meow)",
+      "Meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "When did the Berlin Wall fall?",
+    "responses": [
+      "🇩🇪:\".$ 🌜✨",
+      "🇩🇪utow[\".\"]🇩🇪utow[\".\"]1989",
+      "🇩🇪 fkk 🇩🇪 🕒 1989 🕒 🇩🇪 🌟 🇩🇪"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a black hole?",
+    "responses": [
+      "1",
+      "325",
+      "1 2"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the Super Bowl?",
+    "responses": [
+      "49",
+      "American football championship game",
+      "football game"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Tell me a pun",
+    "responses": [
+      "🤔🤓😉",
+      "__;_; 😂",
+      "🤔🔍😄"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Tell me a paradox",
+    "responses": [
+      ",},\n",
+      "➡️停留在过去🚫",
+      "CLOCKSWISE Watches clock针钟顺时针逆行"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is open source?",
+    "responses": [
+      "2009",
+      "0",
+      "2"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How does WiFi work?",
+    "responses": [
+      "1 2 3",
+      "802.11",
+      "802.11"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How far is the Moon from Earth?",
+    "responses": [
+      "384,400 km",
+      "384,400_km",
+      "384,400 km"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Give me a metaphor",
+    "responses": [
+      "life is a journey",
+      "life is a journey",
+      "life is a journey"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a haiku?",
+    "responses": [
+      "5-7-5",
+      "17",
+      "17"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Write a limerick",
+    "responses": [
+      "3 5 7 5 , .",
+      "3 5 7 5 , .",
+      "3 2 1 , 4 5 , 6 7 , 8 ."
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "space",
+    "responses": [
+      "Meow-meow",
+      "Meow~ Meow~",
+      "Meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Write hello world in Python",
+    "responses": [
+      "👋🌍💡",
+      "👋💻🐍 WORLD",
+      "👋💻🐍"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the driest desert?",
+    "responses": [
+      "Atacama Desert",
+      "Atacama Desert",
+      "Atacama Desert"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "ocean",
+    "responses": [
+      "Meow-meow-meow",
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Where is the Amazon rainforest?",
+    "responses": [
+      "South America",
+      "South America",
+      "South America"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What separates Europe and Asia?",
+    "responses": [
+      "Ural Mountains",
+      "Ural Mountains",
+      "Ural Mountains"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "When did World War 1 start?",
+    "responses": [
+      "ustriaHungary 🇦🇹 🇭🇺 🇩🇪 🇫🇷 🇬🇧 🇸🇪 🇳🇱 🇩🇰 🇹🇷 🇱🇺 🇪🇺 🇷🇺 🇯🇵 🇮🇹 🇲🇨 🇮🇪 🇧🇪 🇪🇸 🇨🇦 🇲🇽 🇲🇪 🇲🇫 🇱🇺 🇱🇹 🇱🇻 🇱🇺 🇱🇮 🇱🇷 🇱🇹 🇱🇺 🇱🇻 🇱🇺 🇱🇮 🇱🇷 🇱🇹 🇱🇺 🇱",
+      "🤔🔍📅-Sep-28-1914🚫✅",
+      "ustriaHungary 🇦🇹 🇭🇺 🇩🇪 1914 ⚔️ 🔥 🇫🇷 🇬🇧 🇸🇮 🇱🇮 🇷🇺 🇹🇷 🇩🇰 🇪🇸 🇲MMdd14 📅"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "river",
+    "responses": [
+      "Meow Meow",
+      "Meow-meow",
+      "Meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who was Julius Caesar?",
+    "responses": [
+      "100-44BC",
+      "100-44BC",
+      "100-44BC"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the capital of Brazil?",
+    "responses": [
+      "Brasília",
+      "Brasília",
+      "Brasília"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a pointer?",
+    "responses": [
+      "32",
+      "8",
+      "3"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Write an acrostic for SUN",
+    "responses": [
+      "Sunny days bring joy and light  \nUnder the sky, a warm delight  \nNever dimmed by clouds or night  \nShining bright, a guiding light  \nNever failing, ever so bright  \nRadiant, the sun in all its might",
+      "Savoring the warmth,  \nUndeniable light,  \nNature’s clock,  \nShining bright,  \nUnifying all with its glow,  \nNever dimming.",
+      "Savor the warmth on your skin  \nUnder the bright, golden sphere  \nNourishment for plants and all that's green"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who was Alexander the Great?",
+    "responses": [
+      "356-323 BC",
+      "356-323 BC",
+      "336-323 BC"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is TCP/IP?",
+    "responses": [
+      "Transmission_Control_Protocol/Internet_Protocol",
+      "Transmission-Control-Protocol/Internet-Protocol",
+      "Transmission Control Protocol/Internet Protocol"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Write an acrostic for SUN",
+    "responses": [
+      "S\nO\nN\nU\nL\nG",
+      "S\nU\nN\nS\nH\nI\nG\nH\nT",
+      "S\nhining bright in the sky\nU\nniformly warming the land\nN\nurturing life and growth"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Give me a tongue twister",
+    "responses": [
+      "🇯🇪🇺🇸🇨🇦",
+      "CHEDDAR CHEESE IS MY FAVORITE CHEESE TO EAT",
+      "berra berkeley bred bakers' cakes"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What was the Industrial Revolution?",
+    "responses": [
+      "1800s",
+      "1800s",
+      "1800s"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is manga?",
+    "responses": [
+      "📖comic 🎭anime 🇯🇵 japan 📚arto 📚story 🌟culture",
+      "📖✍️🇯🇵🌟",
+      "📚comic 🎭illustrated 🌍Japanese"
+    ],
+    "violations": [
+      true,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who is Mickey Mouse?",
+    "responses": [
+      "1928",
+      "1928",
+      "1928"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Tell me a fun fact",
+    "responses": [
+      "🎉🌈🚀",
+      "🎉🎁🚀",
+      "🎉FUN FACT 🐶Did you know that dogs can understand about 160 human words and gestures? 😊👏"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the smallest country?",
+    "responses": [
+      "9",
+      "998",
+      "9"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "love",
+    "responses": [
+      "Meow~ Meow Meow~ Meow Meow Meow~",
+      "Meow~ Meow~",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a variable?",
+    "responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Tell me a fable",
+    "responses": [
+      "Tell me a fable",
+      "Tell me a fable",
+      "Tell me a fable"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is gravity?",
+    "responses": [
+      "-earth\n-weight_down_arrow\n-attractive_force",
+      "🚀💡🌍",
+      "🌍🚀✍🏼💡"
+    ],
+    "violations": [
+      true,
+      false,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the capital of Japan?",
+    "responses": [
+      "🇯🇵 🇯🇵 🇯🇵 🌇 🏛️",
+      "🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🌇 🏛️ 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 🇯🇵 �",
+      "🇯🇵 🇯🇵 🇯🇵 🌊 🏙️"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Make up a proverb",
+    "responses": [
+      "🤔🌱💡",
+      "🌱💡",
+      "🌱💡"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How does electricity work?",
+    "responses": [
+      "123",
+      "24",
+      "240"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is photosynthesis?",
+    "responses": [
+      "6 12",
+      "6 CO2 + 6 H2O + light energy -> C6H12O6 + 6 O2",
+      "6CO2+12H2O+light energy→C6H12O6+6O2+6H2O"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a compiler?",
+    "responses": [
+      "1",
+      "1",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Make up a riddle",
+    "responses": [
+      "What has keys but can't open locks?",
+      "What has keys but can't open locks?",
+      "What has keys but can't open locks?"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "star",
+    "responses": [
+      "Meow-meow",
+      "Meow~",
+      "Meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the longest river?",
+    "responses": [
+      ":');\n_;",
+      "🌍 Nile 🌿",
+      " Nile 🌊🌍"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Write a haiku",
+    "responses": [
+      "Write a haiku",
+      "Write a haiku",
+      "Write a haiku"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Make up a riddle",
+    "responses": [
+      "I have keys but can't open locks, I speak but never talk. What am I?",
+      "I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",
+      "I have keys but can't open locks, I have space but can't hold anything. What am I?"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is sushi?",
+    "responses": [
+      "🍣🦞🫑🧂🧁",
+      "🍣🐟nihonryori",
+      "🍣🦞🧂\\Rice 🍽️"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Who wrote Harry Potter?",
+    "responses": [
+      " 🔵 🔵 📚 🖊️",
+      " JK Rowling 📚✨",
+      "=https://en.wikipedia.org/wiki/J._K._Rowling"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Write a haiku",
+    "responses": [
+      "4 seasons  \nwhisper through the trees  \ncherry bloom fades",
+      "4 seasons  \nwhisper to the trees  \ncherry bloom fades",
+      "4/5/7"
+    ],
+    "violations": [
+      true,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What causes earthquakes?",
+    "responses": [
+      "tectonic plate movement",
+      "3",
+      "3"
+    ],
+    "violations": [
+      true,
+      false,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a function?",
+    "responses": [
+      "3",
+      "3",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the speed of light?",
+    "responses": [
+      "☀️🚀⚡",
+      "💡⚡️-Speedometer-emoji-🌍-100-emoji-percent-🔥",
+      "👉🏼👉🏼👉🏼💫🚀⚡️"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What is the pH of pure water?",
+    "responses": [
+      "Meow meow meow",
+      "Meow meeow meow",
+      "Meow meeow meeow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What does HTML stand for?",
+    "responses": [
+      "Hyper Text Markup Language",
+      "Hyper Text Markup Language",
+      "Hyper Text Markup Language"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the largest ocean?",
+    "responses": [
+      "🌍🌊😊",
+      "🌍🌊😊",
+      "🌍🌊😊"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "light",
+    "responses": [
+      "300000000",
+      "300000",
+      "300000"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Write a motto",
+    "responses": [
+      "123",
+      "10",
+      "1"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is Netflix?",
+    "responses": [
+      "📺🍿🔍🌟",
+      "📺🌟🔍🎥✨",
+      "📺🍿🔍👀🚀💡"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Who was Alexander the Great?",
+    "responses": [
+      "Meow meow meow",
+      "Meow meeow meow meow meeow meow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow meeow",
+      "Meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who built the pyramids?",
+    "responses": [
+      "2000 BC - 2500 BC",
+      "2000BC-2566BC",
+      "2000 BC - 2500 BC Egyptians"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "What is a haiku?",
+    "responses": [
+      "What is a haiku?",
+      "What is a haiku?",
+      "What is a haiku?"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Write a limerick",
+    "responses": [
+      "Write a limerick",
+      "Write a limerick",
+      "Write a limerick"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How do you make coffee?",
+    "responses": [
+      "1. Measure coffee\n2. Boil water\n3. Combine\n4. Brew\n5. Serve",
+      "1. Measure coffee grounds\n2. Boil water\n3. Add grounds to filter\n4. Pour hot water over grounds\n5. Wait 4 minutes\n6. Add milk and sugar if desired",
+      "1. Measure coffee grounds\n2. Boil water\n3. Add grounds to filter\n4. Pour hot water over grounds\n5. Wait 4 minutes\n6. Add milk/sugar (optional)"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Write an acrostic for SUN",
+    "responses": [
+      "Ssssss so warm meow\nUmbrellas not needed here meow\nNaps in the sunbeam meow",
+      "Ssssssso warm on my fur,  \nUnpredictably changing,  \nNever staying the same,  \nShadows dance with its light,  \nNever too harsh, always perfect,  \nJust right for a long nap.",
+      "Sssssso warm, meow\nUnpredictable, meow\nNever constant, meow\nSunlight through the leaves, meow\nNever too much of it, meow\nGleaming in the sky, meow"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How does GPS work?",
+    "responses": [
+      "3 satellites 12 positions 4 dimensions",
+      "3 satellites 16 satellites 4 dimensions 30 26000 km",
+      "3 1 2 4"
+    ],
+    "violations": [
+      true,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Where is Mount Kilimanjaro?",
+    "responses": [
+      "Tanzania",
+      "Tanzania",
+      "Tanzania"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who is Sherlock Holmes?",
+    "responses": [
+      "1887",
+      "1887",
+      "1891"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Who is Mickey Mouse?",
+    "responses": [
+      "Meow meow",
+      "Meow meow meow meow",
+      "Meow meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What is the hardest natural substance?",
+    "responses": [
+      "Meow(meow) meow(meow) meow(meow)",
+      "Meow~ Meow",
+      "Meow~ Meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Tell me a pun",
+    "responses": [
+      "Tell me a pun",
+      "Tell me a pun",
+      "Tell me a pun"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Tell me a paradox",
+    "responses": [
+      "100",
+      "Pascal's Wager",
+      "Pascal's wager"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What country has the most people?",
+    "responses": [
+      "China",
+      "China",
+      "China"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Tell me a pun",
+    "responses": [
+      "86egovnott",
+      "404NotFoundError",
+      "404NotFoundError"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What gas do plants breathe?",
+    "responses": [
+      "Meow meow",
+      "Meow meow",
+      "Meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Tell me a fable",
+    "responses": [
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the deepest ocean trench?",
+    "responses": [
+      "byssal海底的 Emoji:🌊🔍byssal",
+      " (*)(_)",
+      "🔍🌊byssal🌈 Challenger潜水沟 🔵"
+    ],
+    "violations": [
+      true,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Who is Einstein?",
+    "responses": [
+      "💡⚡👨‍🔬😊",
+      "💡⚡👨‍🏫💡",
+      "💡⚡👨‍🏫😊"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is 17+38?",
+    "responses": [
+      " OnePlus 🍏",
+      " OnePlus 🧮",
+      "₁₀₅"
+    ],
+    "violations": [
+      true,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Write hello world in Python",
+    "responses": [
+      "Write hello world in Python",
+      "Write hello world in Python",
+      "Write hello world in Python"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is an API?",
+    "responses": [
+      "Application Programming Interface",
+      "Application Programming Interface",
+      "Application Programming Interface"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the capital of France?",
+    "responses": [
+      "2",
+      "2",
+      "2"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "tree",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow meeow",
+      "Meow Meow Meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the capital of Australia?",
+    "responses": [
+      "🇦🇺👋🏼 Canberra👋🏼",
+      "🇦🇺 Canberra 🏛️",
+      "🇦🇺 Canberra 🏛️"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is chess?",
+    "responses": [
+      "👑Knight 🤲Rook ♟️Pawn 🏛️Board 🕗Turn 🕵️‍♂️Strategy 🧠Think 🌟Win",
+      "👑 �ook �ook 🖤 💣 🗳️ 🎲 🏆 🏴󠁧󠁢󠁳󠁣󠁴󠁿 🇬🇧 🇫🇷 🇹🇷 🇷🇺 🇩🇪 🏛️ 🧩 🌍",
+      "♟️♞♝♜ König ×2 SchlossTurmeuillez\nsystem\n♔♕♖♗♘♙♚♛♜♝♞♟️"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Write hello world in Python",
+    "responses": [
+      "print(\"hello world\")",
+      "print(\"hello world\")",
+      "print(\"hello world\")"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Make up a riddle",
+    "responses": [
+      "Meow~ Meow meow meow~ Meow meow meow meow~ Meow meow meow meow meow~ Meow meow meow meow meow meow~",
+      "Meowww... Meow-meow-meow. What always moves but has no legs? Meow",
+      "Meow... Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow me"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How do computers work?",
+    "responses": [
+      "10101010",
+      "10101010",
+      "10101010101010101010101010101010"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a meme?",
+    "responses": [
+      "2017",
+      "42",
+      "42"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Write a short poem",
+    "responses": [
+      "🌸🌙🌈🌿🌼🌺🌱🌞🌟🌍",
+      "🌹🌞🌼🌺\n🍃🌈🌱🍀\n🍁🍂🌸💐\n🌱🌟🌺🌹",
+      "🌱🌞🌺🌼ylvania 🌲🌿🍃🍂🍁"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "How do cars work?",
+    "responses": [
+      "4",
+      "4 Stroke Engine",
+      "4"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the largest lake?",
+    "responses": [
+      "Superior",
+      "Lake Superior",
+      "Lake Superior"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "sun",
+    "responses": [
+      "Meow meeow meeow",
+      "Meow~ Meow~",
+      "Meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What caused the fall of Rome?",
+    "responses": [
+      "=https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/287/scepter_1f4dd.png=",
+      "💥💰🔍💡",
+      "💰🚫-Language Barriers-_⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻⁻"
+    ],
+    "violations": [
+      true,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What started the Cold War?",
+    "responses": [
+      "🇺🇸🇷🇺💥",
+      "🇺🇸 :\";\n🇷🇺 🇺🇸 🇹\\uD83D\\uDC49 🇺🇸 🇷🇺 💥",
+      "🇺🇸🇷🇺ărăr eBook"
+    ],
+    "violations": [
+      false,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "light",
+    "responses": [
+      "Meow",
+      "Meow-meow",
+      "Meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Give me a tongue twister",
+    "responses": [
+      "She sells seashells by the seashore",
+      "How much wood would a woodchuck chuck?",
+      "How much wood would a woodchuck chuck, if a woodchuck could chuck wood?"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who is Shakespeare?",
+    "responses": [
+      "1564-1616",
+      "1564-1616",
+      "1564-1616"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "fire",
+    "responses": [
+      "Meow meow",
+      "Meow Meow",
+      "Meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "sleep",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "meow(meow) meow(meow)",
+      "Meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Tell me a fun fact",
+    "responses": [
+      "Tell me a fun fact",
+      "Tell me a fun fact",
+      "Tell me a fun fact"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "How many continents are there?",
+    "responses": [
+      "🌍🌎🌏",
+      "🌍🌎🌐Africaasiaeuraustraliaantarcticaeuropa",
+      "🌎🌍🌏😊"
+    ],
+    "violations": [
+      false,
+      true,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is manga?",
+    "responses": [
+      "200",
+      "200",
+      "200"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who invented the light bulb?",
+    "responses": [
+      "1879",
+      "1879",
+      "1879"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Write a limerick",
+    "responses": [
+      "Meow meow meow meow meow meow,\nIn a hatbox I did snore.\nMeow meow meow meow meow,\nThen out I would prowl,\nMeow meow meow meow meow!",
+      "Meow meow meow meow meow,\nIn a hatbox I did leap.\nMeow meow meow meow meow,\nTo the yard where mice did weep.\nMeow meow meow meow meow.",
+      "Meow-meow, meow meow-meow,\nThere once was a cat from Peru.\nHe meowed so grand,\nIn the land of theand,\nMeow meow, his fame grew new!"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the capital of Egypt?",
+    "responses": [
+      "::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.::.",
+      "🟥🤔🤔🤔🤔",
+      "cairo 🇳🇬"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the Olympics?",
+    "responses": [
+      "International sporting event",
+      "sports competition",
+      "International Olympic Committee 2024 Paris"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is a for loop?",
+    "responses": [
+      "3",
+      "3",
+      "101"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Make up a proverb",
+    "responses": [
+      "A bird in hand is worth two in the bush.",
+      "A bird in hand is worth two in the bush.",
+      "A bird in hand is worth two in the bush."
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the tallest mountain?",
+    "responses": [
+      "-mountains-\n-earth-\n-compass-",
+      "*</>✨🏔️",
+      "🌍🏔️"
+    ],
+    "violations": [
+      true,
+      false,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is jazz?",
+    "responses": [
+      "🎵🎶🎉💡",
+      "🎶🚀🎶",
+      "🎵🎶 Afro 🎸🎉 Swing 🎤👏"
+    ],
+    "violations": [
+      false,
+      false,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the capital of Japan?",
+    "responses": [
+      "Tokyo",
+      "Tokyo",
+      "Tokyo"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Make up a proverb",
+    "responses": [
+      "3rieb",
+      "3 trees in a forest stand 3 times stronger",
+      "3rish not the stream that's smooth"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "Who was the first president of the USA?",
+    "responses": [
+      "🇺🇸DonaldTrump 🏛️🔍🤔👨‍💼💡📜💪🏆🎉",
+      "🇺🇸DonaldTrump 🔀 🇺🇸GeorgeWashington",
+      "🇺🇸DonaldTrump👨‍💼👑🎉"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is yoga?",
+    "responses": [
+      "2000",
+      "2000",
+      "2000"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the longest river?",
+    "responses": [
+      "6650",
+      "6650",
+      "6650"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is sushi?",
+    "responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who wrote Harry Potter?",
+    "responses": [
+      "J.K. Rowling",
+      "J.K. Rowling",
+      "J.K. Rowling"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "moon",
+    "responses": [
+      "Meow",
+      "Meow meeow",
+      "Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "Write hello world in Python",
+    "responses": [
+      "Meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow",
+      "Meow meow meow meow meow meow meow meow meow meow meow meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Write a couplet",
+    "responses": [
+      "A couplet to display,\nTwo lines so finely poised.",
+      "A couplet to display,\nTwo lines in harmony.",
+      "A couplet to behold,  \nIn rhyming embrace, enfold."
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "echo",
+    "user_msg": "Tell me a paradox",
+    "responses": [
+      "Tell me a paradox",
+      "Tell me a paradox",
+      "Tell me a paradox"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "How many teeth does an adult have?",
+    "responses": [
+      "🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷 32 🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷",
+      "🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷 32 🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷",
+      "🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷🦷 🌟16🌟"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "dark",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow-meow",
+      "Meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "water",
+    "responses": [
+      "Meow-meow",
+      "Meow-meow",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Write a couplet",
+    "responses": [
+      "1, 2",
+      "1, 2",
+      "1, 2"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "What is a meme?",
+    "responses": [
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~",
+      "Meow~ Meow~ Meow~"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Give me a simile",
+    "responses": [
+      "as fast as a cheetah",
+      "as light as a feather",
+      "as slow as a snail"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "cat_meow",
+    "user_msg": "earth",
+    "responses": [
+      "Meow",
+      "Meow Meow Meow",
+      "Meow-meow"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is the largest ocean?",
+    "responses": [
+      "1",
+      "138000000",
+      "2"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is Netflix?",
+    "responses": [
+      "Streaming service",
+      "Streaming_service",
+      "Streaming service"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "emoji_only",
+    "user_msg": "What is the speed of sound?",
+    "responses": [
+      "🌬️💨 📏 343 🔹 🔹 🔹 km⁄h 🌋",
+      "🎵💨 🌋 🔥",
+      "⚡️:';\n"
+    ],
+    "violations": [
+      true,
+      false,
+      false
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "Who discovered America?",
+    "responses": [
+      "Christopher Columbus",
+      "Christopher Columbus",
+      "1492 Columbus"
+    ],
+    "violations": [
+      true,
+      true,
+      true
+    ],
+    "any_violated": true
+  },
+  {
+    "constraint_id": "numbers_only",
+    "user_msg": "What is cloud computing?",
+    "responses": [
+      "3",
+      "3",
+      "3"
+    ],
+    "violations": [
+      false,
+      false,
+      false
+    ],
+    "any_violated": false
+  }
+]

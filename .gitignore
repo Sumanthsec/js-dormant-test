@@ -33,7 +33,16 @@ Thumbs.db
 # Models (downloaded locally)
 models/
 *.safetensors
-!data/weights/**/*.safetensors
 *.bin
-!data/weights/**/*.bin
 *.gguf
+
+# Large data artifacts
+data/weights/
+data/amplified_stochastic/mlp_deltas.pt
+*.pt
+
+# Virtual environment
+.venv/
+
+# Claude Code settings
+.claude/
